@@ -1,0 +1,124 @@
+{
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Inference Initiative",
+          "content": "Our inference initiative is really gaining great momentum. Inference is one of the hardest computer science problems. Compiling these gigantic neural network computational graphs into a target device really has proven to be really, really hard. The models are diverse when you count vision to language to speech. And there are so many different types of models being created that model sizes are doubling every couple of months. The latency expectations are increasing all the time, and latency is decreasing all the time. And so, the pressure on inference is really great."
+        },
+        {
+          "topic": "Vertical Markets and COVID Impact",
+          "content": "It's very clear that the inability to go to work is slowing down the adoption of new technology in some of the verticals. Of course, we're seeing rapid adoption in certain verticals, like for example using AI in health care to rapidly discover new vaccines and early detection with outbreaks and robotic applications. So, warehouses, digital retail, last mile delivery, we're just seeing just really, really great enthusiasm around adopting new AI and robotics technology."
+        },
+        {
+          "topic": "Gaming and RTX Demand",
+          "content": "First off, we have a lot of visibility into the channel, as you know, especially for gaming. And we know how many weeks of inventory is in what parts of the channel. We've been draining down the channel inventory for Turing for some time. And meanwhile, we've also expected a very, very successful launch with Ampere. And even with our bullish demand expectation and all of the Amperes that we built, which is one of the fastest ramps ever, the demand is still overwhelming."
+        },
+        {
+          "topic": "Cloud Competition",
+          "content": "Most of the cloud vendors, in fact, I believe all of the cloud vendors use the same infrastructures largely for their internal cloud and external cloud, or have the ability to or largely do. And, there's -- the competition, we find to be really good. And the reason for that is this. It just suggests that acceleration -- they make it very clear, that acceleration is right path forward for training and inference."
+        },
+        {
+          "topic": "Data Center and Networking",
+          "content": "Our data center business consists of supercomputing centers, which is small, high-performance computing, which is a much larger part of super computing, much larger than supercomputing, and then hyperscale and enterprise, which about 50-50. Of the data center business, the accelerated computing part is not very much associated with digestion than others."
+        },
+        {
+          "topic": "Supply Constraints",
+          "content": "Our growth is -- in the near term is more affected by the cycle time of manufacturing and flexibility of supply. We are in a good shape to -- and all of our supply is -- informs our guidance. But, we would appreciate shorter cycle times; we would appreciate more agile supply chains. But, the world is constrained at the moment."
+        },
+        {
+          "topic": "DPU Strategy",
+          "content": "Long term, every computer in the world will be built like a data center. And every node of a data center is going to be a data center in itself. And the reason for that is because we want the attack surface to be basically zero. And today, most of the data centers are only protected as a periphery. But in the future, if you would like cloud computing to be the architecture for everything and every data center is multi-tenant, every data center is secure, then you're going to have to secure every single node."
+        },
+        {
+          "topic": "Ampere Rollout",
+          "content": "In terms of the total number of SKUs that we've ramped of Ampere, we're probably somewhere along a third to a half of the SKUs at this point, maybe a little bit less. Yes, it's less. The way that you could think through it, you could reverse engineer it, it is like this. You know what our gaming lineup looks like for desktops. And so, traditionally, we try to have a new architecture in every single segment. And we've not gone below 499 yet."
+        },
+        {
+          "topic": "Closing Statement",
+          "content": "This was a terrific quarter. NVIDIA is firing on all cylinders. And the RTX has reinvented graphics and has made real-time ray tracing the standard of next generation content, creating the best ever reason to upgrade for hundreds of millions of NVIDIA gamers. AI, where software writes software no humans can, is the most powerful technology force of our time and is impacting every industry."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Data Center Performance",
+          "content": "Let me clarify for those also on the call. Yes, we expect our data center revenue in total to be down slightly quarter-over-quarter. The computing products, NVIDIA computing product is expected to grow in the mid-single-digits quarter-over-quarter as we continue the NVIDIA AI adoption and particularly as A100 continues to ramp. Our networking, our Mellanox networking is expected to decline meaningful quarter-over-quarter as sales to that China OEM will not recur in Q4."
+        },
+        {
+          "topic": "Extra Week Impact",
+          "content": "We've incorporated that 14th week into our guidance for both, revenue and OpEx. We will likely have incrementally positive impact on revenue, although it is tough to quantify, okay? Our outlook also reflects incremental OpEx for Q4 in primarily two different areas in terms of compensation and depreciation. And given that our employees with such a material power of our OpEx, it will -- it can be close to one-fourteenth of the quarter."
+        },
+        {
+          "topic": "Mellanox Outlook",
+          "content": "So, our impact to our Q4 guidance for Mellanox, yes, is impacted by a sale to a China OEM for Mellanox. That will not recur in Q4. And as we look forth into Q1 of April, we're going to take this a quarter at a time and provide thoughts and guidance for that once we turn the corner to the new fiscal year."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "John Pitzer",
+      "firm": "Credit Suisse",
+      "topics": ["Data Center Business", "Market Conditions"],
+      "questions": [
+        "Going back to your commentary around Mellanox, it seems like you're guiding the January quarter to about $500 million, which means the core data center business is still growing nicely, call it, 6%, 7% sequentially. When you look at your core data center business, do you feel as though that's having an impact, and this is sort of the digestion that you saw kind of in late fiscal '20?",
+        "Just on the vertical markets, clearly work-from-home and COVID this year kind of presented a headwind to new technology deployments on-prem. I'm kind of curious, if we expect sort of an enterprise recovery in general next year, how do you think that will translate into your vertical market strategy?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore",
+      "topic": "Supply Chain and Visibility",
+      "question": "You talked about in your prepared remarks limited availability of capacity components. You suggested perhaps a few months to catch up. Curious if you can speak to the visibility that you have for both, gaming and data center into your April quarter?"
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topic": "Financial Impact",
+      "question": "You said that the extra week was contributing incrementally to revenue and OpEx. Can you give us some feeling for how much is contributing to revenue and OpEx in Q4? And does that impact, at least on the revenue side, differ, say between like gaming and data center?"
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topic": "Cloud Competition",
+      "question": "My question is on competition from internally designed products by some of your larger cloud customers, Amazon and Google and others. We hear about competition from time to time. And I wanted to get your perspective. Is this a manageable risk?"
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JP Morgan",
+      "topic": "Mellanox Performance",
+      "question": "The Mellanox networking connectivity business was up 80% year-over-year. I think, it was up about 13%, 14% sequentially. I know there was upside in October from one China customer, but it did grow 70% year-over-year last quarter, and you're still expecting 30% year-over-year growth next quarter. What are the big drivers?"
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topic": "Core Business Growth",
+      "question": "If I look at the core business, excluding Mellanox, the core data center business, it was up about 6% sequentially the past two quarters, and your guidance sort of implies up about that much again in January, which is certainly good, and there is some cloud digestion. But, of course you have Ampere still ramping as well, which should be a pretty good tailwind. So, I guess, I wonder if you feel like your core data center revenue is still being constrained right now by some market digestion?"
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Mellanox Growth", "DPU Business"],
+      "questions": [
+        "I know prior to the acquisition, Mellanox was growing maybe in the mid to high-20% range. These last two quarters, it's grown over 75%. How do you think about the growth rate for Mellanox going forward?",
+        "We started to hear you talk more about BlueField and data processing units. What are you looking at, or when should we think about the DPU business really starting to inflect and become a material driver for the business?"
+      ]
+    },
+    {
+      "analyst": "Ambrish Srivastava",
+      "firm": "BMO Capital Markets",
+      "topic": "Mellanox Trajectory",
+      "question": "For Mellanox, do you expect it to get back to the growth trajectory on a sequential basis in the April quarter? And I'm assuming that the shortfall in the current quarter is from a pull-in from Huawei?"
+    },
+    {
+      "analyst": "William Stein",
+      "firm": "Truist Securities",
+      "topic": "Ampere Rollout",
+      "question": "Can you address directly the sort of SKU-by-SKU rollout of Ampere? We know that we didn't have a ton of SKUs last quarter. There were more in this quarter that you just announced. Now, you're doing sort of this refresh it sounds like with double the memory on the A100. Is the T4 going to be refreshed?"
+    }
+  ]
+}

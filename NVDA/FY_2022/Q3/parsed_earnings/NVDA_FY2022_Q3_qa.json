@@ -1,0 +1,116 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2022",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Omniverse Success and Subscription Model",
+          "content": "Omniverse success will be defined by, number one, developer engagement, connecting with developers around the world; two, applications being developed by enterprises; three, the connection -- designers and creators among themselves. Those are the nearest term -- and I would say that in my type of definition, etc. Near term also, it should be revenues and Omniverse has real immediate applications as I demonstrated at the keynote and I'll highlight a few of them right now. One of them, of course, is that it serves as a way to connect 3D and digital design world. Think of Adobe as a world, think of the Autodesk as a world, think of Revit as a world. These are design world in the sense that people are doing things in it, they are creating things in it and they have to run database. We made it possible for these worlds to be connected for the very first time and for it to be shared like in cloud documents. That's not been possible ever before and we can now share work with each other, you can see each other's work, you can collaborate. And so in the world of remote working, Omniverse's collaboration capability is going to be really appreciated and that should happen right away. We would like to see that happen in very near term. And that drives of course, more PC sales, more GPU sales, more workstation sales, more server sales. The second use case is digital twins. And we show in these following examples of how several companies using Omniverse to create a digital twin of a city so that they could optimize radio placements and radio energy used for beamforming. You saw BMW using it for their factories. You're going to see people using it for warehouse, logistics warehouse to plan and to optimize their warehouses and deploying the robots. And so digital twin applications are absolutely immediate. And then remember, robots has several clients. There is the physical robot that you saw and a physical robot would be a self-driving car and physical robots would be the car itself, turning it into a robot, so that it could be an intelligent assistant. But I demonstrated probably the -- in my explanation, the largest application of robots in the future and its avatars. We built Omniverse Avatars to make it easy for people to integrate some amazing technology for computer vision, for speech recognition, natural language understanding, gesture recognition, facial animation and speech synthesis, recommender systems, all of that integrated into one system and running in real time. That Avatar system is essentially a robotic system and the way that you use that is, for example, with $25 million or so retail stores, restaurant, places like airports and train stations, office buildings and such, where you're going to have intelligent Avatars doing a lot of assistance. They might be doing check out, they might be doing check in, they might be doing customer support and all of that can be done with Avatars, as I've demonstrated. So the virtual robotics application, digital buys of Avatars, it is going to be likely the largest robotics opportunity. So if you look at our licensing model, the way it basically works is that inside Omniverse is one of the main users and the main users could be one of the 20 million creators or 20 million designers and the 40 million creators and designers around the world and they share Omniverse, each one of the main users would be a $1,000 per user per year. But don't forget that intelligent use or intelligent users that have been connected through Omniverse will likely be much larger as digital buyers than humans. So I mentioned 40 million, but there are 100 million cars. And these 100 million cars will have the capability to have something like in Omniverse Avatar and so those 100 million cars could be $1,000 per car per year. And in the case of the 25 million or so places where you would have a digital avatar as customer support or check out smart retail or smart warehouses or smart whatever it is, those avatars also would each individually be a new account and so they would be $1,000 per Avatar per year. And so those are the immediate tangible opportunities for us and I demonstrate the applications in related keynotes. And then of course behind all of that, call it a couple of hundred million digital agents, intelligent agents, some of them humans, some of them robots, some of them Avatars adds $1,000 per agent per year. Behind it are, NVIDIA GPUs in PC, NVIDIA GPU in cloud, and NVIDIA GPUs in Omniverse servers. And my guess would be that the hardware part of it is probably going to be about half and then the licensing part of it is probably about half of the time. So this is really going to be one of the largest graphics opportunities that we've ever seen. And the reason why it's taken so long for us to manifest is because it requires three fundamental technologies to come together, I guess four fundamentals technologies to come together. First of all, it's video graphic; second is physics simulation, because we're talking about things in world that has to be believable, so it has to obey the laws of physics; and then third is artificial intelligence, as I demonstrated and illustrated just now. And all of it runs on top of an Omniverse computer that has to do not just AI, not just physics, not just computer graphics, but all of it. And so long term why people are so excited about it is, at the highest level what it basically means is that that long-term when we engage in that, which is largely 2D today, long-term every query would be 3D and instead of just querying information, we would query and interact with people and Avatars and things and places and all of these things are in 3D. So hopefully one of these days that we will probably realize it as fast as we can every transaction that goes on to internet touches a GPU and today that's a very small percentage, but hopefully one of these days it will be a bit of a high percentage. So I hope that's helpful."
+        },
+        {
+          "topic": "Accelerated Computing and Market Opportunities",
+          "content": "Chips are enablers, but chips don't create markets, software creates market. At this point, I explain over the years that accelerated computing is very different than general purpose computing and the reason for that is because you can't just write into compiler and compile quantum physics into a chip. I mean, it doesn't. You can't just compile Schrodinger's equation and have it distributed across multiple GPUs, multiple nodes and have a new SaaS. You just -- you can't do that for computer graphics, you can't do that for artificial intelligence, you can't do that for robotics, you can't do that for the most of the interesting applications in the world and because we really run out of steam with GPUs and that people are saying that not because it's not true, it is abundantly clear that the amount of instruction in parallel that you can squeeze out of a system is although not zero is incredibly hard, it's just incredibly hard. And there is another approach and we have been advocating accelerated computing for some time and now people really see the benefit of it, but it does requires a lot of work and yet the work basically says for every domain, for every application we have -- for every application in large domain that you'll use, you have to have a whole stack. And so whenever you want to open a new market by accelerating those applications or that domain of applications, you have to come up with a new stack and the new stack is hard, because you have to understand the application, you have to understand the algorithms, the mathematics, you have to understand computer science to distribute it across, to take something that was single threaded and make it multi-threaded and make something that we've done sequentially and make it process in parallel. You break everything, you break storage, you break networking, you break everything. And so it takes a fair amount of expertise and that's why we're saying that over the years, over the course of 30 years we have become a full-stack company, because we've been trying to solve this problem practically through decades. And so that's one. But the benefit, once you have the ability, then you can open new markets and we played a really large role in democratizing artificial intelligence and making it possible for anybody to be able to do it. Our greatest contribution is I hope when it's all said and done that we democratized scientific computing, so that researchers and scientists, computer scientists, data scientists, scientists of all kinds were able to get access to this incredibly powerful tool that we call computers to do advance research. And so every single year we're coming up with new stacks and we got a whole bunch of stacks we are working on and many of them are working on in plain sight, so that you see it coming, you just have to connect it together. One of the areas that we spoke about this time, of course, was Omniverse and you saw the pieces of it being built over time, and it took half a decade to start building Omniverse, but it built on a quarter century of work. In the case of the Omniverse Avatar, you could literally point to MERLIN, the recommender; Megatron, the language -- large language model; Riva, the speech AI, all of our computer vision AIs that have been demonstrating over the years, natural speech synthesis that we see every single year with I AM AI the opening credits, how we're using, developing an AI to be able to speak in a human way so that people feel more comfortable and more engaged with the AI. Face, eye tracking, Maxine and all of these technologies are connected together. They were all built in pieces, but we integrated it, we have the intentions of integrating it and to create what it's called Omniverse Avatar. And now you asked the question, how quickly will we deploy this? I believe Omniverse Avatar will be in drive-thrus and restaurants, fast food restaurants, check out with restaurants, in retail stores, all over the world within less than five years. And we're going to need it in all kinds of different applications, because there is such a great shortage of labor and there is such a wonderful way that you can now engage in Avatar and it could -- it doesn't make mistakes, it doesn't get tired and it's always on and we made so that it's cloud native and so when you saw the keynote, I hope you'd agree that the interaction is instantaneous and the conversational forum is so enjoyable. And so anyway, I think what you highlight is, one, accelerated computing is a full-stack challenge. Two, it takes software to open new markets. Chips can't open new markets. If you build another chip, you can steal somebody's share, but you can't open new market and it takes software to open new market. NVIDIA switch with software, and that's one of the reasons why we could integrate such large market opportunities. And then last with respect to Omniverse, I believe it's a near-term opportunity that we've be working on for some three, four, five years."
+        },
+        {
+          "topic": "Data Center Growth and AI Platforms",
+          "content": "We are seeing accelerated -- as we've already reported that we have record revenues in both hyperscale cloud and industrial enterprise this last quarter. And we're seeing accelerated growth. The exploration in hyperscale and cloud comes from the transitioning of the cloud services providers in taking their AI applications, which are now heavily deep learning-driven into production. Number one, Ampere GPU, which is now a universal GPU for AI, for training, but incredibly good for [Indiscernible] it's terrific and its throughput, it's terrific, and it's a fast response client as well. And therefore, the cost of deployment, the cost of operating the AI applications is the lowest. The second is the introduction of TensorRT, which is our optimizing compiler that makes it possible for us to compile and optimize any AI application to our GPUs. And whether its computer vision or natural language understanding conversational AI, recommender systems, the type of applications that are deploying AIs is really quite vast. And then lastly, this software Inference server that we offer is called Triton, which supports every one of our GPUs. It supports CPU s as well as GPUs still. So every internet service provider could operate their entire data center using Triton."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Sequential Growth Guidance",
+          "content": "I guess we're providing the guidance for Q3 of 6.8 billion in revenue. Now excluding CMP, we expect our revenue to grow over 500 million sequentially. A lion's share of that sequential revenue increase will be coming from Data Center. We do expect gaming to be up slightly on a sequential basis but remember we are still supply constrained. Automotive and ProBiz are also expected to be up slightly quarter-over-quarter. And from the CMP perspective, we'll probably just have minimal amounts in Q3."
+        },
+        {
+          "topic": "Gaming Supply Constraints",
+          "content": "Our supply constraint in our gaming business is largely attributed to our desktop and notebook. That can mean a lot of different things from our components that are necessary to build so many of our products. But our mix is really important. Our mix as we are also seeing many of our gamers very interested in our higher-end, higher performance products. We will continue to see that as a driver about overall lifts both our revenue and can lift our overall gross margins."
+        },
+        {
+          "topic": "Data Center Business Mix",
+          "content": "So far with our Data Center business, with our Q2 results, our vertical industry is still quite a strong percentage. Essentially, 50% of our data center business is going to our vertical industries. Our Hyperscale makes up the other portion of that, slightly below the 50%. And then we also have our supercomputing business with a very small percentage of it doing quite, quite well. As we move into Q3, as we've discussed, we will see an acceleration of both our vertical industries and our Hyperscales as we move into Q3."
+        },
+        {
+          "topic": "Supply Purchases and Growth Planning",
+          "content": "Okay. Thanks, Stacy, for the question. Let's first focus in terms of our guidance for Q4. Our statements that we made were, yes, about driven by revenue growth from Data Center and Gaming sequentially. We can probably expect our Data Center to grow faster than our Gaming, probably both in terms of percentage wise and in absolute dollars. We also expect our CMP product to decline quarter-on-quarter to very negligible levels in Q4. So I hope that gives you a color on Q4. Now in terms of next year, we'll certainly turn the corner into the new fiscal year. We certainly provide guidance one quarter out. We've given you some great discussions here about the opportunities in front of us, opportunities with the hyperscales, the opportunities with the verticals. Omniverse is a full stack opportunity in front of us. We are securing supply for next year, not just for the current year and Q4, to allow us to really grow into so much of this opportunity going forward. But at this time, we're going to wait until next year to provide guidance."
+        },
+        {
+          "topic": "Gross Margin Headwinds",
+          "content": "Yes. So we have always been working on our gross margin and being able to absorb a lot of the cost changes along the way, architecture-to-architecture really. So that's always based into our gross margin. Our gross margins right now are largely stable. Our incremental revenue, for example, what we're expecting next quarter will likely align to our current gross margin levels that we finished in terms of Q3. Our largest driver always continues to be mix. We have a lot of different mix that has driven related to the high-end AI and RTX solutions, for example, and the software that is embedded in solutions have allowed us to increase our gross margin. As we look forward long-term, software if sold separately can be another driver of gross margin increases in the future. But cost changes, cost increases are -- generally been a part of our gross margin figures."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Omniverse"],
+      "questions": [
+        "How do you define success in Omniverse as we look out over the next, let's call it, 12 months and how do we think about the subscription license opportunity for Omniverse. I know you've talked about $40 million total 3D designers, I think that actually doubled what you talked about back in August. So I'm just curious of how we at finance line should probably think about that opportunity materializing?"
+      ]
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topics": ["Omniverse Avatar"],
+      "questions": [
+        "How close is your Omniverse Avatar to morphing into like a mass market technology that everybody uses daily? You talk about like -- you said that everybody is going to be a gamer, everybody is going to be a Omniverse Avatar user. And maybe the bigger picture is, is it reasonable to think about new killer app coming out every year? Is there a parallel that we should think about with previous computing markets that we could think about for the computing area that we're entering right now?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topics": ["Data Center Visibility", "Omniverse"],
+      "questions": [
+        "Can you speak to your Data Center visibility into 2022 and beyond? And within this outlook, can you talk to traditional cloud versus industry verticals and then perhaps emerging opportunities like Omniverse and others? Would love to get a sense of kind of what you're seeing today. And then as part of that, how you're planning to secure foundry and other supply to support that growth?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topics": ["Data Center Growth"],
+      "questions": [
+        "On the near-term, Colette, you suggested guidance in the Q4 be driven by Data Center and gaming and you mentioned data center first. Does that mean that it's bigger? If you could just help us like parse the contribution of each into Q4?",
+        "In the next year, given the commentary for the last question, again it sounds like you've got like a very strong outlook for Data Center both from hyperscale and enterprise. If I look at sort of the implied guidance you gave, Data Center for you is probably likely to grow 50% year-over-year in this fiscal year. Would it be crazy to think given all the drivers that it could grow by a similar amount next year as well? Like, how should we be thinking about that given all of the drivers that you've been laying out?"
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topics": ["Data Center Growth", "Enterprise Software"],
+      "questions": [
+        "I guess near-term you mentioned the possibility of accelerating data center growth from the 35% rate. I was hoping if you could give us some more color around that confidence and visibility.",
+        "We've seen a lot of announcements from NVIDIA about your Enterprise software opportunity. I honestly don't know how to model that. It sounds very promising, but how should we model it? What problem are you trying to solve? Is it cannibalizing demand you might have otherwise seen from your public Cloud customers, or is this incremental to growth?"
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Gross Margin", "Data Center Visibility"],
+      "questions": [
+        "Are there any margin headwinds maybe on the wafer pricing side that we should sort of think about normalizing out, because gross margin is pretty flat between fiscal Q2 and fiscal Q4. But I imagine that's kind of masking a strong underlying margin growth, especially as Data Center has been actually driving that growth.",
+        "When do you think that they'll ease?",
+        "How should we think about gaming into the January quarter vis-a-vis typical seasonality, given -- I would assume you would continue to be supply constrained?"
+      ]
+    },
+    {
+      "analyst": "Silgan Stein",
+      "firm": "[Indiscernible]",
+      "topics": ["Omniverse"],
+      "questions": [
+        "Jensen, I'm wondering if you can talk for a moment about Omniverse. This looks like really cool technology, but I tend to get very few questions from investors about it, but It looks to me like this could be a potentially very meaningful technology for you longer-term. Can you explain perhaps what capabilities and what markets this is going after? It looks like, perhaps this is going to position you very well in augmented and virtual reality, but maybe it's a different market or group of markets."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-11T21:49:43.024741",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2019",
+  "total_revenue": {
+    "value": 2.21,
+    "unit": "billion",
+    "context": "Q4 revenue, down 24% YoY and up 1% sequentially, in line with pre-announcement.",
+    "period": "Q4"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 0.954,
+        "unit": "billion",
+        "context": "Gaming segment revenue for Q4, down 45% YoY and down 46% sequentially.",
+        "period": "Q4"
+      },
+      "growth_yoy": -45.0,
+      "growth_qoq": -46.0,
+      "key_points": [
+        "Full year gaming revenue was $6.25 billion, up 13% YoY.",
+        "Decline driven by post-crypto GPU inventory, deteriorating macroeconomic conditions in China, and lower sales of high-end Turing GPUs.",
+        "Normalized desktop gaming revenue run rate is approximately $900 million per quarter.",
+        "Notebook gaming and gaming consoles averaged $500 million per quarter.",
+        "Normalized gaming business revenue run rate is approximately $1.4 billion per quarter.",
+        "Launched GeForce RTX 2060 at $349, delivering 60% performance improvement over GTX 1060.",
+        "Announced 40+ new Turing-based gaming laptops, more than double the previous year."
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 0.679,
+        "unit": "billion",
+        "context": "Data center segment revenue for Q4, up 12% YoY and down 14% sequentially.",
+        "period": "Q4"
+      },
+      "growth_yoy": 12.0,
+      "growth_qoq": -14.0,
+      "key_points": [
+        "Full year data center revenue was $2.93 billion, up 52% YoY.",
+        "Q4 sales decline was broad-based across verticals, markets, and geographies.",
+        "Hyperscale and cloud purchases declined sequentially and YoY.",
+        "Launched RAPIDS, a CUDA acceleration stack for data analytics and machine learning.",
+        "Google Cloud announced NVIDIA T4 Tensor Core GPUs availability in multiple regions.",
+        "Inference currently drives less than 10% of data center business but represents significant market opportunity."
+      ]
+    },
+    {
+      "name": "Pro Visualization",
+      "revenue": {
+        "value": 0.293,
+        "unit": "billion",
+        "context": "Pro Visualization segment revenue for Q4, up 15% YoY and down 4% sequentially.",
+        "period": "Q4"
+      },
+      "growth_yoy": 15.0,
+      "growth_qoq": -4.0,
+      "key_points": [
+        "Full year Pro Visualization revenue was $1.13 billion, up 21% YoY.",
+        "Growth driven by data science, AI, VR, and thin and light mobile workstations.",
+        "Announced Quadro RTX workstation with significant GPU upgrade in 10 years."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.163,
+        "unit": "billion",
+        "context": "Automotive segment revenue for Q4, up 23% YoY and down 5% sequentially.",
+        "period": "Q4"
+      },
+      "growth_yoy": 23.0,
+      "growth_qoq": -5.0,
+      "key_points": [
+        "Full year automotive revenue was $641 million, up 15% YoY.",
+        "Announced DRIVE AutoPilot, the world's first commercially available level two plus self-driving car computer.",
+        "Mercedes-Benz selected NVIDIA for next-generation autonomous vehicle and cockpit computer."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 54.7,
+      "unit": "percentage",
+      "context": "GAAP gross margin for Q4.",
+      "period": "Q4"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": null,
+    "other_metrics": {
+      "non_gaap_gross_margin": {
+        "value": 56.0,
+        "unit": "percentage",
+        "context": "Non-GAAP gross margin for Q4.",
+        "period": "Q4"
+      },
+      "gaap_operating_expenses": {
+        "value": 913.0,
+        "unit": "million",
+        "context": "GAAP operating expenses for Q4.",
+        "period": "Q4"
+      },
+      "non_gaap_operating_expenses": {
+        "value": 755.0,
+        "unit": "million",
+        "context": "Non-GAAP operating expenses for Q4.",
+        "period": "Q4"
+      },
+      "gaap_eps": {
+        "value": 0.92,
+        "unit": "dollars",
+        "context": "GAAP EPS for Q4.",
+        "period": "Q4"
+      },
+      "non_gaap_eps": {
+        "value": 0.8,
+        "unit": "dollars",
+        "context": "Non-GAAP EPS for Q4.",
+        "period": "Q4"
+      },
+      "full_year_gaap_eps": {
+        "value": 6.63,
+        "unit": "dollars",
+        "context": "Full year GAAP EPS.",
+        "period": "Full Year"
+      },
+      "full_year_non_gaap_eps": {
+        "value": 6.64,
+        "unit": "dollars",
+        "context": "Full year Non-GAAP EPS.",
+        "period": "Full Year"
+      },
+      "shareholder_returns": {
+        "value": 1.95,
+        "unit": "billion",
+        "context": "Returned to shareholders in fiscal year 2019.",
+        "period": "Full Year"
+      }
+    }
+  },
+  "future_guidance": {
+    "q1_revenue": {
+      "value": 2.2,
+      "unit": "billion",
+      "context": "Expected Q1 revenue.",
+      "period": "Q1 2020"
+    },
+    "gaap_gross_margin": {
+      "value": 58.8,
+      "unit": "percentage",
+      "context": "Expected GAAP gross margin for Q1.",
+      "period": "Q1 2020"
+    },
+    "non_gaap_gross_margin": {
+      "value": 59.0,
+      "unit": "percentage",
+      "context": "Expected Non-GAAP gross margin for Q1.",
+      "period": "Q1 2020"
+    },
+    "gaap_operating_expenses": {
+      "value": 930.0,
+      "unit": "million",
+      "context": "Expected GAAP operating expenses for Q1.",
+      "period": "Q1 2020"
+    },
+    "non_gaap_operating_expenses": {
+      "value": 755.0,
+      "unit": "million",
+      "context": "Expected Non-GAAP operating expenses for Q1.",
+      "period": "Q1 2020"
+    },
+    "capital_expenditures": {
+      "value": 150.0,
+      "unit": "million",
+      "context": "Expected capital expenditures for Q1.",
+      "period": "Q1 2020"
+    }
+  },
+  "strategic_initiatives": [
+    "Strengthened partnerships with Cisco, IBM, NetApp, and Pure Storage for pre-integrated systems.",
+    "Introduced RAPIDS for data analytics and machine learning.",
+    "Announced DRIVE AutoPilot for level two plus self-driving cars.",
+    "Launched GeForce RTX 2060 and 40+ Turing-based gaming laptops."
+  ],
+  "market_opportunities": [
+    {
+      "segment": "Data Center",
+      "opportunity": "Inference market expansion and vertical industries like automotive, financial services, retail, healthcare, and consumer Internet services."
+    },
+    {
+      "segment": "Gaming",
+      "opportunity": "RTX ecosystem growth with new games adopting ray tracing and DLSS technology."
+    },
+    {
+      "segment": "Automotive",
+      "opportunity": "Mass market adoption of AI cockpit solutions and autonomous vehicle development."
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-10T22:44:10.027127",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Q4 revenue was $2.21 billion, down 24% from a year earlier, driven primarily by a 45% year-on-year decline in gaming.",
+      "Full year revenue was $11.72 billion, up 21% from the previous year."
+    ],
+    "gaming": [
+      "Gaming revenue of $954 million was down 45% YoY and down 46% sequentially, weaker than our expectations heading into the quarter.",
+      "Full year gaming revenue was up 13% to $6.25 billion.",
+      "Three factors contributed to the Q4 gaming revenue decline: post-crypto GPU inventory, deteriorating macroeconomic conditions in China, and lower-than-expected sales of high-end GPUs using Turing architecture.",
+      "Normalized desktop gaming revenue run rate is approximately $900 million per quarter.",
+      "Notebook gaming and gaming consoles averaged $500 million per quarter.",
+      "Normalized gaming business revenue run rate is approximately $1.4 billion per quarter.",
+      "Launched GeForce RTX 2060 at $349, delivering 60% performance improvement over GTX 1060.",
+      "Announced 40+ new Turing-based gaming laptops, more than double the previous year."
+    ],
+    "data_center": [
+      "Data Center revenue was $679 million, up 12% YoY and down 14% sequentially.",
+      "Full year data center revenue was $2.93 billion, up 52% YoY.",
+      "Q4 sales decline was broad-based across verticals, markets, and geographies.",
+      "Hyperscale and cloud purchases declined sequentially and YoY.",
+      "Launched RAPIDS, a CUDA acceleration stack for data analytics and machine learning.",
+      "Google Cloud announced NVIDIA T4 Tensor Core GPUs availability in multiple regions.",
+      "Inference currently drives less than 10% of data center business but represents significant market opportunity.",
+      "Expanded reach in enterprise by teaming up with major OEMs to introduce T4 enterprise and edge computing servers, optimized for NVIDIA CUDA-X AI acceleration libraries for AI and data analytics.",
+      "Launched NVIDIA EGX Intelligent Edge Computing Platform with over 100 technology partners, enabling AI computing at the enterprise edge for industries like transportation, manufacturing, industrial, retail, healthcare, and agricultural.",
+      "Made significant progress in data center rendering and graphics by unveiling a new RTX server configuration with 40 GPUs in an 8U space and up to 32 servers in a pod, optimized for rendering, remote workstations, and cloud gaming.",
+      "Early RTX server deployments at leading studios, including Disney and Pixar.",
+      "Announced pending acquisition of Mellanox for $6.9 billion to strengthen data center strategy, uniting two leading companies in high performance computing.",
+      "Post-acquisition, NVIDIA and Mellanox will optimize data center scale workloads across computing, networking, and storage stacks, enhancing performance, utilization, and reducing operating costs for customers."
+    ],
+    "pro_vis": [
+      "Pro Visualization revenue reached $293 million, up 15% year-on-year and down 4% sequentially.",
+      "Full year revenue was $1.13 billion, up 21% YoY.",
+      "Growth driven by data science, AI, VR, and thin and light mobile workstations.",
+      "Announced Quadro RTX workstation with significant GPU upgrade in 10 years.",
+      "Key wins included Boeing, Google, LinkedIn, and Toyota for applications including AI and robotics.",
+      "Released over 40 design and creative applications with RTX technology, enhancing photorealistic rendering, augmented reality, and virtual reality.",
+      "RTX Ray tracing transforming the visual effects industry, enabling researchers and developers to take a leap in photorealistic rendering, augmented reality, and virtual reality."
+    ],
+    "automotive": [
+      "Automotive revenue was $163 million, up 23% YoY and down 5% sequentially.",
+      "Full year automotive revenue was $641 million, up 15% YoY.",
+      "Growth driven by adoption of AI cockpit solutions and autonomous vehicle development deals.",
+      "Toyota selected NVIDIA's platform for self-driving vehicle development.",
+      "Public availability of Drive Constellation for virtual simulation.",
+      "Introduced NVIDIA Safety Force Field for autonomous vehicles.",
+      "Addressable market for autonomous vehicles estimated at $30 billion by 2025."
+    ],
+    "financials": [
+      "Q4 GAAP gross margin was 54.7%, and non-GAAP gross margin was 56%, down sequentially and YoY due to $128 million charge from DRAM boards and other components associated with lower-than-expected Q4 revenue and current market conditions.",
+      "GAAP operating expenses were $913 million, and non-GAAP operating expenses were $755 million, up 25% and 24% YoY respectively.",
+      "GAAP EPS was $0.92, down 48% from a year earlier.",
+      "Full year GAAP EPS was $6.63, up 38% from the prior year.",
+      "Non-GAAP EPS was $0.80, down 53% from a year ago.",
+      "Full year Non-GAAP EPS was $6.64, up 35% from the prior year.",
+      "Returned $1.95 billion to shareholders in fiscal year 2019 through a combination of quarterly dividends and share repurchases.",
+      "Committed to returning $3 billion to shareholders through the end of fiscal 2020 in the form of dividends and buybacks, having repurchased $700 million during the fourth quarter fiscal 2019."
+    ],
+    "q1_outlook": [
+      "For Q1 fiscal 2020, expect revenue to be $2.2 billion, plus or minus 2%.",
+      "GAAP gross margin expected to be 58.8% ±50 basis points.",
+      "Non-GAAP gross margin expected to be 59% ±50 basis points.",
+      "GAAP operating expenses expected to be approximately $930 million.",
+      "Non-GAAP operating expenses expected to be approximately $755 million.",
+      "GAAP and non-GAAP OI&E both expected to be income of approximately $20 million.",
+      "GAAP and non-GAAP tax rates expected to be 10% ±1%, excluding discrete items.",
+      "Capital expenditures expected to be approximately $150 million."
+    ],
+    "investor_relations": [
+      "Posted an investor presentation summarizing Q4 results and key highlights.",
+      "Committed to returning $3 billion to shareholders through dividends and buybacks by the end of fiscal 2020.",
+      "Upcoming events: Morgan Stanley Technology, Media and Telecom Conference on February 26; RBC Future of Mobility Conference on June 6; and NASDAQ Investor Conference on June 13."
+    ]
+  }
+}

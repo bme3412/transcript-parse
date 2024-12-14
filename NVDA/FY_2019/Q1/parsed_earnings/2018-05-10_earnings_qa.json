@@ -1,0 +1,177 @@
+{
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Gaming and Crypto",
+          "context": "Response to gaming seasonality question",
+          "content": "Q1, as you probably know, Fortnite and PUBG are global phenomenons. The success of Fortnite and PUBG are just beyond comprehension, really. Those two games are a combination of Hunger Games and Survivor has just captured imaginations of gamers all over the world. And we saw the uptick and we saw the demand on GPUs from all over the world. Surely, there was scarcity as you know. Crypto miners bought a lot of our GPUs during the quarter and it drove prices up. And I think that a lot of the gamers weren't able to buy into the new GeForce as a result. And so we're starting to see the prices come down. We monitor spot pricing every single day around the world. And the prices are starting to normalize. It's still higher than where they should be. And so obviously, the demand is still quite strong out there. But my sense is that there's a fair amount of pent-up demand still. Fortnite is still growing in popularity. PUBG is doing great. And then we've got some amazing titles coming out. And so my sense is that the overall gaming market is just really, is super healthy."
+        },
+        {
+          "topic": "Cloud Inference",
+          "context": "Response to cloud inference applications question",
+          "content": "There are 30 million servers around the world. And they were put in place during the time when the world didn't have deep learning. And now with deep learning and with machine learning approaches, the accuracy of prediction, the accuracy of recommendation has jumped so much that just about every Internet service provider in the world that has a lot of different customers and consumers are jumping onto this new software approach... The answer to your question is internal consumption. Internal consumption is going to be the first users. Video recognition, detecting for inappropriate video for example all over the world, making recommendations from the videos that you search or the images that you're uploading."
+        },
+        {
+          "topic": "Competition and Technology",
+          "context": "Response to datacenter competition question",
+          "content": "First of all, at its core, this is something we all know now, that CPU scaling has really slowed. And if you think about the several hundred billion dollars worth of computer equipment that's been installed in the cloud, in datacenters all over the world, and as these applications for machine learning and high-performance computing approaches come along, the world needs a solution... With respect to competition, Google announced TPU 3.0 and it's still behind our Tensor Core GPU. Our Volta is our first generation of a newly reinvented approach of doing GPUs. It's called Tensor Core GPUs. And we're far ahead of the competition and – but more than that, it's programmable. It's not one function. It's programmable."
+        },
+        {
+          "topic": "GeForce Partner Program",
+          "context": "Response to program cancellation question",
+          "content": "At the core, the program was about making sure that gamers who buy graphics cards knows exactly the GPU brand that's inside. And the reason for that is because, we want gamers to – the gaming experience of a graphics card depends so much on the GPU that is chosen. And we felt that using one gaming brand, a graphics card brand, and interchanging the GPU underneath causes it to be less – causes it to be more opaque and less transparent for gamers to choose the GPU brand that they wanted. And most of the ecosystem loved it. And some of the people really disliked it. And so instead of all that distraction, we're doing so well. And we're going to continue to help the gamers choose the graphics cards, like we always have, and things will sort out."
+        },
+        {
+          "topic": "Edge Inference",
+          "context": "Response to edge inference applications question",
+          "content": "The largest inference opportunity for us is actually in the cloud and the datacenter. That's the first great opportunity... The second will be in vertical markets. The vertical market that you mentioned is self-driving cars... I believe that every single – everything that moves someday will be autonomous or have autonomous capabilities. And so the 100 million cars, the countless taxis, all the trucks, all the agriculture equipment, all the pizza delivery vehicles, you name it. Everything is going to be autonomous. And the market opportunity is going to be quite large."
+        },
+        {
+          "topic": "Gaming Q2 Expectations",
+          "context": "Response to Q2 gaming seasonality question",
+          "content": "We're expecting Q2 to be better than seasonality, if I understand your question. We're expecting Q2 to be better than Q1. And we're expecting Q2 to be better than seasonality."
+        },
+        {
+          "topic": "Volta Deployment",
+          "context": "Response to cloud deployment progress question",
+          "content": "Volta is a reinvented GPU. Volta is the world's first GPU that has been designed to be incredibly good at deep learning. We call it the Tensor Core GPU... Every cloud will have it. The initial deployment is for internal consumption. Volta has been shipping to the cloud providers, the Internet service companies for the vast majority of last quarter, as you guys know. And they're using it internally. And now they're starting to open up Volta for external consumption of their cloud customers. And they are moving as fast as they can. My expectation is that you're going to see a lot more coming online this quarter."
+        },
+        {
+          "topic": "DGX Products",
+          "context": "Response to DGX product question",
+          "content": "DGX-2 and DGX-1 will both be in the market at the same time. And DGX is a few hundred million dollar business. It was introduced last year. So its growth rate is obviously very high. It's designed for enterprises where they don't – they need to have their computers on-premise, but they don't want to build a supercomputer. And they don't have the expertise to do so. And they would like to pull a supercomputer out of a box, plug it in and start doing supercomputing."
+        },
+        {
+          "topic": "Crypto Mining Strategy",
+          "context": "Response to crypto market share question",
+          "content": "Well, we try to as transparently review our numbers as best we can. Our strategy is to create a SKU that allows the crypto miners to fulfill their needs and we call it CMP. And to be – as much as possible, fulfill their demand that way. Sometimes, it's just not possible because the demand is too great but we try to do so. And we try to keep the miners on the CMP SKUs as much as we can. And so I'm not exactly sure how other people do it, but that's the way we do it."
+        },
+        {
+          "topic": "Ray Tracing Technology",
+          "context": "Response to ray tracing technology question",
+          "content": "NVIDIA RTX is the biggest computer graphics invention in the last 15 years. It took us a decade to do. We literally worked on it continuously for one decade. And to put it into perspective, it's basically film rendering, cinematic rendering except it's in real time... We demonstrated RTX on four Quadro GV100s. It takes four of our latest generation Volta Tensor Core GPUs to be able to render 30 frames per second, the Star Wars cinematic that people enjoyed... Long-term, we've also now plotted the path towards doing it in real time. And someday, we will be able to put RTX into a GeForce gaming card and the transformation to the revolution to the gaming industry will be quite extraordinary."
+        }
+      ],
+      "closing_remarks": "We had another great quarter, record revenue, record margins, record earnings, growth across every platform. Datacenter achieved another record with strong demand for Volta and AI inference. Gaming was strong. We are delighted to see prices normalizing and we can better serve pent-up gamer demand. At the heart of our opportunity is the incredible growth of computing demand of AI just as traditional computing has slowed. The GPU computing approach that we've pioneered is ideal for filling this vacuum. And our invention of the Tensor Core GPU has further enhanced our strong position to power the AI era."
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Gross Margins",
+          "context": "Response to gross margins and component pricing question",
+          "content": "When you think about our gross margins, just over this last quarter, as you know, we were working on stabilizing the overall supply that was out there in the market for consumer GPUs. We benefited from that with a higher gross margin as we filled and completed that. You've seen us absorb a significant amount of the component pricing changes that we have seen, particularly around the memory. We're not here to be able to forecast generally when those pricing of those components will stabilize. But we believe in terms of the value added that our platforms provide, the components are an important part of finishing that. But I think we have tremendous amount more value that we are adding in terms of the software on top of our platforms, which is enabling our gross margins."
+        },
+        {
+          "topic": "OEM Business Margins",
+          "context": "Response to OEM margin question",
+          "content": "Generally, our OEM business can be a little bit volatile. Because remember, OEM business incorporates our mainstream GPUs as well as our Tegra integrated. So we have development platforms that we sell on some of the Tegra piece of it. But they are slightly below and I think you can go back and refer to our discussion at Investor Day as there's a slide there that talks about those embedded pieces and them being below. So yes, you're correct. Again, a very small part of our business right now."
+        },
+        {
+          "topic": "Q2 Seasonality",
+          "context": "Response to follow-up on Q2 seasonality",
+          "content": "Remember in Q1, we outgrew seasonality significantly. We left Q4 with very low inventory in terms of in the channel. We spent Q1 working on establishing a decent amount of inventory available... We left Q1 at this point with healthy overall channel inventory levels as far as where we stand. So that then takes you now to Q2. But if we overshot in terms of seasonality in terms of Q1, we don't have to do those channel fill dynamics again as we get into Q2... Always keep in mind, generally, our H2s are usually higher than our overall H1s, and that's what you should think about our overall guidance. Gaming is still strong."
+        },
+        {
+          "topic": "Datacenter Supply",
+          "context": "Response to supply chain challenges question",
+          "content": "Our datacenter business did phenomenal. Volta is doing extremely well. And even now with 32-bit, we're seeing tremendous adoption throughout. Again, remember it's very different than the overall consumer business. You have significant amount of time for qualification and that is moving extremely fast, based on a lot of other industries and their ability to qualify. So no, there is not a supply challenge at all in terms of our datacenter."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Stacy Aaron Rasgon",
+      "firm": "Sanford C. Bernstein & Co. LLC",
+      "topic": "Gaming Seasonality",
+      "question": "First, I had a question on gaming seasonality. It's usually down pretty decently in Q1. It was obviously flat this time as you were trying to fill up the channel. Now that's done. I was just wondering what the supply demand dynamics as well as like any thoughts on crypto might mean for typical – the seasonality into Q2 versus what would be typical where it would usually be down – or usually be up pretty decently. How are you looking at it?"
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley & Co. LLC",
+      "topic": "Cloud Inference",
+      "question": "I wonder – Colette had talked about the inference doubling in sales quarter-over-quarter with cloud. Can you just talk about where you're seeing the early applications for inference? Is that sort of as-a-service business or are you looking at internal cloud workloads?"
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Merrill Lynch",
+      "topic": "Datacenter Growth and Competition",
+      "question": "Jensen, I have two questions about the datacenter, one, from a growth and the second from a competition perspective. From the growth side, you guys are doing about, say, $3 billion or so annualized but you have outlined a market that could be $50 billion. What needs to happen for the next inflection? And then on the competition side, as you are looking at that big market, how should we think about competition that is coming from some of your cloud customers, like a Google announcing a TPU 3.0?"
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs & Co. LLC",
+      "topic": "GeForce Partner Program",
+      "question": "Jensen, I had a question regarding your decision to pull the plug on your GeForce Partner Program. I think most of us read your blog from last Friday. I think it was, so we understand the basic background. But if you can describe what led to this decision and perhaps talk a little bit about the potential implications?"
+    },
+    {
+      "analyst": "Sajal Dogra",
+      "firm": "Evercore ISI",
+      "topic": "HPC and Benchmarks",
+      "question": "So I had a question on HPC. TSMC, on their recent call, raised their accelerator attach rate forecast in HPC to 50% from mid-teens. So I would love to get further details on what exactly NVIDIA is doing to software services, et cetera, that's kind of creating this competitive positioning in HPC and AI basically. And then, if I could ask a follow-up basically in benchmarks. So, there's been some news on AI benchmarks whether it's Stanford DAWNBench et cetera. So I would love to get your thoughts on A, the current state of benchmarks for AI workloads and B, your relative positioning of ASICs versus GPUs especially as we move towards newer neural networks like RN and GAN, et cetera."
+    },
+    {
+      "analyst": "Blayne Curtis",
+      "firm": "Barclays Capital, Inc.",
+      "topic": "Edge Inference",
+      "question": "Jensen, maybe – I wanted to ask on inference side about edge inference and beyond autos when you look at sizing that TAM, what are the other big areas that you think you can penetrate with GPUs in edge inference besides autos?"
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS Securities LLC",
+      "topic": "Gaming Seasonality Follow-up",
+      "question": "I actually wanted to go back to the question about seasonality for gaming in June. Normal seasonal sounds like it's up mid-teens for June in gaming. But obviously, the comps are skewed a little bit because of the channel restock and the crypto stuff. So does the guidance for June assume that gaming is better or worse than that mid-teens normal seasonal?"
+    },
+    {
+      "analyst": "Atif Malik",
+      "firm": "Citigroup Global Markets, Inc.",
+      "topic": "Gross Margins",
+      "question": "Colette, first thank you for breaking out crypto sales in the OEM line and guide for us. I have a question on your gross margins. Your gross margins have been expanding on product mix, despite component pricing headwinds on the DRAM side. When do you expect component pricing to become a tailwind to your gross margins?"
+    },
+    {
+      "analyst": "Chris Caso",
+      "firm": "Raymond James & Associates, Inc.",
+      "topic": "Volta Cloud Deployment",
+      "question": "My question is the progress on the deployment of Volta into the cloud service providers. You talked in your prepared remarks about the five deployments, including the Google beta. Can you talk about how soon we can expect to see some of those remaining deployments? And of those already launched, how far are they along?"
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies LLC",
+      "topic": "DGX Products",
+      "question": "Our own fieldwork is indicating very positive reception for DGX. And I was wondering, Jensen, if can you help us understand, the high-growth we've seen in the datacenter business, to what extent is that being driven by the DGX. And when DGX-2 starts to ramp in the back half of the year, is this something that kind of layers on top of DGX - does DGX-2 layer on top of DGX, are they going after different segments?"
+    },
+    {
+      "analyst": "Mitch Steves",
+      "firm": "RBC Capital Markets LLC",
+      "topic": "OEM Margins",
+      "question": "Hey guys. I'm actually going to go to a more nitty-gritty question just on the financial side, just to make sure I'm understanding this right. So the OEM beat was pretty material given a lot of crypto revenue. Is it still the case that OEM is materially lower gross margin than your corporate average at this time?"
+    },
+    {
+      "analyst": "Christopher Rolland",
+      "firm": "Susquehanna Financial Group LLLP",
+      "topic": "Crypto Market Share",
+      "question": "So your competitor thinks that just 10% of their sales were from crypto or like $150 million, $160 million. And you guys did almost $300 million there. And perhaps I think there could actually be some in gaming as well, which would imply that you guys have two-thirds or more of that market? So I guess what's going on there? Is there a pricing dynamic that's allowing you to have such share there, or do you think it's your competitors that don't know what's actually being sold to miners versus gamers?"
+    },
+    {
+      "analyst": "Craig A. Ellis",
+      "firm": "B. Riley FBR, Inc.",
+      "topic": "Ray Tracing Technology",
+      "question": "Jensen, I just wanted to come back to an announcement that you made at GTC with ray tracing. Because the technology looked like it was very high fidelity and I think you noted at that time that it was very computationally intensive. So the question is as we think about the gaming business and the potential for ray tracing to enter that platform group, what does it mean for dynamics that we've seen in the past, for example, the ability to really push the high end of the market with high end capability, 1070 Ti launched late last year, it was very successful. Does this give you further flexibility for those types of launches as you bring exciting and very high end technology to market?"
+    },
+    {
+      "analyst": "Stacy Aaron Rasgon",
+      "firm": "Sanford C. Bernstein & Co. LLC",
+      "topic": "Q2 Seasonality Follow-up",
+      "question": "This is a question for Colette. I want to follow-up again on the seasonality. Understanding the prior comments, normal seasonal for Q2 for gaming would be up in the double digits. Given your commentary on the crypto declining in Q2, given your commentary on just the general drivers around datacenter and the Volta ramp, I can't bring that together with the idea of gaming being above seasonal within the context of your guidance envelope. So how should I reconcile those things?"
+    },
+    {
+      "analyst": "William Stein",
+      "firm": "SunTrust Robinson Humphrey, Inc.",
+      "topic": "Supply Chain Challenges",
+      "question": "The question relates to the supply chain challenges that you talked so much about in the gaming end market. I'm wondering if there's something particular to that end market that is making the shortages concentrated there, or are in fact other end markets in particular, the datacenter end market, also somewhat restricted from what growth they might have achieved if there weren't the shortages that are out there. And maybe talk about the pace of recovery of those."
+    }
+  ]
+}

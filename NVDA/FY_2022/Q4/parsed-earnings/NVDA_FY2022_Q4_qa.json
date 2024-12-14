@@ -1,0 +1,136 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2022",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Data Center Growth Drivers",
+          "content": "We have several growth drivers in data centers, including hyperscale, public cloud, enterprise core, and enterprise edge. We're seeing growth across the entire spectrum with exciting use cases such as large language models triggered by the invention of transformers, conversational AI for customer service and chatbots, deep learning-based recommender systems, and cloud graphics driving adoption in cloud gaming and simulations."
+        },
+        {
+          "topic": "Grace and Long-term Opportunities",
+          "content": "We have multiple Arm projects ongoing, including Grace and its follow-ons. Arm's success in hyperscalers and data centers has accelerated the development of higher-end CPUs. Our strategy revolves around accelerated computing, connecting NVIDIA's platform to any CPU to accelerate applications in AI, computer graphics, and robotics. We're thrilled with Arm's growth in various applications and intend to bring NVIDIA's accelerated computing platform to NVIDIA Arm CPUs."
+        },
+        {
+          "topic": "Supply Chain and Product Launches",
+          "content": "We've significantly expanded our supply chain footprint to prepare for increased supply and exciting product launches like Orin for autonomous vehicles and Grace CPUs. We're laying the foundation to bring these products to the marketplace, ensuring we can meet growing demand."
+        },
+        {
+          "topic": "Software-Driven Business",
+          "content": "NVIDIA is a software-driven business. We've built an entire stack from processors to system software and applications like NVIDIA DRIVE, NVIDIA AI, and NVIDIA Omniverse. For the first time, we've packaged licensable software available to customers, such as NVIDIA AI Enterprise, Omniverse, and DRIVE. These software offerings are designed to enable enterprises and creators to leverage NVIDIA's advanced AI and simulation capabilities."
+        },
+        {
+          "topic": "AI Adoption and Capital Deployment",
+          "content": "AI applications are growing incredibly fast across various industries, from fraud detection in financial services to conversational AI in customer service. We're in the early innings of AI adoption, and it's set to become one of the largest software industries ever. With over $20 billion in cash, we're evaluating how to best deploy our capital to accelerate growth, following our regular capital strategy process."
+        },
+        {
+          "topic": "Gaming Product Launch and Market Position",
+          "content": "RTX has been a game changer, reinvigorating modern computer graphics with ray tracing and AI-driven technologies like DLSS. RTX is being adopted by game developers and design tools globally, enabling advancements like Omniverse. The gaming market is growing, supported by increasing demand for high-performance GPUs in both desktops and laptops. Additionally, the creative economy is leveraging 3D graphics for digital content creation, further driving RTX adoption."
+        },
+        {
+          "topic": "Networking and Mellanox Synergies",
+          "content": "Our partnership with Mellanox has been instrumental in scaling our GPU systems and improving connectivity for accelerated compute platforms. Mellanox's world-class networking technology enables innovations like Omniverse computers and cloud-native secure multi-tenancy in supercomputing. As we expand our supply base, we anticipate the networking connectivity business to grow faster than the overall CSP growth due to our leadership in high-speed networking and the rapid growth in AI-related applications."
+        },
+        {
+          "topic": "Data Center Bottlenecks",
+          "content": "The largest bottleneck in our data center systems is memory speed, which is why we use the fastest memories like HBM and GDDR. Another significant bottleneck is networking performance, where we lead with the fastest networks in any system. These bottlenecks are addressed by offloading tasks from the CPU to GPUs and utilizing advanced networking technologies. We are transitioning from PCIe Gen 4 to Gen 5 and are prepared to support existing Gen 4 systems while leveraging Gen 5 where possible."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Sequential Growth Guidance",
+          "content": "We are providing guidance for Q1 fiscal 2023 with expected revenue of approximately $8.1 billion, driven primarily by Data Center growth. Excluding CMP, we anticipate revenue growth of over $500 million sequentially, with a significant portion coming from Data Center. Gaming is expected to see slight growth despite supply constraints, and Automotive and ProViz are also projected to grow slightly quarter-over-quarter. CMP revenue is expected to decline to negligible levels in Q1."
+        },
+        {
+          "topic": "Gaming Supply Constraints",
+          "content": "Our supply constraints in the gaming business are mainly due to limitations in desktop and notebook components necessary for building our products. However, the mix is favorable as gamers are increasingly interested in higher-end, higher-performance products. This mix not only lifts our revenue but also positively impacts our gross margins."
+        },
+        {
+          "topic": "Data Center Business Mix",
+          "content": "In Q2, 50% of our Data Center business is attributed to vertical industries, with Hyperscale making up just below 50%. Our supercomputing business constitutes a small but growing portion. Moving into Q3, we expect accelerated growth in both vertical industries and Hyperscale segments."
+        },
+        {
+          "topic": "Supply Purchases and Growth Planning",
+          "content": "For Q1 fiscal 2023, we expect Data Center revenue to grow faster than Gaming, both in percentage terms and absolute dollars. We also anticipate a decline in CMP product revenue to negligible levels in Q1. Looking ahead to next year, we have secured supply not just for the current year and Q1, but also for the following year to support our growth opportunities. However, we will wait until next year to provide further guidance."
+        },
+        {
+          "topic": "Gross Margin Headwinds",
+          "content": "We have consistently worked on our gross margins by absorbing cost changes and managing architecture transitions. Currently, our gross margins are stable, and the incremental revenue expected next quarter aligns with our current gross margin levels from Q3. The primary driver of gross margin remains our product mix, particularly high-end AI and RTX solutions. Additionally, embedded software in our solutions contributes to increased gross margins. Looking forward, selling software separately presents another opportunity for gross margin improvement, although cost increases will continue to impact our margins."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Omniverse"],
+      "questions": [
+        "How do you define success in Omniverse as we look out over the next, let's call it, 12 months and how do we think about the subscription license opportunity for Omniverse. I know you've talked about $40 million total 3D designers, I think that actually doubled what you talked about back in August. So I'm just curious of how we at finance line should probably think about that opportunity materializing?"
+      ]
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topics": ["Omniverse Avatar"],
+      "questions": [
+        "How close is your Omniverse Avatar to morphing into like a mass market technology that everybody uses daily? You talk about like -- you said that everybody is going to be a gamer, everybody is going to be a Omniverse Avatar user. And maybe the bigger picture is, is it reasonable to think about new killer app coming out every year? Is there a parallel that we should think about with previous computing markets that we could think about for the computing area that we're entering right now?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topics": ["Data Center Visibility", "Omniverse"],
+      "questions": [
+        "Can you speak to your Data Center visibility into 2022 and beyond? And within this outlook, can you talk to traditional cloud versus industry verticals and then perhaps emerging opportunities like Omniverse and others? Would love to get a sense of kind of what you're seeing today. And then as part of that, how you're planning to secure foundry and other supply to support that growth?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topics": ["Data Center Growth"],
+      "questions": [
+        "On the near-term, Colette, you suggested guidance in the Q4 be driven by Data Center and gaming and you mentioned data center first. Does that mean that it's bigger? If you could just help us like parse the contribution of each into Q4?",
+        "In the next year, given the commentary for the last question, again it sounds like you've got like a very strong outlook for Data Center both from hyperscale and enterprise. If I look at sort of the implied guidance you gave, Data Center for you is probably likely to grow 50% year-over-year in this fiscal year. Would it be crazy to think given all the drivers that it could grow by a similar amount next year as well? Like, how should we be thinking about that given all of the drivers that you've been laying out?"
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topics": ["Data Center Growth", "Enterprise Software"],
+      "questions": [
+        "I guess near-term you mentioned the possibility of accelerating data center growth from the 35% rate. I was hoping if you could give us some more color around that confidence and visibility.",
+        "We've seen a lot of announcements from NVIDIA about your Enterprise software opportunity. I honestly don't know how to model that. It sounds very promising, but how should we model it? What problem are you trying to solve? Is it cannibalizing demand you might have otherwise seen from your public Cloud customers, or is this incremental to growth?"
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Gross Margin", "Data Center Visibility"],
+      "questions": [
+        "Are there any margin headwinds maybe on the wafer pricing side that we should sort of think about normalizing out, because gross margin is pretty flat between fiscal Q2 and fiscal Q4. But I imagine that's kind of masking a strong underlying margin growth, especially as Data Center has been actually driving that growth.",
+        "When do you think that they'll ease?",
+        "How should we think about gaming into the January quarter vis-a-vis typical seasonality, given -- I would assume you would continue to be supply constrained?"
+      ]
+    },
+    {
+      "analyst": "Silgan Stein",
+      "firm": "[Indiscernible]",
+      "topics": ["Omniverse"],
+      "questions": [
+        "Jensen, I'm wondering if you can talk for a moment about Omniverse. This looks like really cool technology, but I tend to get very few questions from investors about it, but It looks to me like this could be a potentially very meaningful technology for you longer-term. Can you explain perhaps what capabilities and what markets this is going after? It looks like, perhaps this is going to position you very well in augmented and virtual reality, but maybe it's a different market or group of markets."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-11T21:49:43.024741",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

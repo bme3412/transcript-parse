@@ -1,0 +1,393 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q2",
+  "fiscal_year": "2024",
+  "total_revenue": {
+    "value": 13.51,
+    "unit": "billion",
+    "context": "Q2 revenue was $13.51 billion, up 88% sequentially and up 101% year-on-year, and above our outlook of $11 billion.",
+    "period": "Q2"
+  },
+  "segments": [
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 10.32,
+        "unit": "billion",
+        "context": "Revenue of $10.32 billion was up 141% sequentially and up 171% year-on-year.",
+        "period": "Q2"
+      },
+      "growth_yoy": 171.0,
+      "growth_qoq": 141.0,
+      "key_points": [
+        "Data Center compute revenue nearly tripled year-on-year, driven primarily by accelerating demand from cloud service providers and large consumer Internet companies for HGX platform, the engine of generative AI and large language models.",
+        "Major companies, including AWS, Google Cloud, Meta, Microsoft Azure, and Oracle Cloud, as well as a growing number of GPU cloud providers, are deploying in volume HGX systems based on Hopper and Ampere architecture Tensor Core GPUs.",
+        "Networking revenue almost doubled year-on-year, driven by end-to-end InfiniBand networking platform, the gold standard for AI.",
+        "Tremendous demand for NVIDIA accelerated computing and AI platforms.",
+        "Supply partners exceptional in ramping capacity to support needs.",
+        "Data center supply chain, including HGX with 35,000 parts and highly complex networking, built over the past decade.",
+        "Developed and qualified additional capacity and suppliers for key steps in the manufacturing process such as [indiscernible] packaging.",
+        "Expect supply to increase each quarter through next year.",
+        "By geography, data center growth strongest in the U.S. as customers direct capital investments to AI and accelerated computing.",
+        "China demand within historical range of 20% to 25% of Data Center revenue, including compute and networking solutions.",
+        "Addressed reports on potential increased export regulations to China: current regulation achieving intended results; no immediate material impact expected from additional export restrictions.",
+        "Long-term, restrictions prohibiting sale of Data Center GPUs to China would result in a permanent loss and opportunity for the U.S. industry in one of the world's largest markets.",
+        "Cloud service providers drove exceptionally strong demand for HGX systems in the quarter, undertaking a generational transition to upgrade data center infrastructure for accelerated computing and AI.",
+        "NVIDIA HGX platform culmination of nearly two decades of full stack innovation across silicon, systems, interconnects, networking, software, and algorithms.",
+        "Instances powered by NVIDIA H100 Tensor Core GPUs generally available at AWS, Microsoft Azure, and several GPU cloud providers, with others on the way shortly.",
+        "Consumer Internet companies also drove very strong demand; their investments in AI-purpose-built data center infrastructure are generating significant returns (e.g., Meta's Reels leading to 24% increase in time spent on Instagram).",
+        "Enterprises racing to deploy generative AI, driving strong consumption of NVIDIA-powered instances in the cloud and on-premise infrastructure.",
+        "Applications can run seamlessly on NVIDIA AI enterprise software with access to acceleration libraries, pre-trained models, and APIs.",
+        "Partnership with Snowflake to provide enterprises with accelerated path to create customized generative AI applications using their own proprietary data within Snowflake Data Cloud.",
+        "NVIDIA NeMo platform allows enterprises to make custom LLMs for advanced AI services such as chatbots, search, and summarization.",
+        "Virtually every industry can benefit from generative AI; examples include AI Copilot by Microsoft boosting productivity of over 1 billion office workers and tens of millions of software engineers.",
+        "Early applications in marketing, media, and entertainment, such as WPP using NVIDIA Omniverse for generative AI in 3D content creation, and Shutterstock using NVIDIA Picasso for generative AI in creating 3D scene backgrounds.",
+        "Partnerships with ServiceNow and Accenture to launch AI Lighthouse program for developing enterprise AI capabilities.",
+        "Collaboration with Hugging Face to simplify creation of new and custom AI models for enterprises, offering services to train and tune advanced AI models powered by NVIDIA HGX cloud.",
+        "VMware and NVIDIA announced VMware Private AI Foundation with NVIDIA, a fully integrated platform featuring AI software and accelerated computing with multi-cloud software for enterprises running VMware.",
+        "New NVIDIA AI enterprise-ready servers featuring NVIDIA L40S GPU built for data center server ecosystem and BlueField-3 DPU data center infrastructure processor.",
+        "L40S shipping to world's leading server system makers, designed as a universal data center processor for high-volume data centers to accelerate compute-intensive applications including AI training, inventing, designing, visualization, video processing, and NVIDIA Omniverse industrial digitalization.",
+        "NVIDIA AI enterprise ready servers fully optimized for VMware, Cloud Foundation, and Private AI Foundation, with nearly 100 configurations available from Dell, HP, Lenovo.",
+        "GH200 Grace Hopper Superchip (ARM-based Grace CPU with Hopper GPU) entered full production, available this quarter in OEM servers and shipping to multiple supercomputing customers, including Atmos, National Labs, and Swiss National Computing Center.",
+        "NVIDIA and SoftBank collaborating on a platform based on GH200 for generative AI and 5G/6G applications.",
+        "Second generation Grace Hopper Superchip with latest HBM3e memory available in Q2 calendar 2024.",
+        "Announced DGX GH200, a new class of large memory AI supercomputer for giant AI language models, recommendation systems, and data analytics, first use of new NVIDIA [indiscernible] switch system enabling 256 Grace Hopper Superchips to work together as one, compared to prior generation connecting 8 GPUs over [indiscernible].",
+        "DGX GH200 systems expected to be available by end of year, with Google Cloud, Meta, and Microsoft among first to gain access."
+      ]
+    },
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 2.49,
+        "unit": "billion",
+        "context": "Gaming revenue of $2.49 billion was up 11% sequentially and up 22% year-on-year.",
+        "period": "Q2"
+      },
+      "growth_yoy": 22.0,
+      "growth_qoq": 11.0,
+      "key_points": [
+        "Growth fueled by GeForce RTX 40 Series GPUs for laptops and desktop.",
+        "End customer demand solid and consistent with seasonality.",
+        "Global end demand has returned to growth after last year's slowdown.",
+        "Large upgrade opportunity ahead: 47% of installed base have upgraded to RTX; about 20% have GPU with RTX 3060 or higher performance.",
+        "Laptop GPUs posted strong growth in key back-to-school season, led by RTX 4060 GPUs.",
+        "NVIDIA's GPU-powered laptops have gained popularity, shipments now outpacing desktop GPUs in several regions worldwide.",
+        "Gaming revenue likely to have stronger quarters in Q2 and Q3, reflecting back-to-school and holiday build schedules for laptops.",
+        "In desktop, launched GeForce RTX 4060 and GeForce RTX 4060 TI GPUs, bringing Ada Lovelace architecture down to price points as low as $299.",
+        "Ecosystem of RTX and DLSS games continues to expand: 35 new games added to DLSS support, including blockbusters such as Diablo IV and Baldur’s Gate 3.",
+        "Over 330 RTX accelerated games and apps.",
+        "Bringing generative AI to gaming: at COMPUTEX, announced NVIDIA Avatar Cloud Engine (ACE) for games, a custom AI model foundry service.",
+        "Developers can use this service to bring intelligence to non-player characters, harnessing NVIDIA Omniverse and AI technologies including NeMo, Riva, and Audio2Face."
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.375,
+        "unit": "billion",
+        "context": "Revenue of $375 million was up 28% sequentially and down 24% year-on-year.",
+        "period": "Q2"
+      },
+      "growth_yoy": -24.0,
+      "growth_qoq": 28.0,
+      "key_points": [
+        "Ada architecture ramp drove strong growth in Q2, rolling out initially in laptop workstations with a refresh of desktop workstations coming in Q3.",
+        "Desktop workstations will include new RTX systems with up to 4 NVIDIA RTX 6000 GPUs, providing more than 5,800 teraflops of AI performance and 192 gigabytes of GPU memory.",
+        "Configurable with NVIDIA AI enterprise or NVIDIA Omniverse inside.",
+        "Announced three new desktop workstation GPUs based on Ada generation: NVIDIA RTX 5000, 4500, and 4000, offering up to 2x RT core throughput and up to 2x faster AI training performance compared to previous generation.",
+        "Expanding opportunity in pro visualization: traditional workloads (3D design, content creation) plus new workloads (generative AI, large language model development, data science).",
+        "NVIDIA Omniverse positioning as OpenUSD's native platform.",
+        "OpenUSD becoming standard for 3D, similar to HTML for 2D.",
+        "Adobe, Apple, Autodesk, Pixar, and NVIDIA form the Alliance for OpenUSD, mission to accelerate OpenUSD's development and adoption.",
+        "Announced new and upcoming Omniverse cloud APIs, including RunUSD and ChatUSD to bring generative AI to OpenUSD workload."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.253,
+        "unit": "billion",
+        "context": "Revenue was $253 million, down 15% sequentially and up 15% year-on-year.",
+        "period": "Q2"
+      },
+      "growth_yoy": 15.0,
+      "growth_qoq": -15.0,
+      "key_points": [
+        "Solid year-on-year growth driven by ramp of self-driving platforms based on [indiscernible] or associated with a number of new energy vehicle makers.",
+        "Sequential decline reflects lower overall automotive demand, particularly in China.",
+        "Announced partnership with MediaTek to bring drivers and passengers new experiences inside the car.",
+        "MediaTek will develop automotive SoCs and integrate a new product line of NVIDIA's GPU chiplet.",
+        "Partnership covers a wide range of vehicle segments from luxury to entry level."
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided."
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q2."
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q2."
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q2."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 70.1,
+      "unit": "%",
+      "context": "GAAP gross margins expanded to 70.1%, and non-GAAP gross margin to 71.2%, driven by higher data center sales. Data Center products include a significant amount of software and complexity, which is also helping drive our gross margin.",
+      "period": "Q2"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific cash flow data provided.",
+      "period": "Q2"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": 25,
+        "unit": "million",
+        "context": "GeForce NOW registered members now exceed 25 million.",
+        "period": "Q1"
+      },
+      "gfnow_games": {
+        "value": 1400,
+        "unit": "games",
+        "context": "GeForce NOW library now includes over 1,400 games after adding 85 more titles this quarter.",
+        "period": "Q2"
+      },
+      "share_repurchases": {
+        "value": 3.4,
+        "unit": "billion",
+        "context": "Returned approximately $3.4 billion to shareholders in the form of share repurchases and cash dividends.",
+        "period": "Fiscal 2024"
+      },
+      "share_repurchase_authorization_remaining": {
+        "value": 29,
+        "unit": "billion",
+        "context": "Board approved an additional $25 billion in stock repurchases to add to our remaining $4 billion of authorization as of the end of Q2.",
+        "period": "Q2 Fiscal 2024"
+      }
+    }
+  },
+  "future_guidance": {
+    "q3_fiscal_2024_revenue": {
+      "value": 16.0,
+      "unit": "billion",
+      "context": "For Q3, total revenue is expected to be $16 billion, plus or minus 2%.",
+      "period": "Q3 Fiscal 2024"
+    },
+    "q3_fiscal_2024_gross_margin": {
+      "gaap": 71.5,
+      "non_gaap": 72.5,
+      "unit": "%",
+      "context": "GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points.",
+      "period": "Q3 Fiscal 2024"
+    },
+    "q3_fiscal_2024_operating_expenses": {
+      "gaap": 2.95,
+      "non_gaap": 2.0,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP operating expenses are expected to be approximately $2.95 billion and $2 billion, respectively.",
+      "period": "Q3 Fiscal 2024"
+    },
+    "q3_fiscal_2024_other_income_expenses": {
+      "value": 0.1,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP other income and expenses are expected to be an income of approximately $100 million, excluding gains and losses from non-affiliated investments.",
+      "period": "Q3 Fiscal 2024"
+    },
+    "q3_fiscal_2024_tax_rates": {
+      "value": [
+        14.5,
+        null
+      ],
+      "unit": "%",
+      "context": "GAAP and non-GAAP tax rates are expected to be 14.5%, plus or minus 1%, excluding any discrete items.",
+      "period": "Q3 Fiscal 2024"
+    },
+    "capital_expenditures": {
+      "value": [
+        3.0,
+        3.5
+      ],
+      "unit": "billion",
+      "context": "Capital expenditures expected to be approximately $3.0 billion to $3.5 billion.",
+      "period": "Fiscal 2024"
+    },
+    "full_year_non_gaap_opex_growth": {
+      "value": 30,
+      "unit": "%",
+      "context": "Full year non-GAAP OpEx is expected to grow over 30%.",
+      "period": "Fiscal 2024"
+    },
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Partnership with Snowflake to provide enterprises with accelerated path to create customized generative AI applications using their own proprietary data within Snowflake Data Cloud.",
+    "Partnership with ServiceNow and Accenture to launch AI Lighthouse program, fast tracking the development of enterprise AI capabilities.",
+    "Collaboration with Hugging Face to simplify creation of new and custom AI models for enterprises, offering services to train and tune advanced AI models powered by NVIDIA HGX cloud.",
+    "VMware and NVIDIA announced VMware Private AI Foundation with NVIDIA, a fully integrated platform featuring AI software and accelerated computing with multi-cloud software for enterprises running VMware.",
+    "Announcement of new NVIDIA AI enterprise-ready servers featuring NVIDIA L40S GPU built for data center server ecosystem and BlueField-3 DPU data center infrastructure processor.",
+    "Launch of GH200 Grace Hopper Superchip, combining ARM-based Grace CPU with Hopper GPU, entered full production and available this quarter in OEM servers.",
+    "Collaboration with SoftBank on a platform based on GH200 for generative AI and 5G/6G applications.",
+    "Announcement of DGX GH200, a new class of large memory AI supercomputer for giant AI language models, recommendation systems, and data analytics.",
+    "Announced NVIDIA Spectrum-X, an accelerated networking platform designed to optimize Ethernet for AI workloads.",
+    "Partnership with MediaTek to bring drivers and passengers new experiences inside the car.",
+    "Board approved additional $25 billion in stock repurchases to add to remaining $4 billion authorization as of end of Q2."
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Global end demand in Gaming has returned to growth after last year's slowdown, with large upgrade opportunities and strong back-to-school and holiday build schedules for laptops."
+    },
+    {
+      "cloud_gaming_expansion": "NVIDIA Avatar Cloud Engine (ACE) for games and integration of generative AI into 3D content creation expanding GeForce NOW and gaming ecosystem."
+    },
+    {
+      "cryptocurrency_mining": "Introduction of programs to adjust pricing and position GPUs in response to diminishing contribution from cryptocurrency mining."
+    },
+    {
+      "accelerated_computing": "AI and accelerated computing driving Data Center growth with strong adoption of HGX systems, H100 Tensor Core GPUs, L40S GPU, Spectrum-X networking platform, and Grace Hopper Superchips."
+    },
+    {
+      "partnerships": [
+        "Partnership with Snowflake to accelerate generative AI applications.",
+        "Partnership with ServiceNow and Accenture for AI Lighthouse program.",
+        "Collaboration with Hugging Face to simplify creation of new and custom AI models for enterprises.",
+        "VMware and NVIDIA's VMware Private AI Foundation with NVIDIA.",
+        "Partnership with MediaTek to develop automotive SoCs integrating NVIDIA GPU chiplets."
+      ]
+    },
+    {
+      "technological_advancements": [
+        "Launch of NVIDIA Spectrum-X, an accelerated networking platform designed to optimize Ethernet for AI workloads.",
+        "Launch of GH200 Grace Hopper Superchip combining ARM-based Grace CPU with Hopper GPU.",
+        "Introduction of DGX GH200, a new class of large memory AI supercomputer.",
+        "Announcement of second generation Grace Hopper Superchip with latest HBM3e memory available in Q2 calendar 2024.",
+        "NVIDIA Omniverse advancements with new cloud APIs, RunUSD and ChatUSD."
+      ]
+    },
+    {
+      "customer_adoption": [
+        "Adoption of NVIDIA AI enterprise software across Data Center, cloud, and on-premise infrastructure.",
+        "Over 330 RTX accelerated games and apps, partnerships with major game developers like WPP and Shutterstock.",
+        "Enterprises adopting NVIDIA AI enterprise software with access to acceleration libraries, pre-trained models, APIs.",
+        "VMware's hundreds of thousands of enterprise customers accessing VMware Private AI Foundation with NVIDIA.",
+        "H100 Tensor Core GPUs available at AWS, Microsoft Azure, and several GPU cloud providers; DGX GH200 systems available to Google Cloud, Meta, and Microsoft.",
+        "BlueField-3 DPU in qualification with major OEMs and ramping across multiple CSPs and consumer Internet companies."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-08-15T00:00:00Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Thanks, Simona.",
+      "We had an exceptional quarter. Record Q2 revenue of $13.51 billion was up 88% sequentially and up 101% year-on-year, and above our outlook of $11 billion."
+    ],
+    "gaming": [
+      "Gaming revenue of $2.49 billion was up 11% sequentially and up 22% year-on-year.",
+      "Growth fueled by GeForce RTX 40 Series GPUs for laptops and desktop.",
+      "End customer demand solid and consistent with seasonality.",
+      "Global end demand has returned to growth after last year's slowdown.",
+      "Large upgrade opportunity ahead: 47% of installed base have upgraded to RTX; about 20% have GPU with RTX 3060 or higher performance.",
+      "Laptop GPUs posted strong growth in key back-to-school season, led by RTX 4060 GPUs.",
+      "NVIDIA's GPU-powered laptops have gained popularity, shipments now outpacing desktop GPUs in several regions worldwide.",
+      "Gaming revenue likely to have stronger quarters in Q2 and Q3, reflecting back-to-school and holiday build schedules for laptops.",
+      "In desktop, launched GeForce RTX 4060 and GeForce RTX 4060 TI GPUs, bringing Ada Lovelace architecture down to price points as low as $299.",
+      "Ecosystem of RTX and DLSS games continues to expand: 35 new games added to DLSS support, including blockbusters such as Diablo IV and Baldur’s Gate 3.",
+      "Over 330 RTX accelerated games and apps.",
+      "Bringing generative AI to gaming: at COMPUTEX, announced NVIDIA Avatar Cloud Engine (ACE) for games, a custom AI model foundry service.",
+      "Developers can use this service to bring intelligence to non-player characters, harnessing NVIDIA Omniverse and AI technologies including NeMo, Riva, and Audio2Face."
+    ],
+    "proviz": [
+      "Revenue of $375 million was up 28% sequentially and down 24% year-on-year.",
+      "Ada architecture ramp drove strong growth in Q2, rolling out initially in laptop workstations with a refresh of desktop workstations coming in Q3.",
+      "Desktop workstations will include new RTX systems with up to 4 NVIDIA RTX 6000 GPUs, providing more than 5,800 teraflops of AI performance and 192 gigabytes of GPU memory.",
+      "Configurable with NVIDIA AI enterprise or NVIDIA Omniverse inside.",
+      "Announced three new desktop workstation GPUs based on Ada generation: NVIDIA RTX 5000, 4500, and 4000, offering up to 2x RT core throughput and up to 2x faster AI training performance compared to previous generation.",
+      "Expanding opportunity in pro visualization: traditional workloads (3D design, content creation) plus new workloads (generative AI, large language model development, data science).",
+      "NVIDIA Omniverse positioning as OpenUSD's native platform.",
+      "OpenUSD becoming standard for 3D, similar to HTML for 2D.",
+      "Adobe, Apple, Autodesk, Pixar, and NVIDIA form the Alliance for OpenUSD, mission to accelerate OpenUSD's development and adoption.",
+      "Announced new and upcoming Omniverse cloud APIs, including RunUSD and ChatUSD to bring generative AI to OpenUSD workload."
+    ],
+    "automotive": [
+      "Revenue was $253 million, down 15% sequentially and up 15% year-on-year.",
+      "Solid year-on-year growth driven by ramp of self-driving platforms based on [indiscernible] or associated with a number of new energy vehicle makers.",
+      "Sequential decline reflects lower overall automotive demand, particularly in China.",
+      "Announced partnership with MediaTek to bring drivers and passengers new experiences inside the car.",
+      "MediaTek will develop automotive SoCs and integrate a new product line of NVIDIA's GPU chiplet.",
+      "Partnership covers a wide range of vehicle segments from luxury to entry level."
+    ],
+    "data_center": [
+      "Revenue of $10.32 billion was up 141% sequentially and up 171% year-on-year.",
+      "Data Center compute revenue nearly tripled year-on-year, driven primarily by accelerating demand from cloud service providers and large consumer Internet companies for HGX platform, the engine of generative AI and large language models.",
+      "Major companies, including AWS, Google Cloud, Meta, Microsoft Azure and Oracle Cloud, as well as a growing number of GPU cloud providers are deploying in volume HGX systems based on our Hopper and Ampere architecture Tensor Core GPUs.",
+      "Networking revenue almost doubled year-on-year, driven by our end-to-end InfiniBand networking platform, the gold standard for AI.",
+      "Tremendous demand for NVIDIA accelerated computing and AI platforms.",
+      "Our supply partners have been exceptional in ramping capacity to support our needs.",
+      "Our data center supply chain, including HGX with 35,000 parts and highly complex networking has been built up over the past decade.",
+      "Developed and qualified additional capacity and suppliers for key steps in the manufacturing process such as [indiscernible] packaging.",
+      "We expect supply to increase each quarter through next year.",
+      "By geography, data center growth was strongest in the U.S. as customers direct their capital investments to AI and accelerated computing.",
+      "China demand was within the historical range of 20% to 25% of our Data Center revenue, including compute and networking solutions.",
+      "Addressed reports on potential increased export regulations to China: current regulation achieving intended results; no immediate material impact expected from additional export restrictions.",
+      "Long-term, restrictions prohibiting sale of Data Center GPUs to China would result in a permanent loss and opportunity for the U.S. industry in one of the world's largest markets.",
+      "Cloud service providers drove exceptionally strong demand for HGX systems in the quarter, undertaking a generational transition to upgrade data center infrastructure for accelerated computing and AI.",
+      "NVIDIA HGX platform culmination of nearly two decades of full stack innovation across silicon, systems, interconnects, networking, software, and algorithms.",
+      "Instances powered by NVIDIA H100 Tensor Core GPUs generally available at AWS, Microsoft Azure, and several GPU cloud providers, with others on the way shortly.",
+      "Consumer Internet companies also drove very strong demand; their investments in AI-purpose-built data center infrastructure are generating significant returns (e.g., Meta's Reels leading to 24% increase in time spent on Instagram).",
+      "Enterprises racing to deploy generative AI, driving strong consumption of NVIDIA-powered instances in the cloud and on-premise infrastructure.",
+      "Applications can run seamlessly on NVIDIA AI enterprise software with access to acceleration libraries, pre-trained models, and APIs.",
+      "Partnership with Snowflake to provide enterprises with accelerated path to create customized generative AI applications using their own proprietary data within Snowflake Data Cloud.",
+      "NVIDIA NeMo platform allows enterprises to make custom LLMs for advanced AI services such as chatbots, search, and summarization.",
+      "Virtually every industry can benefit from generative AI; examples include AI Copilot by Microsoft boosting productivity of over 1 billion office workers and tens of millions of software engineers.",
+      "Early applications in marketing, media, and entertainment, such as WPP using NVIDIA Omniverse for generative AI in 3D content creation, and Shutterstock using NVIDIA Picasso for generative AI in creating 3D scene backgrounds.",
+      "Partnerships with ServiceNow and Accenture to launch AI Lighthouse program for developing enterprise AI capabilities.",
+      "Collaboration with Hugging Face to simplify creation of new and custom AI models for enterprises, offering services to train and tune advanced AI models powered by NVIDIA HGX cloud.",
+      "VMware and NVIDIA announced VMware Private AI Foundation with NVIDIA, a fully integrated platform featuring AI software and accelerated computing with multi-cloud software for enterprises running VMware.",
+      "New NVIDIA AI enterprise-ready servers featuring NVIDIA L40S GPU built for data center server ecosystem and BlueField-3 DPU data center infrastructure processor.",
+      "L40S shipping to world's leading server system makers, designed as a universal data center processor for high-volume data centers to accelerate compute-intensive applications including AI training, inventing, designing, visualization, video processing, and NVIDIA Omniverse industrial digitalization.",
+      "NVIDIA AI enterprise ready servers fully optimized for VMware, Cloud Foundation, and Private AI Foundation, with nearly 100 configurations available from Dell, HP, Lenovo.",
+      "GH200 Grace Hopper Superchip (ARM-based Grace CPU with Hopper GPU) entered full production, available this quarter in OEM servers and shipping to multiple supercomputing customers, including Atmos, National Labs, and Swiss National Computing Center.",
+      "NVIDIA and SoftBank collaborating on a platform based on GH200 for generative AI and 5G/6G applications.",
+      "Second generation Grace Hopper Superchip with latest HBM3e memory available in Q2 calendar 2024.",
+      "Announced DGX GH200, a new class of large memory AI supercomputer for giant AI language models, recommendation systems, and data analytics, first use of new NVIDIA [indiscernible] switch system enabling 256 Grace Hopper Superchips to work together as one, compared to prior generation connecting 8 GPUs over [indiscernible].",
+      "DGX GH200 systems expected to be available by end of year, with Google Cloud, Meta, and Microsoft among first to gain access."
+    ]
+  }
+}

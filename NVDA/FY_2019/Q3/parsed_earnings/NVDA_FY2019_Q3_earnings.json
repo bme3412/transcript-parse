@@ -1,0 +1,287 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2019",
+  "total_revenue": {
+    "value": 3.18,
+    "unit": "billion",
+    "context": "Total revenue for Q3, up 21% year-on-year.",
+    "period": "Q3"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 1.76,
+        "unit": "billion",
+        "context": "Gaming revenue for Q3, up 13% year-on-year and down 2% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 13.0,
+      "growth_qoq": -2.0,
+      "key_points": [
+        "Initial sales of Turing-based GPUs and strong notebook sales drove YoY growth.",
+        "Mid-September launch of GeForce RTX series, the first gaming GPUs based on Turing architecture.",
+        "RTX technology delivers up to 2x the performance of Pascal and 6x more for ray-traced graphics.",
+        "High-end Pascal cards sold through, but midrange Pascal cards faced higher-than-expected inventory levels."
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 0.792,
+        "unit": "billion",
+        "context": "Data center revenue for Q3, up 58% year-on-year and up 4% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 58.0,
+      "growth_qoq": 4.0,
+      "key_points": [
+        "Strong demand for Volta architecture products, including Tesla V100 and VGX systems.",
+        "Launch of Turing T4 Cloud GPU, which saw the fastest adoption of any server GPU.",
+        "T4 integrated into 57 server designs and available on Google Cloud Platform.",
+        "Updated TensorRT software stack and NVIDIA TensorRT Hyperscale Platform announced."
+      ]
+    },
+    {
+      "name": "Professional Visualization",
+      "revenue": {
+        "value": 0.305,
+        "unit": "billion",
+        "context": "Professional visualization revenue for Q3, up 28% year-on-year and up 9% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 28.0,
+      "growth_qoq": 9.0,
+      "key_points": [
+        "Strength across desktop and mobile platforms.",
+        "Key industries include public sector, manufacturing, and architecture, engineering, and construction.",
+        "Launch of Quadro RTX 8000, 6000, and 5000 GPUs based on Turing architecture."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.172,
+        "unit": "billion",
+        "context": "Automotive revenue for Q3, up 19% year-on-year and up 7% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 19.0,
+      "growth_qoq": 7.0,
+      "key_points": [
+        "Growth in autonomous vehicle production and AI-based cockpit infotainment systems.",
+        "Volvo Cars selected NVIDIA DRIVE AGX Xavier for next-generation vehicles.",
+        "Development kit for DRIVE AGX Xavier started shipping in Q3."
+      ]
+    },
+    {
+      "name": "Tegra Processor",
+      "revenue": {
+        "value": 0.407,
+        "unit": "billion",
+        "context": "Tegra processor revenue for Q3, down 3% year-on-year.",
+        "period": "Q3"
+      },
+      "growth_yoy": -3.0,
+      "growth_qoq": null,
+      "key_points": []
+    },
+    {
+      "name": "GPU",
+      "revenue": {
+        "value": 2.77,
+        "unit": "billion",
+        "context": "GPU revenue for Q3, up 25% year-on-year.",
+        "period": "Q3"
+      },
+      "growth_yoy": 25.0,
+      "growth_qoq": null,
+      "key_points": []
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 60.4,
+      "unit": "percentage",
+      "context": "GAAP gross margin for Q3.",
+      "period": "Q3"
+    },
+    "operating_margin": null,
+    "net_income": {
+      "value": 1.23,
+      "unit": "billion",
+      "context": "GAAP net income for Q3.",
+      "period": "Q3"
+    },
+    "cash_flow": {
+      "value": 487.0,
+      "unit": "million",
+      "context": "Quarterly cash flow from operations.",
+      "period": "Q3"
+    },
+    "other_metrics": {
+      "non_gaap_gross_margin": {
+        "value": 61.0,
+        "unit": "percentage",
+        "context": "Non-GAAP gross margin for Q3.",
+        "period": "Q3"
+      },
+      "gaap_operating_expenses": {
+        "value": 863.0,
+        "unit": "million",
+        "context": "GAAP operating expenses for Q3.",
+        "period": "Q3"
+      },
+      "non_gaap_operating_expenses": {
+        "value": 730.0,
+        "unit": "million",
+        "context": "Non-GAAP operating expenses for Q3.",
+        "period": "Q3"
+      },
+      "inventory": {
+        "value": 1.42,
+        "unit": "billion",
+        "context": "Inventory at the end of Q3.",
+        "period": "Q3"
+      },
+      "accounts_receivable": {
+        "value": 2.22,
+        "unit": "billion",
+        "context": "Accounts receivable at the end of Q3.",
+        "period": "Q3"
+      },
+      "capital_expenditures": {
+        "value": 150.0,
+        "unit": "million",
+        "context": "Capital expenditures for Q3.",
+        "period": "Q3"
+      }
+    }
+  },
+  "future_guidance": {
+    "revenue": {
+      "value": 2.7,
+      "unit": "billion",
+      "context": "Expected revenue for Q4.",
+      "period": "Q4"
+    },
+    "gaap_gross_margin": {
+      "value": 62.3,
+      "unit": "percentage",
+      "context": "Expected GAAP gross margin for Q4.",
+      "period": "Q4"
+    },
+    "non_gaap_gross_margin": {
+      "value": 62.5,
+      "unit": "percentage",
+      "context": "Expected non-GAAP gross margin for Q4.",
+      "period": "Q4"
+    },
+    "capital_expenditures": {
+      "value": 190.0,
+      "unit": "million",
+      "context": "Expected capital expenditures for Q4.",
+      "period": "Q4"
+    }
+  },
+  "strategic_initiatives": [
+    "Launch of Turing-based GPUs and RTX technology.",
+    "Introduction of RAPIDS for GPU-accelerated data analytics and machine learning.",
+    "Expansion of NVIDIA's inference platform with TensorRT and T4 GPU.",
+    "Launch of NVIDIA RTX Server reference architecture for photoreal rendering."
+  ],
+  "market_opportunities": [
+    {
+      "ray_traced_gaming": "Growth opportunities in ray-traced gaming and rendering."
+    },
+    {
+      "ai_and_self_driving_cars": "Expansion into AI and self-driving car markets."
+    },
+    {
+      "data_analytics": "RAPIDS opens a $20 billion server market for data analytics and machine learning workloads."
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-10T19:34:06.227252",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Q3 revenue reached $3.18 billion, up 21% from a year earlier, with all 4 of our market platforms growing double digits.",
+      "Data center, professional visualization, and automotive all hit record levels.",
+      "Gaming was short of expectations as post crypto channel inventory took longer than expected to sell through."
+    ],
+    "gaming": [
+      "Gaming revenue of $1.76 billion was up 13% YoY and down 2% sequentially.",
+      "Year-on-year growth driven by initial sales of our new Turing-based GPUs as well as strong notebook sales, which more than offset gaming console declines.",
+      "In mid-September, began shipping GeForce RTX series, the first gaming GPUs based on Turing architecture.",
+      "Turing RTX technology delivers up to 2x the performance of its predecessor, Pascal, and 6x more for ray-traced graphics.",
+      "First two GeForce RTX gaming cards, the 2080 Ti and the 2080, delivered 4K HDR gaming and 60 frames per second on advanced AAA titles.",
+      "Pipeline of upcoming games supporting NVIDIA RTX features is well on its way to establishing RTX as a game-changing architecture.",
+      "Post-crypto channel inventory took longer than expected to normalize, leading to weaker-than-expected sales of midrange Pascal gaming cards.",
+      "Pascal positioned as the GPU of choice in the midrange for the holidays; expect to work down channel inventories over the next quarter or two."
+    ],
+    "data_center": [
+      "Data Center revenue was $792 million, up 58% YoY and up 4% sequentially.",
+      "Strong demand for Volta architecture products, including Tesla V100 and VGX systems.",
+      "Launch of Turing T4 Cloud GPU saw the fastest adoption of any server GPU; integrated into 57 server designs and available on Google Cloud Platform.",
+      "Updated TensorRT software stack and NVIDIA TensorRT Hyperscale Platform announced.",
+      "T4 delivers world record performance for deep learning inference and accelerates diverse cloud workloads.",
+      "Launch of NVIDIA RTX Server reference architecture, incorporating up to 8 Turing-based RTX 8000 GPUs for photoreal rendering.",
+      "Introduction of RAPIDS, GPU-accelerated data analytics and machine learning platform, opening up a $20 billion server market.",
+      "Strong industry support from developers like Adobe, ANSYS, Autodesk, Dassault, and others.",
+      "Increase in TOP500 supercomputer systems using NVIDIA GPUs by 48% from last year, including the #1 and #2 systems."
+    ],
+    "pro_vis": [
+      "Professional Visualization revenue reached $0.305 billion, up 28% YoY and up 9% sequentially.",
+      "Strength extended across desktop and mobile platforms, key industries include public sector, manufacturing, and architecture, engineering, and construction.",
+      "Launch of Quadro RTX 8000, 6000, and 5000 GPUs based on Turing architecture.",
+      "Introduction of Quadro RTX 4000, the most advanced professional GPU priced under $1,000.",
+      "RTX Ray tracing transforming the visual effects industry, enabling researchers and developers to achieve photorealistic rendering, augmented reality, and virtual reality.",
+      "Key wins include Boeing, Google, LinkedIn, and Toyota for applications including AI and robotics.",
+      "RTX Ray tracing enabling faster photorealistic rendering and enhanced productivity for millions of creators and designers."
+    ],
+    "automotive": [
+      "Automotive revenue was $0.172 billion, up 19% YoY and up 7% sequentially.",
+      "Growth driven by autonomous vehicle production and AI-based cockpit infotainment systems.",
+      "Volvo Cars selected NVIDIA DRIVE AGX Xavier for next-generation vehicles, delivering Level 2+ assisted driving features.",
+      "Development kit for DRIVE AGX Xavier started shipping in Q3, enabling millions of miles driven in virtual simulations.",
+      "Introduced NVIDIA Safety Force Field, a computational defensive driving framework to prevent collisions through simulation.",
+      "Positions NVIDIA in a $30 billion addressable market for autonomous vehicles by 2025, offering an end-to-end platform from AI computing infrastructure to simulation and in-car computing."
+    ],
+    "financials": [
+      "Q3 GAAP gross margin was 60.4%, and non-GAAP gross margin was 61%, below our outlook due to a $57 million charge for prior architecture components and chips following the sharp falloff in crypto demand.",
+      "GAAP operating expenses were $863 million, and non-GAAP operating expenses were $730 million, up 28% year-on-year.",
+      "Continues to invest in key platforms driving long-term growth, including gaming, data center, and automotive.",
+      "GAAP net income was $1.23 billion, and EPS was $1.97, up 48% from a year earlier.",
+      "GAAP net income benefited from the reduction of $138 million in our U.S. tax reform transition tax amount as well as other discrete tax items.",
+      "Non-GAAP net income was $1.15 billion and EPS was $1.84, up 38% from a year ago, reflecting revenue growth and gross margin expansion as well as lower income tax expense.",
+      "Accounts receivable was $2.22 billion compared to $1.66 billion in the prior quarter as Turing's RTX shipments began in the latter part of the quarter.",
+      "Inventory at the end of the quarter was $1.42 billion compared to $1.09 billion in the prior quarter, reflecting the ramp in production of Turing products.",
+      "Quarterly cash flow from operations was $487 million.",
+      "Capital expenditures were $150 million.",
+      "Returned $1.95 billion to shareholders in fiscal year 2019 through a combination of quarterly dividends and share repurchases.",
+      "Announced a $0.01 increase in our quarterly dividend to $0.16 effective in Q4 of fiscal 2019.",
+      "Increased share repurchase authorization by $7 billion and intend to return an additional $3 billion to shareholders by the end of fiscal 2020."
+    ],
+    "q4_outlook": [
+      "Expect revenue for Q4 to be $2.7 billion, plus or minus 2%.",
+      "GAAP gross margin expected to be 62.3% ±50 basis points.",
+      "Non-GAAP gross margin expected to be 62.5% ±50 basis points.",
+      "GAAP operating expenses expected to be approximately $915 million.",
+      "Non-GAAP operating expenses expected to be approximately $755 million.",
+      "GAAP and non-GAAP OI&E both expected to be income of $21 million.",
+      "GAAP and non-GAAP tax rates expected to be 8% ±1%, excluding discrete items.",
+      "Capital expenditures expected to be approximately $150 million.",
+      "Expect channel inventory normalization and seasonal trends to support revenue outlook."
+    ],
+    "investor_relations": [
+      "Posted an investor presentation summarizing Q3 results and key highlights.",
+      "Committed to returning $3 billion to shareholders through dividends and buybacks by the end of fiscal 2020.",
+      "Upcoming events: Morgan Stanley Technology, Media and Telecom Conference on February 26; RBC Future of Mobility Conference on June 6; and NASDAQ Investor Conference on June 13."
+    ]
+  }
+}

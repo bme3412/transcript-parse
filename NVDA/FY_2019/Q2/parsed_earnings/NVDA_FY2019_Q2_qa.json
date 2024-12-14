@@ -1,0 +1,125 @@
+{
+    "speakers": {
+      "jensen_huang": {
+        "role": "CEO",
+        "responses": [
+          {
+            "topic": "Ray Tracing and RTX Technology",
+            "context": "Response to technology platforms and market opportunities",
+            "content": "Turing, as you know, is the world's first ray-tracing GPU. And it completes our new computer graphics platform, which is going to reinvent computer graphics altogether. It unites four different computing modes rasterization, accelerated ray-tracing, computing with CUDA, and artificial intelligence. It uses these four basic methods to create imagery for the future. There's two different -- two major ways that we'll experience the benefits right-away. The first is for the markets of visualization today, they require photorealistic images. Whether it's a IKEA Catalog or movie, or architectural engineering, or product design, car design, all of these types of markets require photorealistic images. And the only way to really achieve that is to use ray-tracing with physically based materials and lighting."
+          },
+          {
+            "topic": "Gaming Development and RTX",
+            "context": "Response to content development progress",
+            "content": "At GTC this last year in March -- GDC and GTC, we announced a brand new platform called NVIDIA RTX. And this platform has those four computation methods that I described, for generating images. We put that platform out with the support of Microsoft. They call it the Microsoft DirectX Raytracing. And the major game engine companies, Epic has implemented real-time ray-tracing and the RTX into, the Unreal Engine. And at GDC and GTC, we demonstrated for the very first time on four Volta GPUs, on four Volta GPUs, the ability to do that. And it was the intention of - to get this platform out to all of the game developers."
+          },
+          {
+            "topic": "Inventory and Channel",
+            "context": "Response to channel inventory concerns",
+            "content": "On the channel inventory side, we see inventory in the lower end of our stack. And that inventory is well-positioned for back-to-school and the building season that's coming up on Q3. And so, I feel pretty good about that. The rest of our product launches and the ramp-up of Turing is going really well. And so, I think the rest of the announcements we haven't made, but stay tuned. The RTX family is going to be a real game-changer for us."
+          },
+          {
+            "topic": "Pascal vs Turing Comparison",
+            "context": "Response to product cycle comparison",
+            "content": "Pascal was really successful. Pascal, relative to Maxwell, was a leap in fact, and it was a really significant upgrade. The architectures were largely the same. They were both programmable shading. They were both at the same generation programmable shading. But Pascal was much, much more energy efficient, I think it was something like 30%, 40% more energy efficient than Maxwell. And that translated to performance benefits to customers. The success of Pascal was fantastic. There's just simply no comparison to Turing. Turing is a reinvention of computer graphics."
+          },
+          {
+            "topic": "Datacenter and AI Applications",
+            "context": "Response to vertical market opportunities",
+            "content": "In the transportation industry, let's take one particular vertical, there are two dynamics that are happening that are very, very abundantly clear, and that will double -- transform that industry. The first of course is ride hailing and ride sharing. Those platforms in order to make a recommendation of which taxi to bring to which passenger, which customer, is a really large computing problem. It's a machine learning problem; it's an optimization problem at very, very large scale. The second is self-driving cars. Every single car company that's working on robot taxis or self-driving cars, needs to collect data, label data, train on your network, or train a whole bunch of on your networks, and run those neural networks and cars."
+          },
+          {
+            "topic": "Inference Performance",
+            "context": "Response to inference market opportunities",
+            "content": "Inference is going to be a very large market for us. It is surely material now in our Datacenter business. It is not the largest segment, but I believe it's going to be a very large segment of our Datacenter business. There're 30 million servers around the world, and that's kind of estimate, in the cloud, and there are a whole lot more in enterprises. I believe that almost every server in the future will be accelerated."
+          },
+          {
+            "topic": "Cryptocurrency Impact",
+            "context": "Response to crypto mining effects",
+            "content": "A lot of gamers at night, they could -- while they're sleeping, they could do some mining. And so, do they buy it for mining or did they buy it for gaming, it's kind of hard to say. And some miners were unable to buy our OEM products, and so they jumped on to the market to buy it from retail, and that probably happened a great deal as well. And that all happened in the last -- the previous several quarters, probably starting from late Q3, Q4, Q1, and very little last quarter, and we're projecting no crypto-mining going forward."
+          },
+          {
+            "topic": "Tesla Relationship",
+            "context": "Response to Tesla's Hardware 3 development",
+            "content": "I appreciate Elon's comments about our Company, and I also think Tesla makes great cars, and I drive them very happily. And with respect to the next generation, it is the case that when we first started working on autonomous vehicles, they needed our help. And we used a three-year-old Pascal GPU for the current generation of autopilot computers. And it is very clear now that in order to have a safe autopilot system, we need a lot more computing horsepower."
+          }
+        ],
+        "closing_remarks": "We had a great quarter. Our core platforms exceeded expectations, even as crypto largely disappeared. Each of our platforms AI, Gaming, ProViz and self driving cars continued to enjoy great adoption. These markets are -- we are enabling are some of the most impactful to world -- to the world today. We launched Turing this week. It was 10 years in the making and completes the NVIDIA RTX platform. NVIDIA RTX with Turing is the greatest advance since CUDA, nearly a decade ago."
+      },
+      "colette_kress": {
+        "role": "CFO",
+        "responses": [
+          {
+            "topic": "Inventory Management",
+            "context": "Response to balance sheet inventory levels",
+            "content": "When you look at our inventory on the balance sheet, I think it's generally consistent with what you have seen over the last several months in terms of what we will be bringing to market. Turing is an extremely important piece of architecture, and as you know, it will be with us for some time. So, I think the inventory balance is getting ready for that. And don't forget, our work in terms of Datacenter and what we have for Volta is also a very, very complex computer in some cases in terms of what we have also in terms of there."
+          },
+          {
+            "topic": "Gross Margins",
+            "context": "Response to margin normalization",
+            "content": "We have essentially reached, as we move into Q3, normalization of our gross margins. I believe, over the last several quarters, we have seen the impact of crypto and what that can do to elevate our overall gross margins. We believe we've reached a normal period, as we're looking forward to essentially no cryptocurrency as we move forward."
+          },
+          {
+            "topic": "Datacenter Outlook",
+            "context": "Response to datacenter growth expectations",
+            "content": "So, as you know, we generally give our view on guidance for one quarter out. You are correct that our Datacenter results that we see is always a tremendous, unique mix every single quarter in terms of what we're seeing. But, there's still some underlying points of that that will likely continue. The growth in terms of use by the hyperscales, continued industry-by-industry coming on-board, essentially just because the needs of accelerated computing for the workloads and for the data that they have is so essential."
+          },
+          {
+            "topic": "Platform Growth",
+            "context": "Response to segment guidance question",
+            "content": "When you look at our overall segments, as you've even seen our results in terms of this last Q2, there is growth across every single one of our platforms from a year-over-year standpoint. We probably possibly see that again in our Q3 guidance, the year-over-year growth across each and every one of those platforms. Of course, our OEM business will be down likely year-over-year, again just due to absence of those cryptocurrency in our forecast."
+          }
+        ]
+      }
+    },
+    "analyst_questions": [
+      {
+        "analyst": "Mark Lipacis",
+        "firm": "Jefferies",
+        "topic": "Ray Tracing Markets",
+        "question": "The question is on ray-tracing. To what extent is this creating new markets versus enabling greater capabilities in your existing markets?"
+      },
+      {
+        "analyst": "Matt Ramsay",
+        "firm": "Cowen",
+        "topic": "Inventory Levels",
+        "question": "I understand you've launched a new product set in ProViz, and the Datacenter business is obviously ramping really strongly. But, if you look at the balance sheet, I think the inventory level is up by mid-30% sequentially and you're guiding revenue up 3% or so. Maybe you could help us sort of walk through the contributions of that inventory and what it might mean for future products?"
+      },
+      {
+        "analyst": "Vivek Arya",
+        "firm": "Bank of America",
+        "topic": "Product Cycles",
+        "question": "Could you just help us contrast the Pascal cycle with what we should expect with the Turing cycle?"
+      },
+      {
+        "analyst": "C.J. Muse",
+        "firm": "Evercore ISI",
+        "topic": "Gaming and Turing",
+        "question": "As you think about your gaming guide, are you embedding any drawdown of channel inventory there? And then, longer term, as you think about Turing Tensor Cores, can you talk a bit about differentiation versus Volta V100, particularly as you think about 8-bit integer and the opportunities there for inferencing?"
+      },
+      {
+        "analyst": "Joe Moore",
+        "firm": "Morgan Stanley",
+        "topic": "Cryptocurrency Impact",
+        "question": "I wonder if you could talk about cryptocurrency. Now that the dust is settled, you guys have done a good job of kind of laying out exactly how much of the OEM business has been driven by that but there's also been I think some sense of -- some of the GeForce business was being driven by crypto. Can you size that for us?"
+      },
+      {
+        "analyst": "Toshiya Hari",
+        "firm": "Goldman Sachs",
+        "topic": "Inference Business",
+        "question": "I was hoping you could remind us how meaningful your inference business is today within Datacenter, and how would you expect growth to come about over the next two years, as you -- as your success at accounts like Google proliferate across a broader set of customers?"
+      },
+      {
+        "analyst": "Harlan Sur",
+        "firm": "J.P. Morgan",
+        "topic": "HGX Platform",
+        "question": "When we think about cloud and hyperscale, we tend to think about the top guys right there, designing their own platforms, using your Tesla-based products or sometimes even designing their own chips for AI and deep learning. But, there's a larger base of medium to smaller cloud and hyperscale customers out there who don't have R&D scale. And I think that's where your HGX platform seems to be focused on. Can you just give us an update on the uptake of your first generation HGX-1 reference platform and the initial interest on HGX-2?"
+      },
+      {
+        "analyst": "Tim Arcuri",
+        "firm": "UBS",
+        "topic": "Tesla and Crypto",
+        "question": "Now that Crypto has fallen off, I'm curious what you think the potential is that maybe we see a slug of cards that get resold on eBay or some other channel and that could cannibalize new Pascal sales. And number two, since Tesla did talk about you on their call, I'm curious what your comments are about the development for Hardware 3 and their own efforts to move away from your DRIVE platform?"
+      }
+    ]
+  }

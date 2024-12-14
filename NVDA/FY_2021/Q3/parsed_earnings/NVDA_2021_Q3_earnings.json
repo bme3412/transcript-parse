@@ -1,0 +1,313 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2021",
+  "total_revenue": {
+    "value": 4.73,
+    "unit": "billion",
+    "context": "Record revenue for Q3, up 57% YoY and 22% sequentially",
+    "period": "Q3"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 2.27,
+        "unit": "billion",
+        "context": "Record revenue driven by NVIDIA Ampere architecture-based GeForce RTX 30 series GPUs",
+        "period": "Q3"
+      },
+      "growth_yoy": 37.0,
+      "growth_qoq": 37.0,
+      "key_points": [
+        "Launch of GeForce RTX 30 series GPUs with up to 2x performance and power efficiency over the previous generation",
+        "Gaming laptop demand showed double-digit YoY growth for the 11th consecutive quarter",
+        "Record gaming console revenue driven by strong demand for Nintendo Switch",
+        "GeForce NOW cloud gaming service doubled in the past seven months to over 5 million registered users",
+        "750 games available on GeForce NOW, including 75 free-to-play games"
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 236.0,
+        "unit": "million",
+        "context": "Revenue driven by strength in notebooks and offset by declines in desktop workstations",
+        "period": "Q3"
+      },
+      "growth_yoy": -27.0,
+      "growth_qoq": 16.0,
+      "key_points": [
+        "Record revenue in notebooks boosted by work-from-home initiatives",
+        "Decline in desktop workstations due to pandemic impact",
+        "Announced Omniverse platform for 3D collaboration and simulation, entering open beta",
+        "Omniverse early adopters include Ericsson, BMW, Foster and Partners, and Lucasfilm"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 125.0,
+        "unit": "million",
+        "context": "Revenue driven by recovery in global automotive production volumes and growth in AI cockpit revenue",
+        "period": "Q3"
+      },
+      "growth_yoy": -23.0,
+      "growth_qoq": 13.0,
+      "key_points": [
+        "Mercedes-Benz S-class sedan launched with NVIDIA-powered MBUX AI cockpit system",
+        "Li Auto announced development of next-gen vehicles using NVIDIA DRIVE AGX Orin platform",
+        "Hyundai Motor Group announced NVIDIA DRIVE infotainment systems for all models starting in 2022"
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 1.9,
+        "unit": "billion",
+        "context": "Record revenue driven by strong ramp of A100-based platforms and Mellanox growth",
+        "period": "Q3"
+      },
+      "growth_yoy": 162.0,
+      "growth_qoq": 8.0,
+      "key_points": [
+        "A100 adoption by cloud and hyperscale customers, including AWS, Oracle, and Alibaba Cloud",
+        "Announced Cambridge-1, an 80-node DGX SuperPOD with 400 petaflops of AI performance",
+        "Mellanox contributed 13% of overall company revenue with double-digit sequential growth",
+        "Announced BlueField-2 DPU, unlocking a $10 billion total addressable market"
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Expected to grow in the mid-single-digit range sequentially in Q4.",
+        "Growth offset by sequential decline in Mellanox."
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Expected to grow sequentially in Q4.",
+        "Not yet returning to year-on-year growth."
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Expected to experience a seasonal decline in Q4."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 62.6,
+      "unit": "%",
+      "context": "GAAP gross margin for Q3",
+      "period": "Q3"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": 1.28,
+      "unit": "billion",
+      "context": "Cash flow from operations in Q3",
+      "period": "Q3"
+    },
+    "other_metrics": {
+      "gaming_laptop_growth": {
+        "value": null,
+        "unit": "double-digit percentage",
+        "context": "Gaming laptop demand grew YoY for the 11th consecutive quarter",
+        "period": "Q3"
+      },
+      "geforce_now_users": {
+        "value": 5.0,
+        "unit": "million",
+        "context": "GeForce NOW registered users doubled in the past seven months",
+        "period": "Q3"
+      },
+      "mellanox_revenue_contribution": {
+        "value": 13.0,
+        "unit": "percentage",
+        "context": "Mellanox contributed 13% of overall company revenue",
+        "period": "Q3"
+      }
+    }
+  },
+  "future_guidance": {
+    "mellanox_q4_decline": {
+      "value": null,
+      "unit": "percentage",
+      "context": "Expected meaningful sequential revenue decline for Mellanox in Q4",
+      "period": "Q4"
+    }
+  },
+  "strategic_initiatives": [
+    "Announced BlueField-2 DPU and three-year DPU roadmap",
+    "Continued integration and contribution from Mellanox in Data Center segment.",
+    "Ramp-up of new RTX 30 Series products in Gaming segment.",
+    "Announced Omniverse platform for 3D collaboration and simulation",
+    "Launched NVIDIA Ampere architecture-based GeForce RTX 30 series GPUs",
+    "Announced plans to acquire Arm from SoftBank for $40 billion"
+  ],
+  "market_opportunities": [
+    {
+      "AI_in_healthcare": "Partnership with GSK to apply AI to drug and vaccine discovery",
+      "cloud_gaming": "Expansion of GeForce NOW through telco partners in Japan, Korea, Taiwan, Russia, and Saudi Arabia",
+      "automotive_AI": "Traction with EV startups and partnerships with Mercedes-Benz, Li Auto, and Hyundai Motor Group",
+      "supercomputing": "NVIDIA technology powering 70% of the top 500 supercomputers"
+    },
+    {
+      "Credit Suisse Technology Conference": "Scheduled for November 30th.",
+      "Wells Fargo TMT Summit": "Scheduled for December 1st.",
+      "UBS TMT Conference": "Scheduled for December 7th."
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-11T21:49:43.024741",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Q3 was another exceptional quarter with record revenue of $4.73 billion, up 57% year-on-year, up 22% sequentially and well above our outlook.",
+      "Our new NVIDIA Ampere GPU architecture is ramping with excellent demand across our major market platforms.",
+      "Q3 was also a landmark quarter, both for us and the industry as a whole, as we announced plans to acquire Arm from SoftBank for $40 billion.",
+      "We are incredibly excited about the combined company’s opportunities and we are working through the regulatory approval process.",
+      "For today, we will focus our remarks on our quarterly performance."
+    ],
+    "gaming": [
+      "Starting with gaming. Revenue was a record $2.27 billion, up 37% year-on-year, up 37% sequentially, and ahead of our high expectations.",
+      "Driving strong growth was our new NVIDIA Ampere architecture-based GeForce RTX 30 series of gaming GPUs.",
+      "The GeForce RTX 3070, 3080 and 3090 GPUs offer up to two times the performance and two times the power efficiency over the previous Turing-based generation.",
+      "Our second generation NVIDIA RTX combines ray tracing and AI to deliver the greatest ever generational leap in performance.",
+      "These GPUs have generated amazing reviews and overwhelming demand. PC World called them 'staggeringly powerful', while Newegg cited more traffic than Black Friday.",
+      "Many of our retail and e-tail partners sold out instantly, the RTX 30 series drove our biggest ever launch.",
+      "While we anticipated strong demand, it exceeded even our bullish expectations.",
+      "Given industry-wide capacity constraints and long cycle times, it may take a few more months for product availability to catch up with demand.",
+      "In addition to the NVIDIA Ampere GPU architecture, we announced powerful new tools for gamers, live streamers, eSports professionals, artists and creators.",
+      "NVIDIA Reflex improves reaction time in games, reducing system latency by up to 58%. It is being integrated into popular eSports games such as Apex Legends, Call of Duty: Warzone, Fortnite and Valorant.",
+      "NVIDIA Broadcast is a universal plugin for video conferencing and live streaming applications that enhances the quality of microphones, speakers and webcams with NVIDIA AI effects.",
+      "Blockbuster games continue to adopt NVIDIA’s RTX ray tracing and AI technology. Epic Games announced that Fortnite is adding NVIDIA RTX real-time ray tracing, DLSS AI super-resolution and NVIDIA Reflex.",
+      "Other major new titles featuring RTX this holiday season include Watch Dogs: Legion, Call of Duty: Black Ops Cold War, and Cyberpunk 2077.",
+      "Gaming laptop demand was also strong with double-digit year-on-year growth for the 11th quarter in a row.",
+      "NVIDIA GeForce laptops support the most demanding applications for creators and designers while doubling as a powerful gaming system.",
+      "We also have record gaming console revenue on strong demand for the Nintendo Switch.",
+      "We continue to grow our cloud gaming service, GeForce NOW, which has doubled in the past seven months to reach over 5 million registered users.",
+      "GeForce NOW is unique as an open platform connecting to popular game stores, giving gamers access to titles they already own.",
+      "750 games are currently available on GFN, including 75 free-to-play games, with more added every Thursday.",
+      "GFN supports many popular clients, including PCs, Macs, and Chromebooks. Stay tuned for more devices to come.",
+      "GFN’s reach expands through telco partners in Japan, Korea, Taiwan, Russia, and Saudi Arabia.",
+      "Following our earlier announcement with Tencent, Amazon and Facebook are beginning to offer cloud gaming services powered by NVIDIA."
+    ],
+    "proviz": [
+      "Moving to ProViz, Q3 revenue was $236 million, down 27% year-on-year and up 16% sequentially, ahead of our expectations.",
+      "Sequential growth was driven by strength in notebooks, which posted record revenue, boosted by work-from-home initiatives and a shift to thin and light mobile workstations.",
+      "This was partially offset by a decline in desktop workstations, which continued to be impacted by the pandemic and drove the year-on-year decline.",
+      "From an industry demand perspective, stronger verticals include healthcare, public sector, higher education and research, and financial services.",
+      "We continue to win new business in areas like healthcare (Medtronic for visual surgical applications), medical imaging, technology, media, and entertainment.",
+      "During the quarter, we announced Omniverse, the world’s first 3D collaboration and simulation platform, entering open beta.",
+      "Omniverse enables tens of millions of designers, architects and creators to collaborate in real time, on-premises or remotely.",
+      "Fusing the virtual and physical worlds, Omniverse brings together NVIDIA breakthroughs in graphics, simulation and AI.",
+      "It will help enterprises address evolving requirements as workforces become increasingly distributed.",
+      "Over 400 individual creators and developers in diverse industries have been evaluating Omniverse. Early adopters include Ericsson, BMW, Foster and Partners, and Lucasfilm.",
+      "The pandemic is accelerating development of AR, VR, and mixed reality, which will have a profound impact on how we work and play.",
+      "Our work with NASCAR to enable AR and VR services at the edge is revolutionizing the racing experience for millions of fans."
+    ],
+    "automotive": [
+      "Moving to automotive, Q3 revenue was $125 million, down 23% year-on-year and up 13% sequentially.",
+      "Sequential growth was driven by a recovery in global automotive production volumes, as well as continued growth in AI cockpit revenue.",
+      "The year-on-year decline was due to the expected ramp-down of legacy infotainment revenue.",
+      "In September, Mercedes-Benz debuted its redesigned S-class sedan, featuring an all-new NVIDIA powered MBUX AI cockpit system.",
+      "Li Auto announced that it will develop its next generation of vehicles using the software-defined NVIDIA DRIVE AGX Orin platform.",
+      "Orin delivers nearly 7 times the performance and 3 times the energy efficiency of our previous generation SOC.",
+      "NVIDIA has excellent traction with EV startups.",
+      "NVIDIA and Hyundai Motor Group announced that the automaker’s entire lineup will come standard with NVIDIA DRIVE infotainment systems starting in 2022."
+    ],
+    "data_center": [
+      "Now moving to Data Center. Revenue was a record $1.9 billion, up 162% year-over-year and up 8% sequentially.",
+      "Growth was driven by a strong ramp of our A100-based platforms, continued growth with Mellanox, and record T4 shipments for inference.",
+      "Our new NVIDIA Ampere architecture gained adoption by cloud and hyperscale customers and started ramping into vertical industries.",
+      "AWS, Oracle Cloud Infrastructure, and Alibaba Cloud announced general availability of the A100, following Google Cloud and Microsoft Azure.",
+      "A100 adoption by vertical industries drove strong growth as we began shipments to server OEM partners who have broad enterprise channels.",
+      "We ramped the DGX A100 server and began shipping NVIDIA DGX SuperPOD, the first turnkey AI infrastructure.",
+      "These range from 20 to 140 DGX A100 systems interconnected with Mellanox’s HDR InfiniBand networking, enabling installation of powerful AI supercomputers in just a few weeks.",
+      "We announced plans to build Cambridge-1, an 80-node DGX SuperPOD with 400 petaflops of AI performance, to be the UK’s fastest AI supercomputer.",
+      "Cambridge-1 will be used by NVIDIA researchers for collaborative research within the UK’s AI and healthcare community.",
+      "It joins other systems in NVIDIA’s complex of AI supercomputers used for R&D in autonomous vehicles, conversational AI, robotics, graphics, HPC and other domains.",
+      "Selene is now the world’s fifth fastest supercomputer and fastest commercial supercomputer.",
+      "A new NVIDIA DGX SuperPOD ranks first on the Green500 list of the world’s most energy efficient supercomputers.",
+      "We formed a new partnership with GSK for AI-driven drug and vaccine discovery. GSK’s AI hub will use NVIDIA’s DGX A100 systems and have access to Cambridge-1 and NVIDIA scientists.",
+      "In Q3, the A100 swept the industry standard MLPerf benchmark for AI inference performance, following our previous success in training benchmarks.",
+      "For ResNet-50 image recognition, our A100 GPU beat CPU-only systems by 30x this year vs. 6x last year.",
+      "In the newly added recommendation model test, A100 outperformed CPUs by up to 237x.",
+      "Our winning performance in AI inference translates to continued strong revenue growth.",
+      "Alongside A100’s ramp, T4 sales set a record as NVIDIA AI inference adoption is in full throttle.",
+      "We estimate that NVIDIA’s installed GPU capacity for inference across the seven largest public clouds now exceeds their aggregate CPU capacity.",
+      "Hundreds of companies operate AI-enabled services on NVIDIA inference platforms, including Tencent, Microsoft, and American Express.",
+      "We also gained tremendous traction in supercomputing. NVIDIA technology will power five systems awarded by EuroHPC.",
+      "CINECA in Italy will use NVIDIA’s accelerated computing platform to build the world’s fastest AI supercomputer, named Leonardo, delivering 10 exaflops of AI performance.",
+      "NVIDIA GPUs or networking power 70% of the Top500 supercomputers, including 8 of the top 10."
+    ],
+    "mellanox": [
+      "Mellanox had another record quarter with double-digit sequential growth, contributing 13% of overall Company revenue.",
+      "Upside included sales to a China OEM that will not recur in Q4.",
+      "We expect a meaningful sequential revenue decline from Mellanox in Q4, but still 30% growth from last year.",
+      "Mellanox reached record revenue in both InfiniBand and Ethernet, driven by cloud, enterprise and supercomputing customers.",
+      "Strong demand for high-performance interconnects is fueled by AI’s increasingly complex applications.",
+      "As the data center becomes the new unit of computing in the age of AI, Mellanox networking is foundational to modern scalable architectures."
+    ],
+    "dpus_and_product_launches": [
+      "At GTC in October, we unveiled the BlueField-2 DPU, a new kind of processor that offloads critical networking, storage and security tasks from the CPU.",
+      "A single BlueField-2 DPU can deliver the same data center services that consume up to 125 CPU cores.",
+      "This frees valuable CPU cores and enables zero trust security features and accelerates performance.",
+      "VMware will offload, accelerate, and isolate its ESXi hypervisor using BlueField-2, boosting data center performance and efficiency.",
+      "We unveiled our three-year DPU roadmap and introduced NVIDIA DOCA, a data-center-on-a-chip architecture software development kit.",
+      "We believe DPUs will ship in millions of servers, unlocking a $10 billion total addressable market.",
+      "BlueField-2 is sampling now with major hyperscale customers and will be integrated into enterprise server offerings.",
+      "At Supercomputing 2020, we announced A100 80GB GPUs and DGX systems for building, training, and deploying massive AI models.",
+      "We also announced DGX Station A100, a powerful workgroup server for data scientists and AI researchers working remotely.",
+      "All these Ampere-based additions will be available early next year.",
+      "We announced NVIDIA Mellanox 400Gb/s InfiniBand architecture, doubling data throughput and adding in-network computing engines. Solutions based on this are expected to sample in Q2 CY2021."
+    ],
+    "financials": [
+      "Q3 GAAP gross margin was 62.6% and non-GAAP gross margin was 65.5%.",
+      "GAAP gross margin declined YoY primarily due to Mellanox acquisition charges, partially offset by product mix.",
+      "The sequential increase in GAAP gross margin was due to the absence of non-recurring inventory step-up expense related to the Mellanox acquisition.",
+      "Non-GAAP gross margin increased by 140 basis points YoY, reflecting a shift in product mix with higher data center sales, including Mellanox.",
+      "Non-GAAP gross margin was down 50 basis points sequentially, in line with expectations, driven by product mix.",
+      "Q3 GAAP operating expenses were $1.56 billion and non-GAAP operating expenses were $1.1 billion.",
+      "GAAP operating expenses were up 6% YoY, non-GAAP up 42% YoY.",
+      "Q3 GAAP EPS was $2.12, up 46% YoY, and non-GAAP EPS was $2.91, up 63% YoY.",
+      "Q3 cash flow from operations was $1.28 billion."
+    ],
+    "q4_outlook": [
+      "Q4 includes a 14th week, expected to incrementally add to revenue and operating expenses.",
+      "We expect gaming to be up sequentially in what is typically a seasonally down quarter, as we continue to ramp up RTX 30 Series.",
+      "We expect data center to be down slightly vs. Q3.",
+      "Computing products are expected to grow mid-single-digit sequentially, offset by a sequential decline in Mellanox.",
+      "We expect continued sequential growth in auto and ProViz, but not yet returning to YoY growth.",
+      "We expect a seasonal decline in OEM.",
+      "Revenue is expected to be $4.8 billion, plus or minus 2%.",
+      "GAAP and non-GAAP gross margins expected at 62.8% and 65.5%, respectively, plus or minus 50 bps.",
+      "GAAP and non-GAAP operating expenses expected to be approximately $1.64 billion and $1.18 billion.",
+      "GAAP and non-GAAP other income and expenses are expected to be an expense of ~$55 million.",
+      "GAAP and non-GAAP tax rates expected to be 8% ±1%, excluding discrete items.",
+      "Capital expenditures expected to be ~$300 million to $325 million."
+    ],
+    "investor_relations": [
+      "We will be attending the Credit Suisse Technology Conference on November 30th, the Wells Fargo TMT Summit on December 1st, and the UBS TMT Conference on December 7th.",
+      "Our earnings call to discuss the fourth quarter and full-year results is scheduled for Wednesday, February 24th."
+    ]
+  }
+}

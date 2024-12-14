@@ -1,0 +1,341 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2022",
+  "total_revenue": {
+    "value": 7.6,
+    "unit": "billion",
+    "context": "Q4 was an outstanding quarter with revenue of $7.6 billion, up 53% year-on-year",
+    "period": "Q4"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 3.4,
+        "unit": "billion",
+        "context": "Revenue driven by strong demand across the board, up 6% sequentially and 37% year-on-year",
+        "period": "Q4"
+      },
+      "growth_yoy": 37.0,
+      "growth_qoq": 6.0,
+      "key_points": [
+        "Gaming has become the top entertainment medium that continues to show strong momentum",
+        "Steam hit a record 28 million concurrent users, up 50% in two years",
+        "Record desktop revenue led by growth in GeForce RTX 30 Series products with continued strength in the high end",
+        "At CES, announced RTX 3050 GPO, hitting retail in late January, bringing NVIDIA RTX and AI technologies to more mainstream audiences",
+        "Laptop gaming revenue set a record, driven by ramp of new GeForce RTX 3070 Ti and 3080 Ti GPUs, announced at CES",
+        "Leverage fourth-generation Max-Q technology to enable quiet, thin and light gaming laptops",
+        "Announced over 160 new laptop designs for NVIDIA and Ampere architecture RTX 30 Series GPUs, including a number of studio systems targeting the tens of millions of creators driving the future of design, innovation and virtual world",
+        "In addition to supporting the new RTX 30 Series GPUs, Studio laptops future support for NVIDIA software with Omniverse, Tundus and Broadcast",
+        "Availability of our gaming products in the channel remains low",
+        "NVIDIA RTX ecosystem continues to expand with over 30 new RTX games and applications added this quarter, including blockbuster hits like Battlefield 2042, Grand Theft Auto, Call of Duty: Vanguard and God of War",
+        "Several new titles support NVIDIA Reflex for low-latency impact",
+        "Crypto mining processors (CMPs) revenue was $24 million in Q4, included in OEM and other",
+        "Expanded NVIDIA GeForce NOW cloud gaming ecosystem with new hit titles, partnerships with Samsung, LG, AT&T; first GeForce NOW data center in Canada"
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.643,
+        "unit": "billion",
+        "context": "Revenue driven by strong notebook growth and rebounded desktop workstations, up 11% sequentially and 109% year-on-year",
+        "period": "Q4"
+      },
+      "growth_yoy": 109.0,
+      "growth_qoq": 11.0,
+      "key_points": [
+        "Sequential growth driven by shift to higher-value workstations and ramp of healthcare architecture",
+        "Strong demand fueled by continued build-outs for hybrid work environments and growth in key workloads including 3D design, AI and rendering",
+        "Examples: Sony Pictures ImageWorks using NVIDIA RTX to accelerate ray-tracing for rendering-related applications",
+        "Motion using NVIDIA RTX for AI to assist in predictive maintenance of vehicles",
+        "Duke Energy using NVIDIA RTX for AI and VR to map, view and maintain energy facilities",
+        "NVIDIA Omniverse enterprise software entered general availability with positive customer feedback and multiple significant enterprise licensees signed",
+        "Omniverse drives computing opportunity for RTX in laptops, workstations and on-prem servers and the cloud",
+        "Omniverse available for individuals for free and for enterprise teams via software subscriptions",
+        "At CES, made the free version of Omniverse for individuals generally available",
+        "Omniverse allows creators with RTX GPUs to connect leading 3D design applications to a single scene and supplement their work with AI and physics",
+        "Announced early access to Omniverse Cloud, adding one-click capability to collaborate with other artists globally",
+        "Digital twin applications: Isaac Autonomous Mobile Robot platform using Omniverse for operational efficiency and deployment of robotics",
+        "Includes NVIDIA AI technologies and SDKs for high-precision mapping, situational awareness, and real-time route optimization"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.125,
+        "unit": "billion",
+        "context": "Revenue driven by growth in AI cockpit revenue, up 6% year-on-year and down 7% sequentially",
+        "period": "Q4"
+      },
+      "growth_yoy": 6.0,
+      "growth_qoq": -7.0,
+      "key_points": [
+        "Started shipments of Orion-based product platform, expect sequential revenue growth in Q1 and momentum in second half and into calendar 2023",
+        "Announced partnership with Jaguar Land Rover to jointly develop and deliver fleets of software-defined cars",
+        "Starting in 2025, all new Jaguar and Land Rover vehicles will have next-generation automated driving systems and AI-enabled software and services built on NVIDIA DRIVE platform",
+        "DRIVE Orin will be the AI computer brain running DRIVE AV and DRIVE IX software",
+        "DRIVE Hyperion sensor network will be the central nervous system",
+        "This new vehicle architecture will enable a wide spectrum of active safety, automated driving and parking systems",
+        "System delivers AI features, including driver and occupant monitoring and advanced visualization of the vehicle's surroundings",
+        "This partnership follows the template of our announcement with Mercedes-Benz",
+        "Shared software revenue opportunity with both OEMs will scale with the size of their NVIDIA-powered fleet, which, combined, can exceed 10 million cars over a decade",
+        "Full stack end-to-end approach offers downloadable AV and AI services to fleet of JLR vehicles with shared software revenue stream"
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 3.3,
+        "unit": "billion",
+        "context": "Revenue topped $3.3 billion, up 11% sequentially and 71% year-on-year",
+        "period": "Q4"
+      },
+      "growth_yoy": 71.0,
+      "growth_qoq": 11.0,
+      "key_points": [
+        "Data center growth driven by compute products and strong demand for NVIDIA AI",
+        "Hyperscale and cloud demand outstanding, with revenue more than doubling year-on-year",
+        "Vertical industries also posted strong double-digit year-on-year growth led by consumer Internet companies",
+        "Triton and TensorRT server software adoption enabling fast, scalable AI in production",
+        "Examples: Block Inc. uses conversational AI in Square Assistant on NVIDIA GPUs in AWS; Snap uses NVIDIA GPUs and Merlin software to improve inference efficiency and decrease latency; Meta Platforms' SuperCluster using 6,000 A100 GPUs for AI training and inference",
+        "Industry benchmarks show NVIDIA AI leading in performance across 8 AI workloads",
+        "Performance gains on A100 GPUs of over 5x in 2 months, over 20x over 3 years",
+        "Meta Platforms' SuperCluster with 6,000 A100 GPUs scaling to 16,000 GPUs, delivering 5x AI performance",
+        "NVIDIA AI Enterprise software version 1.1 released for enterprises on VMware",
+        "Deloitte built center for AI computing on NVIDIA DGX Superpod",
+        "Networking products posted strong sequential and year-over-year growth driven by use cases ranging from computing, supercomputing, enterprise to storage",
+        "Networking demand outstripped supply, anticipating improving capacity in coming quarters",
+        "Software business models: NVIDIA AI, Omniverse, DRIVE are in early revenue ramp with growing pipelines",
+        "Terminated efforts to purchase Arm, focus on accelerated computing strategy",
+        "Data Center outlook: expect strong growth with Triton, Omniverse driving enterprise AI adoption"
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided"
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4"
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4"
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4"
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": null,
+      "unit": "%",
+      "context": "GAAP gross margin was up 260 basis points year-on-year and up 40 basis points sequentially",
+      "period": "Q4"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific cash flow data provided",
+      "period": "Q4"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": 14,
+        "unit": "million",
+        "context": "GeForce NOW membership has more than doubled to over 14 million gamers for streaming content from 30 data centers in more than 80 countries",
+        "period": "Q4"
+      },
+      "cmp_revenue": {
+        "value": 0.024,
+        "unit": "billion",
+        "context": "Crypto mining processor revenue was $24 million in Q4, included in OEM and other",
+        "period": "Q4"
+      },
+      "gfnow_games": {
+        "value": 30,
+        "unit": "games",
+        "context": "NVIDIA RTX ecosystem expanded with over 30 new RTX games and applications added this quarter",
+        "period": "Q4"
+      },
+      "cmp_outlook_q2": null
+    }
+  },
+  "future_guidance": {
+    "q1_fiscal_2023_revenue": {
+      "value": 8.1,
+      "unit": "billion",
+      "context": "Expected revenue for Q1 fiscal 2023, plus or minus 2%",
+      "period": "Q1 fiscal 2023"
+    },
+    "q1_fiscal_2023_gross_margin": {
+      "gaap": 65.2,
+      "non_gaap": 67.0,
+      "unit": "%",
+      "context": "Expected GAAP and non-GAAP gross margins for Q1 fiscal 2023",
+      "period": "Q1 fiscal 2023"
+    },
+    "q1_fiscal_2023_operating_expenses": {
+      "gaap": 3.55,
+      "non_gaap": 1.6,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP operating expenses for Q1 fiscal 2023",
+      "period": "Q1 fiscal 2023"
+    },
+    "q1_fiscal_2023_other_income_expenses": {
+      "value": -0.055,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP other income and expenses as expense for Q1 fiscal 2023",
+      "period": "Q1 fiscal 2023"
+    },
+    "q1_fiscal_2023_tax_rates": {
+      "value": [
+        11,
+        13
+      ],
+      "unit": "%",
+      "context": "Expected GAAP and non-GAAP tax rates, excluding discrete items for Q1 fiscal 2023",
+      "period": "Q1 fiscal 2023"
+    },
+    "capital_expenditures": {
+      "value": [
+        0.35,
+        0.4
+      ],
+      "unit": "billion",
+      "context": "Expected capital expenditures for Q1 fiscal 2023",
+      "period": "Q1 fiscal 2023"
+    },
+    "full_year_non_gaap_opex_growth": null,
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Launch of Cryptocurrency Mining Processors (CMPs) to optimize mining performance and efficiency without impacting GeForce supply",
+    "Introduction of new GeForce Now RTX 3080 membership tier",
+    "General availability of Omniverse Enterprise platform",
+    "Expansion of NVIDIA DRIVE Orin platform adoption by Kodiak Robotics, Lotus, QCraft, and WM Motor",
+    "Announcement of NVIDIA DRIVE Concierge and DRIVE Chauffeur AI software platforms",
+    "Development and launch of Jetson AGX Orin for robotics and autonomous missions",
+    "Plans to build Earth-2, the world's most powerful AI supercomputer dedicated to climate change",
+    "Progress on proposed acquisition of Arm, addressing regulatory concerns",
+    "Announcements at GPU Technology Conference (GTC) including Omniverse advancements, NVIDIA Riva, NeMo Megatron, BlueField DOCA 1.2, Clara Holoscan, and new SDKs",
+    "Expansion of NVIDIA AI Enterprise and collaboration with VMware",
+    "Introduction of NVIDIA LaunchPad in nine global locations"
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Gaming business continues to accelerate with the successful RTX refresh cycle and expanding GeForce Now platform",
+      "cloud_gaming_expansion": "GeForce Now membership has doubled to over 14 million gamers, streaming from 30 data centers in over 80 countries",
+      "cryptocurrency_mining": "Introduction of CMPs to address mining demand and optimize GPU supply for gamers",
+      "accelerated_computing": "AI and accelerated computing driving data center growth with NVIDIA Grace CPU, BlueField DPUs, and Earth-2 supercomputer"
+    },
+    {
+      "upcoming_events": [
+        "Attend the Morgan Stanley Technology, Media and Telecom Conference in person on March 7"
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-11T21:49:43.024741",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "We had an excellent quarter with revenue up 53% year-on-year to $7.6 billion.",
+      "We set records for total revenue as well as for Gaming, Data Center, and Professional Visualization.",
+      "Full year revenue was a record $26.9 billion, up 61%, compounding the prior year's growth of 53%."
+    ],
+    "gaming": [
+      "Revenue was $3.4 billion, up 6% sequentially and up 37% from a year earlier.",
+      "Fiscal year revenue of $12.5 billion was up 61%.",
+      "Gaming has become the top entertainment medium that continues to show strong momentum.",
+      "Steam hit a record 28 million concurrent users, up 50% in two years.",
+      "Record desktop revenue in the quarter was led by our growth in our GeForce RTX 30 Series products with continued strength in the high end.",
+      "At CES, we announced the RTX 3050 GPO, which hit retail in late January, bringing NVIDIA RTX and AI technologies to more mainstream audiences.",
+      "Laptop gaming revenue also set a record, driven by the ramp of the new GeForce RTX 3070 Ti and 3080 Ti GPUs, which were also announced at CES.",
+      "These leverage our fourth-generation Max-Q technology to enable quiet, thin and light gaming laptops.",
+      "Announced over 160 new laptop designs for NVIDIA and Ampere architecture RTX 30 Series GPUs, including a number of studio systems targeting the tens of millions of creators driving the future of design, innovation and virtual world.",
+      "In addition to supporting the new RTX 30 Series GPUs, Studio laptops future support for NVIDIA software with Omniverse, Tundus and Broadcast.",
+      "Availability of our gaming products in the channel remains low.",
+      "NVIDIA RTX ecosystem continues to expand with over 30 new RTX games and applications added this quarter, including blockbuster hits like Battlefield 2042, Grand Theft Auto, Call of Duty: Vanguard and God of War.",
+      "In addition, several new titles support NVIDIA Reflex for low-latency impact."
+    ],
+    "proviz": [
+      "Q4 revenue was a record $643 million, up 11% sequentially and up 109% from a year ago.",
+      "Fiscal year revenue of $2.1 billion was up 100%.",
+      "Sequential growth in the quarter was driven by a shift to higher-value workstations and the continued ramp of our NVIDIA healthcare architecture.",
+      "We believe strong demand is fueled by continued build-outs for hybrid work environments as well as growth in key workloads, including 3D design, AI and rendering.",
+      "For example, Sony Pictures ImageWorks is using NVIDIA RTX to accelerate ray-tracing for rendering-related applications.",
+      "Motion is using NVIDIA RTX for AI to assist in predictive maintenance of the vehicles.",
+      "Duke Energy is using NVIDIA RTX for AI and VR to map, view and maintain energy facilities.",
+      "NVIDIA Omniverse enterprise software entered general availability. While it's still in early days, customer feedback so far has been very positive, with multiple significant enterprise licensees already signed.",
+      "In addition to software licenses, Omniverse also drives computing opportunity for NVIDIA RTX in laptops, workstations and on-prem servers and the cloud.",
+      "Omniverse can be used by individuals for free and by enterprise teams via software subscriptions.",
+      "At CES, made the free version of Omniverse for individuals generally available.",
+      "Omniverse allows creators with RTX GPUs to connect leading 3D design applications to a single scene and supplement their work with AI and physics.",
+      "Announced early access to Omniverse Cloud, adding one-click capability to collaborate with other artists globally.",
+      "Digital twin applications: Isaac Autonomous Mobile Robot platform using Omniverse for operational efficiency and deployment of robotics.",
+      "Includes NVIDIA AI technologies and SDKs for high-precision mapping, situational awareness, and real-time route optimization."
+    ],
+    "automotive": [
+      "Q4 revenue was $125 million, declined 7% sequentially and 14% from the year ago quarter.",
+      "Fiscal year revenue of $566 million was up 6%.",
+      "Started shipments of Orion-based product platform and expect to return to sequential revenue growth in Q1 with more meaningful inflection in the second half of the fiscal year and momentum building into calendar 2023.",
+      "Announced partnership with Jaguar Land Rover to jointly develop and deliver fleets of software-defined cars.",
+      "Starting in 2025, all new Jaguar and Land Rover vehicles will have next-generation automated driving systems, plus AI-enabled software and services built on NVIDIA DRIVE platform.",
+      "DRIVE Orin will be the AI computer brain running DRIVE AV and DRIVE IX software.",
+      "DRIVE Hyperion sensor network will be the central nervous system.",
+      "This new vehicle architecture will enable a wide spectrum of active safety, automated driving and parking systems.",
+      "System delivers AI features, including driver and occupant monitoring and advanced visualization of the vehicle's surroundings.",
+      "This partnership follows the template of our announcement with Mercedes-Benz.",
+      "Shared software revenue opportunity with both OEMs will scale with the size of their NVIDIA-powered fleet, which, combined, can exceed 10 million cars over a decade.",
+      "Full stack end-to-end approach offers downloadable AV and AI services to fleet of JLR vehicles with shared software revenue stream."
+    ],
+    "data_center": [
+      "Revenue of $3.3 billion, up 11% sequentially and 71% year-on-year.",
+      "Fiscal year revenue of $10.6 billion was up 58%.",
+      "Data center growth in the quarter was driven by our compute products and strong demand for NVIDIA AI.",
+      "Hyperscale and cloud demand outstanding, with revenue more than doubling year-on-year.",
+      "Vertical industries also posted strong double-digit year-on-year growth led by consumer Internet companies.",
+      "Triton and TensorRT server software adoption enabling fast, scalable AI in production.",
+      "Examples: Block Inc. uses conversational AI in Square Assistant on NVIDIA GPUs in AWS; Snap uses NVIDIA GPUs and Merlin software to improve inference efficiency and decrease latency; Meta Platforms' SuperCluster using 6,000 A100 GPUs for AI training and inference.",
+      "Industry benchmarks show NVIDIA AI leading in performance across 8 AI workloads.",
+      "Performance gains on A100 GPUs of over 5x in 2 months, over 20x over 3 years.",
+      "Meta Platforms' SuperCluster with 6,000 A100 GPUs scaling to 16,000 GPUs, delivering 5x AI performance.",
+      "NVIDIA AI Enterprise software version 1.1 released for enterprises on VMware.",
+      "Deloitte built center for AI computing on NVIDIA DGX Superpod.",
+      "Networking products posted strong sequential and year-over-year growth driven by use cases ranging from computing, supercomputing, enterprise to storage.",
+      "Networking demand outstripped supply, anticipating improving capacity in coming quarters.",
+      "Software business models: NVIDIA AI, Omniverse, DRIVE are in early revenue ramp with growing pipelines.",
+      "Terminated efforts to purchase Arm, focus on accelerated computing strategy.",
+      "Data Center outlook: expect strong growth with Triton, Omniverse driving enterprise AI adoption."
+    ]
+  }
+}

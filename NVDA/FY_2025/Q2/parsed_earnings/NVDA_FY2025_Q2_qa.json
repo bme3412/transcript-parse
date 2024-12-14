@@ -1,0 +1,148 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q2",
+  "fiscal_year": "2025",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Blackwell GPU Mask Changes and Production",
+          "content": "Yes. Thanks, Vivek. The change to the mask is complete. There were no functional changes necessary. And so we're sampling functional samples of Blackwell -- Grace Blackwell in a variety of system configurations as we speak. There are something like 100 different types of Blackwell-based systems that are built that were shown at Computex. And we're enabling our ecosystem to start sampling those. The functionality of Blackwell is as it is, and we expect to start production in Q4."
+        },
+        {
+          "topic": "Platform Transitions and Accelerated Computing",
+          "content": "Thanks, Toshiya. First of all, when I said ship production in Q4, I mean shipping out. I don't mean starting to ship, but I mean -- I don't mean starting production, but shipping out. On the longer-term question, let's take a step-back and you've heard me say that we're going through two simultaneous platform transitions at the same time. The first one is transitioning from accelerated computing to -- from general-purpose computing to accelerated computing. And the reason for that is because CPU scaling has been known to be slowing for some time. And it is slow to a crawl. And yet the amount of computing demand continues to grow quite significantly. You could maybe even estimate it to be doubling every single year. And so if we don't have a new approach, computing inflation would be driving up the cost for every company, and it would be driving up the energy consumption of data centers around the world. In fact, you're seeing that. And so the answer is accelerated computing. We know that accelerated computing, of course, speeds up applications. It also enables you to do computing at a much larger scale, for example, scientific simulations or database processing. But what that translates directly to is lower cost and lower energy consumed. And in fact, this week, there's a blog that came out that talked about a whole bunch of new libraries that we offer. And that's really the core of the first platform transition going from general purpose computing to accelerated computing. And it's not unusual to see someone save 90% of their computing cost. And the reason for that is, of course, you just sped up an application 50x, you would expect the computing cost to decline quite significantly. The second was enabled by accelerated computing because we drove down the cost of training large language models or training deep learning so incredibly, that it is now possible to have gigantic scale models, multi-trillion parameter models, and train it on -- pre-train it on just about the world's knowledge corpus and let the model go figure out how to understand a human represent -- human language representation and how to codify knowledge into its neural networks and how to learn reasoning, and so -- which caused the generative AI revolution. Now generative AI, taking a step back about why it is that we went so deeply into it is because it's not just a feature, it's not just a capability, it's a fundamental new way of doing software. Instead of human-engineered algorithms, we now have data. We tell the AI, we tell the model, we tell the computer what's the -- what are the expected answers, What are our previous observations. And then for it to figure out what the algorithm is, what's the function. It learns a universal -- AI is a bit of a universal function approximator and it learns the function. And so you could learn the function of almost anything, you know. And anything that you have that's predictable, anything that has structure, anything that you have previous examples of. And so now here we are with generative AI. It's a fundamental new form of computer science. It's affecting how every layer of computing is done from CPU to GPU, from human-engineered algorithms to machine-learned algorithms. And there are several things that are happening in generative AI. So the first thing that's happening is the frontier models are growing in quite substantial scale. And they're still seeing -- we're still all seeing the benefits of scaling. And whenever you double the size of a model, you also have to more than double the size of the dataset to go train it. And so the amount of flops necessary in order to create that model goes up quadratically. And so it's not unusual -- it's not unexpected to see that the next-generation models could take 20 -- 10, 20, 40 times more compute than last generation. So we have to continue to drive the generational performance up quite significantly, so we can drive down the energy consumed and drive down the cost necessary to do it. So the first one is, there are larger frontier models trained on more modalities and surprisingly, there are more frontier model makers than last year. And so you have more on more on more. That's one of the dynamics going on in generative AI. The second is although it's below the tip of the iceberg. What we see are ChatGPT, image generators, we see coding. We use a generative AI for coding quite extensively here at NVIDIA now. We, of course, have a lot of digital designers and things like that. But those are kind of the tip of the iceberg. What's below the iceberg are the largest systems -- largest computing systems in the world today, which are -- and you've heard me talk about this in the past, which are recommender systems moving from CPUs, it's now moving from CPUs to generative AI. So recommended systems, ad generation, custom ad generation targeting ads at very large scale and quite hyper targeting search and user-generated content. These are all very large-scale applications have now evolved to generative AI. Of course, the number of generative AI startups is generating tens of billions of dollars of cloud renting opportunities for our cloud partners and sovereign AI. Countries that are now recognizing that their data is their natural and national resource and they have to use -- they have to use AI, build their own AI infrastructure so that they could have their own digital intelligence. Enterprise AI, as Colette mentioned earlier, is starting and you might have seen our announcement that the world's leading IT companies are joining us to take the NVIDIA AI enterprise platform to the world's enterprises. The companies that we're talking to. So many of them are just so incredibly excited to drive more productivity out of their company. And then I -- and then General Robotics. The big transformation last year as we are able to now learn physical AI from watching video and human demonstration and synthetic data generation from reinforcement learning from systems like Omniverse. We are now able to work with just about every robotics companies now to start thinking about start building on general robotics. And so you can see that there are just so many different directions that generative AI is going. And so we're actually seeing the momentum of generative AI accelerating."
+        },
+        {
+          "topic": "Blackwell Product Cycle and Rack Scale Systems",
+          "content": "Yes, Aaron, thanks. The Blackwell Rack system, it's designed and architected as a rack, but it's sold, in a disaggregated system components. We don't sell the whole rack. And the reason for that is because everybody's rack is a little different, surprisingly. You know, some of them are OCP standards, some of them are not, some of them are enterprise, and the power limits for everybody could be a little different. Choice of CDUs, the choice of power bus bars, the configuration and integration into people's data centers, all different. And so the way we designed it, we architected the whole rack. The software is going to work perfectly across the whole rack. And then we provide the system components, like for example, the CPU and GPU compute board is then integrated into an MGX, it's a modular system architecture. MGX is completely ingenious. And we have MGX ODMs and integrators and OEMs all over the plant. And so just about any configuration you would like, where you would like that 3,000 pound rack to be delivered. It's got to be close to -- it has to be integrated and assembled close to the data center because it's fairly heavy. And so everything from the supply chain from the moment that we ship the GPU, CPUs, the switches, the NICs. From that point forward, the integration is done quite close to the location of the CSPs and the locations of the data centers. And so you can imagine how many data centers in the world there are and how many logistics hubs, we've scaled out to with our ODM partners. And so that part we don't want to do and we're not good at doing. And I -- but we know how to design the AI infrastructure, provided the way that customers would like it and lets the ecosystem integrate it. Well, yes. So anyways, that's the reason why."
+        },
+        {
+          "topic": "Blackwell vs Hopper Demand and Transition",
+          "content": "Yes. Thanks, Joe. The demand for Hopper is really strong and it's true. The demand for Blackwell is incredible. There's a couple of reasons for that. The first reason is, if you just look at the world's cloud service providers and the amount of GPU capacity they have available, it's basically none. And the reason for that is because they're either being deployed internally for accelerating their own workloads, data processing, for example. Data processing, we hardly ever talk about it because it's mundane. It's not very cool because it doesn't generate a picture or generate words, but almost every single company in the world processes data in the background. And NVIDIA's GPUs are the only accelerators on the planet that process and accelerate data. SQL data, Pandas data science, toolkits like Pandas and the new one, Polars, these are the most popular data processing platforms in the world. And aside from CPUs, which as I've mentioned before, really running out of steam, Nvidia's accelerated computing is really the only way to get boosting performance out of that. And so that's number one is the primary -- the number one use-case long before generative AI came along is the migration of applications one after another to accelerated computing. The second is, of course, the rentals. Their renting capacity to model makers or renting it to startup companies and a generative AI company spends the vast majority of their invested capital into infrastructure so that they could use an AI to help them create products. And so these companies need it now. They just simply can't afford -- you just raise money, you -- they want you to put it to use now. You have processing that you have to do. You can't do it next year, you got to do it today. And so there's a fair -- that's one reason. The second reason for Hopper demand right now is because of the race to the next plateau. So the first person to the next plateau, it gets to be -- gets to introduce a revolutionary level of AI. So the second person who gets there is incrementally better or about the same. And so the ability to systematically and consistently race to the next plateau and be the first one there, is how you establish leadership. NVIDIA is constantly doing that and we show that to the world and the GPUs we make and AI factories that we make, the networking systems that we make, the SOCs we create. I mean, we want to set the pace. We want to be consistently the world's best. And that's the reason why, we drive ourselves so hard. And of course, we also want to see our dreams come true, and all of the capabilities that we imagine in the future, and the benefits that we can bring to society. We want to see all that come true. And so these model makers are the same. They're -- of course, they want to be the world's best, they're going to be the world's first. And although Blackwell will start shipping out in billions of dollars at the end of this year, the standing up of the capacity is still probably weeks and a month or so away. And so between now and then is a lot of generative AI market dynamic. And so everybody is just really in a hurry. It's either operational reasons that they need it, they need accelerated computing. They don't want to build any more general-purpose computing infrastructure and even Hopper, you know, of course, H200 state-of-the-art. Hopper, if you have a choice between building CPU infrastructure right now for business or Hopper infrastructure for business right now, that decision is relatively clear. And so I think people are just clamoring to transition the trillion dollars of established installed infrastructure to a modern infrastructure in Hopper's state-of-the-art."
+        },
+        {
+          "topic": "Platform Innovation and Future Roadmap",
+          "content": "Well, I can announce that after Blackwell, there's another chip. And we are on a one-year rhythm. And so and you can also count that -- count on us having new networking technology on a very fast rhythm. We're announcing Spectrum-X for Ethernet. But we're all in on Ethernet, and we have a really exciting road map coming for Ethernet. We have a rich ecosystem of partners. Dell announced that they're taking Spectrum-X to market. We have a rich ecosystem of customers and partners who are going to announce taking our entire AI factory architecture to market. And so for companies that want the ultimate performance, we have InfiniBand computing fabric. InfiniBand is a computing fabric, Ethernet is a network. And InfiniBand, over the years, started out as a computing fabric, became a better and better network. Ethernet is a network and with Spectrum-X, we're going to make it a much better computing fabric. And we're committed -- fully committed to all three links, NVLink computing fabric for single computing domain to InfiniBand computing fabric, to Ethernet networking computing fabric. And so we're going to take all three of them forward at a very fast clip. And so you're going to see new switches coming, new NICs coming, new capability, new software stacks that run on all three of them. New CPUs, new GPUs, new networking NICs, new switches, a mound of chips that are coming. And all of it, the beautiful thing is all of it runs CUDA. And all of it runs our entire software stack. So you invest today on our software stack, without doing anything at all, it's just going to get faster and faster and faster and faster. And if you invest in our architecture today, without doing anything, it will go to more and more clouds and more and more data centers and everything just runs. And so I think the pace of innovation that we're bringing will drive up the capability, on the one hand, and drive down the TCO on the other hand. And so we should be able to scale out with the NVIDIA architecture for this new era of computing and start this new industrial revolution where we manufacture not just software anymore, but we manufacture artificial intelligence tokens and we're going to do that at scale. Thank you."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Sovereign AI Growth",
+          "content": "Yes. So Stacy, let's first take your question that you had about Hopper and Blackwell. So we believe our Hopper will continue to grow into the second half. We have many new products for Hopper, our existing products for Hopper that we believe will start continuing to ramp, in the next quarters, including our Q3 and those new products moving to Q4. So let's say Hopper there for versus H1 is a growth opportunity for that. Additionally, we have the Blackwell on top of that, and the Blackwell starting of -- ramping in Q4. So hope that helps you on those two pieces. Your second piece is in terms of on our gross margin. We provided gross margin for our Q3. We provided our gross margin on a non-GAAP at about 75%. We'll work with all the different transitions that we're going through, but we do believe we can do that 75% in Q3. We provided that we're still on track for the full-year also in the mid-70s or approximately the 75%. So we're going to see some slight difference possibly in Q4. Again, with our transitions and the different cost structures that we have on our new product introductions. However, I'm not in the same number that you are there. We don't have exactly guidance, but I do believe you're lower than where we are."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Securities",
+      "topics": [
+        "Blackwell GPU Mask Changes",
+        "Backend Packaging Changes",
+        "Blackwell Production Impact",
+        "Revenue Profile",
+        "Customer Reactions"
+      ],
+      "questions": [
+        "Thanks for taking my question. Jensen, you mentioned in the prepared comments that there is a change in the Blackwell GPU mask. I'm curious, are there any other incremental changes in back end packaging or anything else? And I think related, you suggested that you could ship several billion dollars of Blackwell in Q4 despite the change in the design. Is it because all these issues will be solved by then? Just help us size what is the overall impact of any changes in Blackwell timing? What that means to your kind of revenue profile and how are customers reacting to it?"
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": [
+        "Customer ROI and CapEx Sustainability",
+        "Sovereign AI Growth",
+        "Fiscal '26 Outlook"
+      ],
+      "questions": [
+        "Hi, thank you so much for taking the question. Jensen, I had a relatively longer-term question. As you may know, there's a pretty heated debate in the market on your customers and customer's customers return on investment and what that means for the sustainability of CapEx going forward. Internally at NVIDIA, like what are you guys watching? What's on your dashboard as you try to gauge customer return and how that impacts CapEx? And then a quick follow-up maybe for Colette. I think your sovereign AI number for the full-year went up maybe a couple of billion. What's driving the improved outlook? And how should we think about fiscal '26? Thank you."
+      ]
+    },
+    {
+      "analyst": "Joe Moore",
+      "firm": "Morgan Stanley",
+      "topics": [
+        "Blackwell and Hopper Demand",
+        "Transition to Blackwell",
+        "Cluster Mixing",
+        "New Clusters"
+      ],
+      "questions": [
+        "Great. Thank you. Jensen, in the press release, you talked about Blackwell anticipation being incredible, but it seems like Hopper demand is also really strong. I mean, you're guiding for a very strong quarter without Blackwell in October. So how long do you see sort of coexisting strong demand for both? And can you talk about the transition to Blackwell? Do you see people intermixing clusters? Do you think most of the Blackwell activity is new clusters? Just some sense of what that transition looks like?"
+      ]
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "TD Cowen",
+      "topics": [
+        "Customer CapEx and ROI",
+        "AI Workload Prioritization",
+        "Investment Timeframes"
+      ],
+      "questions": [
+        "Thank you very much. Good afternoon, everyone. Jensen, I've been in the data center industry my whole career. I've never seen the velocity that you guys are introducing new platforms at the same combination of the performance jumps that you're getting, I mean, 5x in training. Some of the stuff you talked about at GTC up to 30x in inference. And it's an amazing thing to watch but, it also creates an interesting juxtaposition where the current generation of product that your customers are spending billions of dollars on, it's going to be not as competitive with your new stuff, very, very much more quickly than the depreciation cycle of that product. So I'd like you to -- if you wouldn't mind speak a little bit about how you're seeing that situation evolve itself with customers. As you move to Blackwell, you're going to have very large installed bases, obviously software compatible, but large installed bases of product that's not nearly as performant as your new generation stuff. And it'd be interesting to hear what you see happening with customers along that path. Thank you."
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topics": [
+        "Blackwell Revenue",
+        "Hopper Demand",
+        "Gross Margins",
+        "Revenue Dynamics"
+      ],
+      "questions": [
+        "Hi guys. Thanks for taking my questions. I have two short questions for Colette. The first, several billion dollars of Blackwell revenue in Q4. I guess is that additive? You said you expected Hopper demand to strengthen in the second half. Does that mean Hopper strengthens Q3 to Q4 as well on top of Blackwell adding several billion dollars? And the second question on gross margins, if I have mid-70s for the year, explaining where I want to draw that. If I have 75% for the year, I'd be something like 71% to 72% for Q4 somewhere in that range. Is that the kind of exit rate for gross margins that you're expecting? And how should we think about the drivers of gross margin evolution into next year as Blackwell ramps? And I mean, hopefully, I guess the yields and the inventory reserves and everything come up."
+      ]
+    },
+    {
+      "analyst": "Ben Reitzes",
+      "firm": "Melius",
+      "topics": [
+        "Geographical Revenue Dynamics",
+        "Revenue Forecasting"
+      ],
+      "questions": [
+        "Yes, hey, thanks a lot for the question, Jensen and Colette. I wanted to ask about the geographies. There was the 10-Q that came out and the United States was down sequentially while several Asian geographies were up a lot sequentially. Just wondering what the dynamics are there? Obviously, China did very well. You mentioned it in your remarks, what are the puts and takes? And then I just wanted to clarify from Stacy's question, if that means the sequential overall revenue growth rates for the company accelerate in the fourth quarter given all those favorable revenue dynamics? Thanks."
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Cantor Fitzgerald",
+      "topics": [
+        "Product Cadence and Complexity",
+        "Vertical Integration",
+        "Supply Chain Partnerships",
+        "Margin Impact"
+      ],
+      "questions": [
+        "Yes, good afternoon. Thank you for taking the question. You've embarked on a remarkable annual product cadence with challenges only likely becoming more and more given rising complexity and a radical limit in advanced package world. So curious, if you take a step back, how does this backdrop alter your thinking around potentially greater vertical integration, supply chain partnerships and then thinking through consequential impact to your margin profile? Thank you."
+      ]
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": [
+        "Blackwell Product Cycle",
+        "Rack Scale System Mix",
+        "NVLink Utilization"
+      ],
+      "questions": [
+        "Yes, thanks for taking the questions, Jensen and Colette. I wanted to ask about the geographies. There was the 10-Q that came out and the United States was down sequentially while several Asian geographies were up a lot sequentially. Just wondering what the dynamics are there? Obviously, China did very well. You mentioned it in your remarks, what are the puts and takes? And then I just wanted to clarify from Stacy's question, if that means the sequential overall revenue growth rates for the company accelerate in the fourth quarter given all those favorable revenue dynamics? Thanks."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2025-07-15T10:00:00.000Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

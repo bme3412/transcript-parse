@@ -1,0 +1,146 @@
+{
+  "speakers": {
+    "jen_hsun_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "AI and Data Center Growth Drivers",
+          "context": "Response to data center upside drivers",
+          "content": "The primary driver for our growth is AI with four fundamental dynamics: 1) AI model breakthroughs in natural language, conversational AI and recommendation systems, 2) Production AI moving from training to inference, with inference growing 4x year-over-year, 3) Growth beyond hyperscale into public cloud and vertical industries, and 4) Edge AI adoption across industries."
+        },
+        {
+          "topic": "Historical Data Center Slowdown",
+          "context": "Response to previous year's deceleration",
+          "content": "Looking back, the deep recommendation systems, natural language understanding breakthroughs, and conversational AI breakthroughs all happened this last year. The velocity of adoption was incredible. Models are getting bigger, with recent advances like Microsoft's increase from 7.5B to 17.5B parameters. All of these developments came together this last year."
+        },
+        {
+          "topic": "Supply Chain Position",
+          "context": "Response to supply concerns",
+          "content": "We're in pretty good shape on supply. The industry is tight, but we're working with multiple processes and fabs across TSMC. We're working closely with customers on forecasting, which gives us better visibility. We just have to watch it closely."
+        },
+        {
+          "topic": "Future of Accelerated Computing",
+          "context": "Response to server GPU adoption",
+          "content": "Every query on the Internet will be accelerated someday. CPU scaling has slowed due to physics limitations. The combination of deep learning emergence and computation needs suggests acceleration is the future. We're seeing the beginning of a new computing era where accelerated computing platforms with rich software are vital."
+        },
+        {
+          "topic": "Gaming and RTX Performance",
+          "context": "Response to gaming trends",
+          "content": "End market demand is terrific and healthy. RTX is doing fantastic with over 30 games announced and 11 shipped. We've taken RTX down to $299. Our notebook business has seen double-digit growth for eight consecutive quarters. Between notebooks and Nintendo Switch, gaming has become more seasonal."
+        },
+        {
+          "topic": "Cloud Gaming Strategy",
+          "context": "Response to Tencent partnership",
+          "content": "Our strategy has three components: GeForce NOW service we provide ourselves, GeForce NOW alliances with telcos worldwide, and partnerships with large publishers like Tencent. China represents about a third of the world's gaming. Transitioning to cloud will be a long-term journey."
+        },
+        {
+          "topic": "Inference Market Development",
+          "context": "Response to inference strategy",
+          "content": "AI models are now large and complex, moving to production. Conversational AI and latency-sensitive models require GPU acceleration. Future data centers will be software-defined, programmable and accelerated. At the edge, it depends whether platforms need to be software-defined or fixed-function."
+        },
+        {
+          "topic": "Long-term Market Position",
+          "context": "Response to sustainability question",
+          "content": "Our company has to live 10 years ahead of the market. We're focused on accelerated computing, both architecture and complex systems. The sustainability comes down to expanding applications we can accelerate and those applications becoming more impactful and complex."
+        },
+        {
+          "topic": "Automotive Industry",
+          "context": "Response to auto market challenges",
+          "content": "The automotive industry is struggling, but their enthusiasm to reinvent their business model has never been greater. Every car company wants to be a tech company with software-defined vehicles. The future of autonomous vehicles is more important than ever, and projects are moving ahead."
+        }
+      ],
+      "closing_remarks": "We had an excellent quarter with strong demand for NVIDIA RTX graphics and NVIDIA AI platforms and record data center revenue. Three key trends in AI - natural language understanding, conversational AI, and deep recommenders - are changing internet interaction. Public cloud demand for AI is growing rapidly, and our inference business is gaining momentum."
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Data Center Mix",
+          "context": "Response to hyperscale vs industry split",
+          "content": "Similar to last quarter with growth across hyperscales, vertical industries, and cloud instances. We're still looking at around a 50-50 split between hyperscales and vertical industries, maybe slightly below 50 for hyperscales."
+        },
+        {
+          "topic": "Coronavirus Impact",
+          "context": "Response to guidance adjustment",
+          "content": "Our $100 million estimate is split between gaming and data center impacts, split fairly equally. It reflects both potential supply challenges and demand impact. China represents about 30% of our overall gaming business. Data center exposure varies quarter to quarter based on customer mix."
+        },
+        {
+          "topic": "Gaming Outlook",
+          "context": "Response to Q1 seasonality",
+          "content": "Normal seasonality for Q1 in gaming is usually sequentially down from Q4. This year the decline will probably be more pronounced due to coronavirus, looking at a low double-digit sequential decline in gaming."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topic": "Data Center Performance",
+      "question": "Can you speak to areas that drove the upside in the quarter and speak to the breadth of your customer profile today relative to a couple of years ago?"
+    },
+    {
+      "analyst": "Joe Moore",
+      "firm": "Morgan Stanley",
+      "topic": "Historical Context",
+      "question": "As you look back at the last 12 months and the deceleration in your HPC cloud business, what drove it to slow down in the first place?"
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Securities",
+      "topic": "Supply Chain",
+      "question": "How are you positioned from a supply perspective for this coming year, given your main foundry is running pretty tight?"
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topic": "Data Center Mix",
+      "question": "Can you give us a little idea of what the mix was between industries and hyperscale in data center?"
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Growth Rate", "Market Penetration"],
+      "questions": [
+        "How should we think about growth rate through the course of this year?",
+        "Where do you think we stand in terms of the attach rate of GPUs for acceleration in the server market?"
+      ]
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topic": "Coronavirus Impact",
+      "question": "How did you arrive at the $100 million coronavirus impact, and what percentage of your gaming business is within China?"
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JPMorgan",
+      "topic": "Cloud Gaming",
+      "question": "On the partnership with Tencent on cloud gaming, how is the NVIDIA team going to be supporting this partnership?"
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore",
+      "topic": "Gaming Trends",
+      "question": "Can you speak to desktop gaming demand with recreation content becoming more available, and how should we think about notebook seasonality?"
+    },
+    {
+      "analyst": "William Stein",
+      "firm": "SunTrust",
+      "topic": "Inference Market",
+      "question": "How do you anticipate the inference market playing out across cloud, edge, and endpoint devices?"
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topic": "Market Position",
+      "question": "How do you think about your R&D investment strategy to stay ahead of the market and competition?"
+    },
+    {
+      "analyst": "Blayne Curtis",
+      "firm": "Barclays",
+      "topic": "Automotive",
+      "question": "With one of your customers potentially slowing their program, how do you look at the auto sector over the next couple of years?"
+    }
+  ]
+}

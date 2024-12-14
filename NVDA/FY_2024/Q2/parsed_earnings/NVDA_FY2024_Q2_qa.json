@@ -1,0 +1,111 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q2",
+  "fiscal_year": "2024",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Large Model Inference",
+          "content": "Yeah. Thanks a lot. So let's take a quick step back. These large language models are fairly -- are pretty phenomenal. It does several things, of course. It has the ability to understand unstructured language. But at its core, what it has learned is the structure of human language. And it has encoded or within it -- compressed within it a large amount of human knowledge that it has learned by the corpuses that it studied. What happens is, you create these large language models and you create as large as you can, and then you derive from it smaller versions of the model, essentially teacher-student models. It's a process called distillation. And so when you see these smaller models, it's very likely the case that they were derived from or distilled from or learned from larger models, just as you have professors and teachers and students and so on and so forth. And you're going to see this going forward. And so you start from a very large model and it has a large amount of generality and generalization and what's called zero-shot capability. And so for a lot of applications and questions or skills that you haven't trained it specifically on, these large language models miraculously has the capability to perform them. That's what makes it so magical. On the other hand, you would like to have these capabilities in all kinds of computing devices, and so what you do is you distill them down. These smaller models might have excellent capabilities on a particular skill, but they don't generalize as well. They don't have what is called as good zero-shot capabilities. And so they all have their own unique capabilities, but you start from very large models."
+        },
+        {
+          "topic": "Inference Market Segment",
+          "content": "Yeah, Mark, I really appreciate the question. Let me see if I could use some metrics, so we have a run time called AI Enterprise. This is one part of our software stack. And this is, if you will, the run time that just about every company uses for the end-to-end of machine learning from data processing, the training of any model that you like to do on any framework you'd like to do, the inference and the deployment, the scaling it out into a data center. It could be a scale-out for a hyperscale data center. It could be a scale-out for enterprise data center, for example, on VMware. You can do this on any of our GPUs. We have hundreds of millions of GPUs in the field and millions of GPUs in the cloud and just about every single cloud. And it runs in a single GPU configuration as well as multi-GPU per compute or multi-node. It also has multiple sessions or multiple computing instances per GPU. So from multiple instances per GPU to multiple GPUs, multiple nodes to entire data center scale. So this run time called NVIDIA AI enterprise has something like 4,500 software packages, software libraries and has something like 10,000 dependencies among each other. And that run time is, as I mentioned, continuously updated and optimized for our installed base for our stack. And that's just one example of what it would take to get accelerated computing to work. The number of code combinations and type of application combinations is really quite insane. And it's taken us two decades to get here. But what I would characterize as probably our -- the elements of our company, if you will, are several. I would say number 1 is architecture. The flexibility, the versatility and the performance of our architecture makes it possible for us to do all the things that I just said, from data processing to training to inference, for preprocessing of the data before you do the inference to the post processing of the data, tokenizing of languages so that you could then train with it. The amount of -- the workflow is much more intense than just training or inference. But anyways, that's where we'll focus and it's fine. But when people actually use these computing systems, it's quite -- requires a lot of applications. And so the combination of our architecture makes it possible for us to deliver the lowest cost ownership. And the reason for that is because we accelerate so many different things. The second characteristic of our company is the installed base. You have to ask yourself, why is it that all the software developers come to our platform? And the reason for that is because software developers seek a large installed base so that they can reach the largest number of end users, so that they could build a business or get a return on the investments that they make. And then the third characteristic is reach. We're in the cloud today, both for public cloud, public-facing cloud because we have so many customers that use -- so many developers and customers that use our platform. CSPs are delighted to put it up in the cloud. They use it for internal consumption to develop and train and to operate recommender systems or search or data processing engines and whatnot all the way to training and inference. And so we're in the cloud, we're in enterprise. Yesterday, we had a very big announcement. It's really worthwhile to take a look at that. VMware is the operating system of the world's enterprise. And we've been working together for several years now, and we're going to bring together -- together, we're going to bring generative AI to the world's enterprises all the way out to the edge. And so reach is another reason. And because of reach, all of the world's system makers are anxious to put NVIDIA's platform in their systems. And so we have a very broad distribution from all of the world's OEMs and ODMs and so on and so forth because of our reach. And then lastly, because of our scale and velocity, we were able to sustain this really complex stack of software and hardware, networking and compute and across all of these different usage models and different computing environments. And we're able to do all this while accelerating the velocity of our engineering. It seems like we're introducing a new architecture every two years. Now we're introducing a new architecture, a new product just about every six months. And so these properties make it possible for the ecosystem to build their company and their business on top of us. And so those in combination makes us special."
+        },
+        {
+          "topic": "Networking Solutions Attach Rate",
+          "content": "Well, working backwards, we don't use that to prioritize the allocation of our GPUs. We let customers decide what networking they would like to use. And for the customers that are building very large infrastructure, InfiniBand is, I hate to say it, kind of a no-brainer. And the reason for that because the efficiency of InfiniBand is so significant, some 10%, 15%, 20% higher throughput for $1 billion infrastructure translates to enormous savings. Basically, the networking is free. And so, if you have a single application, if you will, infrastructure or it’s largely dedicated to large language models or large AI systems, InfiniBand is really a terrific choice. However, if you’re hosting for a lot of different users and Ethernet is really core to the way you manage your data center, we have an excellent solution there that we had just recently announced and it’s called Spectrum-X. Well, we’re going to bring the capabilities, if you will, not all of it, but some of it, of the capabilities of InfiniBand to Ethernet so that we can also, within the environment of Ethernet, allow you to get excellent generative AI capabilities. So Spectrum-X is just ramping now. It requires BlueField-3 and it supports both our Spectrum-2 and Spectrum-3 Ethernet switches. And the additional performance is really spectacular. BlueField-3 makes it possible and a whole bunch of software that goes along with it. BlueField, as all of you know, is a project really dear to my heart, and it’s off to just a tremendous start. I think it’s a home run. This is the concept of in-network computing and putting a lot of software in the computing fabric is being realized with BlueField-3, and it is going to be a home run."
+        },
+        {
+          "topic": "DGX Cloud and Software Business",
+          "content": "Yeah. Thanks Matt. It's -- without being too specific about numbers, but the ideal scenario, the ideal mix is something like 10% NVIDIA DGX Cloud and 90% the CSPs clouds, and the reason -- and our DGX Cloud is -- the NVIDIA stack is the pure NVIDIA stack. It is architected the way we like and achieves the best possible performance. It gives us the ability to partner very deeply with the CSPs to create the highest-performing infrastructure, number one. Number two, it allows us to partner with the CSPs to create markets like, for example, we're partnering with Azure to bring Omniverse cloud to the world's industries. And the world's never had a system like that, the computing stack. Now with all the generative AI stuff and all the 3D stuff and the physics stuff, incredibly large database and really high-speed networks and low-latency networks, that kind of a virtual industrial virtual world has never existed before. And so, we partnered with Microsoft to create Omniverse cloud inside Azure cloud. So, it allows us number two, to create new applications together and develop new markets together. We go-to-market as one team and we benefit by getting our customers on our computing platform and they benefit by having us in their cloud, number one; but number two, the amount of data and services and security services and all of the amazing things that Azure and GCP and OCI have, they can instantly have access to that through Omniverse cloud. And so it's a huge win-win. And for the customers, the way that NVIDIA's cloud works for these early applications, they can do it anywhere. So one standard stack runs in all the clouds and if they would like to take their software and run it on the CSPs cloud themselves and manage it themselves, we're delighted by that, because NVIDIA AI Enterprise, NVIDIA AI Foundations. And long-term, this is going to take a little longer, but NVIDIA Omniverse will run in the CSPs clouds. Okay. So, our goal really is to drive architecture to partner deeply in creating new markets and the new applications that we're doing and provide our customers with the flexibilities to run in their -- in their everywhere, including on-prem and so, that -- those were the primary reasons for it and it's worked out incredibly. Our partnership with the three CSPs and that we currently have DGX Cloud in and their sales force and marketing teams, their leadership team is really quite spectacular. It works great."
+        },
+        {
+          "topic": "Data Center Demand Sustainability",
+          "content": "Yeah. We have excellent visibility through the year and into next year. And we're already planning the next-generation infrastructure with the leading CSPs and data center builders. The demand – easiest way to think about the demand, the world is transitioning from general-purpose computing to accelerated computing. That's the easiest way to think about the demand. The best way for companies to increase their throughput, improve their energy efficiency, improve their cost efficiency is to divert their capital budget to accelerated computing and generative AI. Because by doing that, you're going to offload so much workload off of the CPUs, but the available CPUs is -- in your data center will get boosted. And so what you're seeing companies do now is recognizing this -- the tipping point here, recognizing the beginning of this transition and diverting their capital investment to accelerated computing and generative AI. And so that's probably the easiest way to think about the opportunity ahead of us. This isn't a singular application that is driving the demand, but this is a new computing platform, if you will, a new computing transition that's happening. And data centers all over the world are responding to this and shifting in a broad-based way."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topics": ["Large Model Inference", "Product Portfolio Positioning"],
+      "questions": [
+        "Yes. Thank you very much. Good afternoon. Obviously, remarkable results. Jensen, I wanted to ask a question of you regarding the really quickly emerging application of large model inference. So I think it's pretty well understood by the majority of investors that you guys have very much a lockdown share of the training market. A lot of the smaller market -- smaller model inference workloads have been done on ASICs or CPUs in the past. And with many of these GPT and other really large models, there's this new workload that's accelerating super-duper quickly on large model inference. And I think your Grace Hopper Superchip products and others are pretty well aligned for that. But could you maybe talk to us about how you're seeing the inference market segment between small model inference and large model inference and how your product portfolio is positioned for that? Thanks."
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Securities",
+      "topics": ["Incremental Supply", "Hyperscaler Demand Sustainability"],
+      "questions": [
+        "Thank you. Just had a quick clarification and a question. Colette, if you could please clarify how much incremental supply do you expect to come online in the next year? You think it's up 20%, 30%, 40%, 50%? So just any sense of how much supply because you said it's growing every quarter. And then Jensen, the question for you is, when we look at the overall hyperscaler spending, that buy is not really growing that much. So what is giving you the confidence that they can continue to carve out more of that pie for generative AI? Just give us your sense of how sustainable is this demand as we look over the next one to two years? So if I take your implied Q3 outlook of Data Center, $12 billion, $13 billion, what does that say about how many servers are already AI accelerated? Where is that going? So just give some confidence that the growth that you are seeing is sustainable into the next one to two years? Thank you."
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topics": ["Data Center Revenue Breakdown", "GPU Product Impact"],
+      "questions": [
+        "Hi, guys. Thanks for taking my question. I was wondering, Colette, if you could tell me like how much of Data Center in the quarter, maybe even the guide is like systems versus GPU, like DGX versus just the H100? What I'm really trying to get at is, how much is like pricing or content or however you want to define that [indiscernible] versus units actually driving the growth going forward. Can you give us any color around that?"
+      ]
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topics": ["Software Ecosystem", "Hardware vs Software Differentiation"],
+      "questions": [
+        "Hi. Thanks for taking my question and congrats on the success. Jensen, it seems like a key part of the success -- your success in the market is delivering the software ecosystem along with the chip and the hardware platform. And I had a two-part question on this. I was wondering if you could just help us understand the evolution of your software ecosystem, the critical elements. And is there a way to quantify your lead on this dimension like how many person years you've invested in building it? And then part two, I was wondering if you would care to share with us your view on the -- what percentage of the value of the NVIDIA platform is hardware differentiation versus software differentiation? Thank you."
+      ]
+    },
+    {
+      "analyst": "Atif Malik",
+      "firm": "Citi",
+      "topics": ["L40S Supply", "Profitability Contribution"],
+      "questions": [
+        "Colette, I have a question on the core L40S that you guys talked about. Any idea how much of the supply tightness can L40S help with? And if you can talk about the incremental profitability or gross margin contribution from this product? Thank you."
+      ]
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley",
+      "topics": ["Unfulfilled Demand", "Supply-Demand Equilibrium"],
+      "questions": [
+        "Great. Thank you. I guess the thing about these numbers that's so remarkable to me is the amount of demand that remains unfulfilled, talking to some of your customers. As good as these numbers are, you sort of more than tripled your revenue in a couple of quarters. There's a demand, in some cases, for multiples of what people are getting. So can you talk about that? How much unfulfilled demand do you think there is? And you talked about visibility extending into next year. Do you have line of sight into when you get to see supply-demand equilibrium here?"
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Customer Segmentation", "Demand Sustainability"],
+      "questions": [
+        "Hi. Thank you for taking the question. I had one quick clarification question for Colette and then another one for Jensen. Colette, I think last quarter, you had said CSPs were about 40% of your Data Center revenue, consumer Internet at 30%, enterprise 30%. Based on your remarks, it sounded like CSPs and consumer Internet may have been a larger percentage of your business. If you can kind of clarify that or confirm that, that would be super helpful. And then Jensen, a question for you. Given your position as the key enabler of AI, the breadth of engagements and the visibility you have into customer projects, I'm curious how confident you are that there will be enough applications or use cases for your customers to generate a reasonable return on their investments. I guess I ask the question because there is a concern out there that there could be a bit of a pause in your demand profile in the out years. Curious if there's enough breadth and depth there to support a sustained increase in your Data Center business going forward. Thank you."
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Networking Solutions Attach Rate", "GPU Allocation"],
+      "questions": [
+        "Thanks a lot. I had a question and then I had a clarification as well. So, the question first is, Jensen, on the InfiniBand versus Ethernet argument, can you sort of speak to that debate and maybe how you see it playing out? I know you need the low late -- the low latency of InfiniBand for AI, but can you sort of talk about the attach rate of your InfiniBand solutions to what you're shipping on the core compute side and maybe whether that's similarly crowding out Ethernet like you are with on the compute side? And then the clarification, Colette, is that there wasn't a share buyback despite you still having about $7 billion on the share repo authorization. Was that just timing? Thanks."
+      ]
+    },
+    {
+      "analyst": "Benjamin Reitzes",
+      "firm": "Melius",
+      "topics": ["DGX Cloud Reception", "Software Business Run Rate"],
+      "questions": [
+        "Hi. Good afternoon. Good evening. Thank you for the question, putting me in here. My question is with regard to DGX Cloud. Can you talk about the reception that you're seeing and how the momentum is going? And then Colette, can you also talk about your software business? What is the run rate right now and the materiality of that business? And it does seem like it's already helping margins a bit. Thank you very much."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-06-15T10:30:00.000Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

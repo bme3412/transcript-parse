@@ -1,0 +1,171 @@
+{
+    "speakers": {
+        "jensen_huang": {
+            "role": "CEO",
+            "responses": [
+                {
+                    "topic": "Data Center Growth",
+                    "context": "Response to cloud spending concerns",
+                    "content": "Yes, we expect to continue to do well in data centers. The -- if you look at the background of what's happening, we know that Moore's Law has ended. And while demand for computing continues to grow and more and more of the data center is running machine learning algorithms, which is computationally really intensive, the only way to increase computational demand -- or computational resource is to buy more computers, buy more CPUs because each one of those CPUs aren't getting much faster. And so as a result of that, the data center CapEx would have to go up. The alternative, which is the alternative that we offer and is one of the reasons why the adoption of NVIDIA's accelerated computing platform is growing so fast, is because the approach that we provide allows for a path forward beyond Moore's Law..."
+                },
+                {
+                    "topic": "T4 Inference",
+                    "context": "Response to inference adoption questions",
+                    "content": "The ramp of T4 is completely related to customers porting their model on top of our platform. And the inference model is really complicated. This is one of the things that I've talked about in the past that on the one hand, people think that inference appears to be simple because there are so many ASICs built being talked about. The vast majority of the complexity of inference is actually in the optimizing compiler on top. The TensorRT, fifth-generation optimizing compiler that we announced just recently took 3, 4 years to build."
+                },
+                {
+                    "topic": "Jetson Edge AI",
+                    "context": "Response to edge computing question",
+                    "content": "Yes, Jetson is designed for edge AI. One version of Jetson, which is a functional save, high-performance with a lot of complicated software, one version of that, you could say, is self-driving cars. And this quarter, we announced winning our first mass-market Level 2. We've been really successful in robot taxis and Level 4s and trucks and shuttles and high-end systems... Volvo is our first announcement, our first win in high-volume, early 2020s production ramp."
+                },
+                {
+                    "topic": "High-End Pascal",
+                    "context": "Response to inventory question",
+                    "content": "Our high-end Pascal GPUs are largely sold. And we did a fairly good job making sure that -- with that transition before we ramped up the high-end Turing products."
+                },
+                {
+                    "topic": "Data Center Expansion",
+                    "context": "Response to growth rate question",
+                    "content": "Our data center business, I would say that Q3, this last quarter, the inventory setback aside, I actually have to say that it's one of the best quarter we've ever experienced. And the reason for that is because our data center position, our accelerated computing position as a company, which is the foundation of this company, the accelerated computing focus of our company expanded in really several ways... We think that there's about 10 million CPU nodes around the world that are used for film rendering. They can now benefit from accelerated computing as Moore's Law comes to an end."
+                },
+                {
+                    "topic": "RAPIDS Platform",
+                    "context": "Response to machine learning question",
+                    "content": "The third and potentially the largest currently is machine learning. This is where Hadoop goes. This is where Spark goes. This is where scikit-learn, Python, pandas. All of the data scientists around the world in retail, in transportation and logistics, in health care, in financial services that are using algorithms like random forest and XGBoost and k-nearest and k-means and PCA and all of these different buzzwords have never had the opportunity to have accelerated computing until now."
+                },
+                {
+                    "topic": "RAPIDS Platform",
+                    "context": "Response to platform capabilities",
+                    "content": "The first is the introduction of a new computing platform, new accelerated platform called RAPIDS. And as you know very well that the vast majority of the industry today, although are super excited about deep learning, deep learning as a method for artificial intelligence is very data-intensive... That has never been accelerated before. And we worked with the open source community over the course of the last several years to pull together an entire stack that starts from Apache Arrow, the Dask parallel distributed computing engine, and then all of our CUDA and all of our algorithms that run on top of that."
+                },
+                {
+                    "topic": "Turing Launch Success",
+                    "context": "Response to product launch question",
+                    "content": "Yes, the Turing launch happened towards the end of the quarter, and it's the biggest generational leap we've ever had. It introduced real-time ray-tracing. It's the first GPU to -- gaming GPU to include artificial intelligence. At every single price point it serves, it is substantially higher performance than the last and it's the highest performance GPU in the world... The 2080 Tis are largely sold out. I think it's still sold out everywhere."
+                },
+                {
+                    "topic": "Channel Inventory",
+                    "context": "Response to inventory concerns",
+                    "content": "We came into Q3 with excess channel inventory post the crypto hangover. We expected the pricing in the marketplace to decline. It declined slower than we expected and -- but while it was declining, we were expecting sales volume to grow, demand to grow and for pricing to be -- for volume to be elastic with pricing... We decided not to sell any more into the channel for the upcoming quarter to give the channel an opportunity to sell through the inventory it has."
+                }
+            ],
+            "closing_remarks": "Thanks, everyone. To sum up, the crypto hangover has left the industry with excess inventory -- excess channel inventory. It will take 1 or 2 quarters to work through it. This is an unexpected near-term setback and doesn't change the fundamental dynamics of our company. The end of Moore's Law has cleared a way for NVIDIA accelerated computing as a great path forward..."
+        },
+        "colette_kress": {
+            "role": "CFO",
+            "responses": [
+                {
+                    "topic": "Gaming Mix",
+                    "context": "Response to revenue composition",
+                    "content": "Yes. So I commented about the overall size of what we have traditionally seen in terms of the midrange over a fairly large period of time because keep in mind, the launches of products quarter-to-quarter have changed that. So it has been about 1/3 consistently over, let's say, about an 8-quarter period of time..."
+                },
+                {
+                    "topic": "Console Business",
+                    "context": "Response to gaming mix question",
+                    "content": "From an overall console perspective, we again have seen about -- in the hundreds and sometimes more than that in prior quarters. What we're seeing is just a normal where they build ahead of the holidays in Q3, and that slows down as we move into Q4 when we're in the middle of the holidays."
+                },
+                {
+                    "topic": "Gaming Components",
+                    "context": "Response to segment analysis",
+                    "content": "Yes. To kind of add to that, think about our gaming business in several pieces that we talked about in terms of the tremendous strength that is also continuing. In terms of our success in terms of Turing, our notebooks for gaming are growing extremely strong, and our overall console business is also extremely healthy as well."
+                },
+                {
+                    "topic": "Q1 Guidance",
+                    "context": "Response to outlook question",
+                    "content": "As the channel inventory normalizes at the end of Q4, we do believe going into Q1, we will be probably up from where we end in terms of Q4. So we won't follow that normal seasonality between Q1 and Q4. We do expect to be up as we go into Q1."
+                },
+                {
+                    "topic": "Non-Gaming Segments",
+                    "context": "Response to segment growth",
+                    "content": "Stacy, yes. I think the answer to that is yes. In aggregate, yes, we do believe the rest of the business will grow sequentially."
+                }
+            ]
+        }
+    },
+    "analyst_questions": [
+        {
+            "analyst": "Harlan Sur",
+            "firm": "JPMorgan",
+            "topic": "Data Center Growth",
+            "question": "Within your guidance for the January quarter, is the team anticipating continued sequential growth in your data center business? There seems to be some concern around a near-term slowdown in cloud spending..."
+        },
+        {
+            "analyst": "Toshiya Hari",
+            "firm": "Goldman Sachs",
+            "topic": "Channel Inventory",
+            "question": "I had a question on the gaming outlook and as it relates to channel inventory. Colette, you mentioned that typically, the midrange is about 1/3 of gaming. How much was it in the October quarter?"
+        },
+        {
+            "analyst": "Vivek Arya",
+            "firm": "Merrill Lynch",
+            "topic": "Pascal Inventory",
+            "question": "What needs to happen to work down this midrange Pascal inventory? Is it pricing? Is it something else? Because the thinking was that this could be cleared within the October quarter, but it hasn't."
+        },
+        {
+            "analyst": "C.J. Muse",
+            "firm": "Evercore",
+            "topic": "Inventory Drawdown",
+            "question": "It looks like it's roughly $600 million kind of a drawdown here. And just curious, does that sound right? Does that fit with what you are hearing from your channel partners in terms of what's excess?"
+        },
+        {
+            "analyst": "Stacy Rasgon",
+            "firm": "Bernstein",
+            "topic": "Business Mix",
+            "question": "If I think about your business split into sort of gaming and non-gaming, are you looking for the non-gaming pieces in aggregate to grow sequentially into Q4?"
+        },
+        {
+            "analyst": "Joe Moore",
+            "firm": "Morgan Stanley",
+            "topic": "Turing Ramp",
+            "question": "With regards to Turing ramp, how is that going relative to your expectations? It seems like availability is quite a bit better now. And where do you stand with DLSS support?"
+        },
+        {
+            "analyst": "Pierre Ferragu",
+            "firm": "New Street Research",
+            "topic": "Channel Inventory",
+            "question": "I'm still trying to put my head around the magnitude of this channel inventory drawdown because if you don't ship like the midrange cards for a full quarter, that means your inventory today is more than a quarter, more than 12 weeks of sales."
+        },
+        {
+            "analyst": "Mark Lipacis",
+            "firm": "Jefferies",
+            "topic": "Product Transition",
+            "question": "I was hoping you could contrast this product cycle transition to Turing to the product transition you had to Pascal. And is the only -- or is the main difference the crypto hangover?"
+        },
+        {
+            "analyst": "Aaron Rakers",
+            "firm": "Wells Fargo",
+            "topic": "Gaming Business",
+            "question": "If I look back over the past several quarters, let's say you've been running at roughly a $1.6 billion to $1.8 billion revenue level since the October '17 quarter. Prior to that, you were at $1.1 billion, $1.2 billion. We look like we're now going back to that level. How do I think about the return of year-over-year growth?"
+        },
+        {
+            "analyst": "Christopher Caso",
+            "firm": "Raymond James",
+            "topic": "Inference Business",
+            "question": "A question with regard to inferencing and what we can expect from that for both Q4 and going forward. And perhaps I don't know if it's a valid comparison to compare what we might expect from inferencing after the new Quadro launches to what happened in training after the Volta launches?"
+        },
+        {
+            "analyst": "William Stein",
+            "firm": "SunTrust",
+            "topic": "Edge Computing",
+            "question": "Could you highlight the current traction you're seeing and the long-term growth expectations for the Jetson product that's designed for really, I think, a different market? It's inference at the edge, right?"
+        },
+        {
+            "analyst": "Craig Ellis",
+            "firm": "B. Riley",
+            "topic": "Data Center Growth",
+            "question": "Trying to get a better understanding of how you see the intermediate-term growth rate of the data center business. You had spectacular high-performance compute TOP500 accelerator penetration performance up 50-plus percent. That about matches the growth in the data center business. Which offer you the best growth from here?"
+        },
+        {
+            "analyst": "Mitch Steves",
+            "firm": "RBC Capital Markets",
+            "topic": "OEM Margins",
+            "question": "I'm actually going to go to a more nitty-gritty question just on the financial side, just to make sure I'm understanding this right. So the OEM beat was pretty material given a lot of crypto revenue. Is it still the case that OEM is materially lower gross margin than your corporate average at this time?"
+        },
+        {
+            "analyst": "Chris Rolland",
+            "firm": "Susquehanna",
+            "topic": "Market Share",
+            "question": "Your competitor thinks that just 10% of their sales were from crypto or like $150 million, $160 million. And you guys did almost $300 million there. And perhaps I think there could actually be some in gaming as well, which would imply that you guys have two-thirds or more of that market? So I guess what's going on there?"
+        }
+    ]
+}

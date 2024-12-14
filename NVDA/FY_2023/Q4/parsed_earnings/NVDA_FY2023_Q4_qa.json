@@ -1,0 +1,96 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2023",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "AI Infrastructure and Software Monetization",
+          "content": "Yes, first of all, taking a step back, NVIDIA AI is essentially the operating system of AI systems today. It starts from data processing to learning, training, to validations, to inference. And so this body of software is completely accelerated. It runs in every cloud. It runs on-prem. And it supports every framework, every model that we know of, and it's accelerated everywhere. By using NVIDIA AI, your entire machine learning operations is more efficient, and it is more cost effective. You save money by using accelerated software. Our announcement today of putting NVIDIA's infrastructure and have it be hosted from within the world's leading cloud service providers accelerates the enterprise's ability to utilize NVIDIA AI enterprise. It accelerates people's adoption of this machine learning pipeline, which is not for the faint of heart. It is a very extensive body of software. It is not deployed in enterprises broadly, but we believe that by hosting everything in the cloud, from the infrastructure through the operating system software, all the way through pretrained models, we can accelerate the adoption of generative AI in enterprises. And so we're excited about this new extended part of our business model. We really believe that it will accelerate the adoption of software."
+        },
+        {
+          "topic": "Data Center Growth and AI Demand",
+          "content": "Large language models are called large because they are quite large. However, remember that we've accelerated and advanced AI processing by a million times over the last decade. Moore's Law, in its best days, would have delivered 100x in performance in a decade. By coming up with new processors, new systems, new interconnects, new frameworks and algorithms, and working with data scientists and AI researchers on new models across that entire span, we've made large language model processing a million times faster. What would have taken a couple of months in the beginning now happens in about 10 days. And of course, you still need a large infrastructure. And even the large infrastructure, we're introducing Hopper, which is 6x better transformer performance, with its transformer engine and Grace with high-bandwidth memory, we're able to take another leap in the processing of large language models. By putting NVIDIA's DGX supercomputers into the cloud with NVIDIA DGX Cloud, we're going to democratize the access to this infrastructure and, with accelerated training capabilities, really make this technology and capability quite accessible. So that's one thought. The second is the number of large language models or foundation models that have to be developed is quite large. Different countries with different cultures and bodies of knowledge are different. Different fields, different domains, whether it's imaging or biology or physics, each one of them needs their own domain of foundation models. With large language models, of course, we now have a prior that could be used to accelerate the development of all these other fields, which is really quite exciting. The other thing to remember is that the number of companies in the world that have their own proprietary data is vast. The most valuable data in the world are proprietary, and they belong to the company. It's inside their company. It will never leave the company. And that body of data will also be harnessed to train new AI models for the very first time. Our strategy and goal is to put the DGX infrastructure in the cloud so that we can make this capability available to every enterprise, every company in the world who would like to create proprietary data and proprietary models. Regarding competition, we've had competition for a long time. Our approach, our computing architecture, is quite different on several dimensions. Number one, it is universal, meaning you could use it for training, you can use it for inference, you can use it for models of all different types. It supports every framework. It supports every cloud. It's everywhere. It's cloud to private cloud, cloud to on-prem. It's all the way out to the edge. It could be an autonomous system. This one architecture allows developers to develop their AI models and deploy it everywhere. Number two, no AI in itself is an application. There's a preprocessing part and a post-processing part to turn it into an application or service. Most people don't talk about the pre and post processing because it's maybe not as sexy and not as interesting. However, it turns out that preprocessing and post-processing oftentimes consume half or two-thirds of the overall workload. By accelerating the entire end-to-end pipeline, from preprocessing, data ingestion, data processing, all the way to post-processing, we're able to accelerate the entire pipeline versus just accelerating half of the pipeline. The limit to speed up, even if you're instantly passed if you only accelerate half of the workload, is twice as fast. Whereas if you accelerate the entire workload, you could accelerate the workload maybe 10, 20, 50x faster, which is why when you hear about NVIDIA accelerating applications, you routinely hear 10x, 20x, 50x speed up. The universality of our accelerated computing platform, the fact that we're in every cloud, the fact that we're from cloud to edge, makes our architecture really quite accessible and very differentiated. Most importantly, to all the service providers, because of the utilization is so high, because you can use it to accelerate the end-to-end workload and get such a good throughput, our architecture is the lowest operating cost. It's not -- the comparison is not even close."
+        },
+        {
+          "topic": "AI Factories and TAM Growth",
+          "content": "First of all, I have new applications that you don't know about and new workloads that we've never shared that I would like to share with you at GTC. That's my hook to come to GTC, and I think you're going to be very surprised and quite delighted by the applications that we're going to talk about. NVIDIA is a multi-domain accelerated computing platform. It is not completely general purpose like a CPU because a CPU is 95%, 98% control functions and only 2% mathematics, which makes it completely flexible. We're not that way. We're an accelerated computing platform that works with the CPU that offloads the really heavy computing units, things that could be highly, highly parallelized to offload them. But we're multi-domain. We could do particle systems, fluids, neurons, computer graphics, and all kinds of different applications that we can accelerate. Number two, our installed base is so large. This is the only accelerated computing platform, the only platform. Literally, the only one that is architecturally compatible across every single cloud from PCs to workstations, gamers to cars to on-prem. Every single computer is architecturally compatible, which means that a developer who developed something special would seek out our platform because they like the reach. They like the universal reach. They like the acceleration, number one. They like the ecosystem of programming tools and the ease of using it and the fact that they have so many people they can reach out to help them. There are millions of CUDA experts around the world, software all accelerated, tools all accelerated. Then very importantly, they like the reach. They like the fact that you can see -- they can reach so many users after they develop the software. The number of applications is constantly growing. And then finally, this is a very important point. Remember, the rate of CPU computing advance has slowed tremendously. Scaling through general-purpose computing alone is no longer viable, both from a cost or power standpoint. Accelerated computing is the path forward. These are the reasons why we're constantly discovering new exciting applications."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Software Monetization and Revenue Growth",
+          "content": "So I'll start and turn it over to Jensen to talk more because I believe this will be a great topic and discussion also at our GTC. Our plans in terms of software, we continue to see growth even in our Q4 results, we're making quite good progress in both working with our partners, onboarding more partners and increasing our software. You are correct. We've talked about our software revenues being in the hundreds of millions. And we're getting even stronger each day as Q4 was probably a record level in terms of our software levels. But there's more to unpack in terms of there, and I'm going to turn it to Jensen."
+        },
+        {
+          "topic": "Data Center Guidance and Growth Expectations",
+          "content": "Sure. So your question is regarding the sequentials from Q3 to our guidance that we provided for Q4. As we are seeing the numbers in terms of our guidance, you're correct, is only growing about $100 million. And we've indicated that three of those platforms will likely grow just a little bit. But our pro visualization business we think is going to be flattish and likely not growing as we're still working on correcting the channel inventory levels. It's very difficult to say which will have that increase. But again, we are planning for all three of those different market platforms to grow just a little bit."
+        },
+        {
+          "topic": "Inventory Charges and Supply Constraints",
+          "content": "Thanks for the question, Chris. So as we highlighted in our prepared remarks, we booked an entry of $702 million for inventory reserves within the quarter. Most of that, primarily, all of it is related to our data center business, just due to the change in expected demand looking forward for China. So when we look at the data center products, a good portion of this was also the A100, which we wrote down. Now, looking at our inventory that we have on hand and the inventory that has increased, a lot of that is just due to our upcoming architectures coming to market. Our ADA architecture, our Hopper architecture and even more in terms of our networking business. We have been building for those architectures to come to market and as such to say. We are always looking at our inventory levels at the end of each quarter for our expected demand going forward. But I think we've done a solid job that we used in this quarter just based on that expectation going forward."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Software Monetization", "Cloud Strategy", "Revenue Contribution"],
+      "questions": [
+        "Clearly, on this call, a key focal point is going to be the monetization effect of your software and cloud strategy. I think as we look at it, I think, straight up, the enterprise AI software suite, I think, is priced at around $6,000 per CPU socket. I think you've got pricing metrics a little bit higher for the cloud consumption model. I'm just curious, Colette, how do we start to think about that monetization contribution to the company's business model over the next couple of quarters relative to, I think, in the past, you've talked like a couple of hundred million or so? Just curious if you can unpack that a little bit."
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topics": ["Data Center Growth", "AI Demand", "Market Competition"],
+      "questions": [
+        "Just wanted to clarify, Colette, if you meant data center could grow on a year-on-year basis also in Q1? And then Jensen, my main question kind of relate to 2 small related ones. The computing intensity for generative AI, if it is very high, does it limit the market size to just a handful of hyperscalers? And on the other extreme, if the market gets very large, then doesn't it attract more competition for NVIDIA from cloud ASICs or other accelerator options that are out there in the market?"
+      ]
+    },
+    {
+      "analyst": "Christopher Muse",
+      "firm": "Evercore",
+      "topics": ["Inventory Charges", "Supply Constraints", "Sapphire Rapids Delay"],
+      "questions": [
+        "I wonder if you could give some more color about the inventory charges you took in the quarter and then internal inventory in general. In the documentation, you talked about that being a portion of inventory on hand plus some purchase obligations. And you also spoke in your prepared remarks that some of this was due to China data centers. So if you can clarify what was in those charges. And then, in general, for your internal inventory. Does that still need to be worked down? And what are the implications if that needs to be worked down over the next couple of quarters?"
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Gross Margins", "Inventory Write-downs", "Enterprise Cloud Split"],
+      "questions": [
+        "Jensen, I had a question about what this all does to your TAM. Most of the focus right now is on text, but obviously, there are companies doing a lot of training on video and music. They're working on models there. It seems like somebody who's training these big models has maybe, on the high end, at least 10,000 GPUs in the cloud that they've contracted and maybe tens of thousands of more to inference a widely deployed model. So it seems like the incremental TAM is easily in the several hundred thousands of GPUs and easily in the tens of billions of dollars. But I'm kind of wondering what this does to the TAM numbers you gave last year. I think you said $300 billion hardware TAM and $300 billion software TAM. So how do you kind of think about what the new TAM would be?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topics": ["Sequential Growth", "Auto and Gaming Growth", "ProViz Business"],
+      "questions": [
+        "I have a clarification and then a question both for Colette. The clarification, you said H-100 revenue's higher than A100. Was that an overall statement? Or was that at the same point in time like after 2 quarters of shipments? And then for my actual question. I wanted to ask about auto, specifically the Mercedes opportunity. The Mercedes had an event today, and they were talking about software revenues for their MB Drive that could be single digit or low billion euros by mid-decade and mid billion euros by the end of the decade. And I know you guys were supposedly splitting the software revenues 50-50. Is that kind of the order of magnitude of software revenues from the Mercedes deal that you guys are thinking of and over that similar time frame? Is that how we should be modeling that?"
+      ]
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topics": ["AI Workloads", "TAM Growth", "Hopper and Grace Products"],
+      "questions": [
+        "I think for you, Jensen, it seems like every year a new workload comes out and drives demand for your process or your ecosystem cycles. And if I think back facial recognition and then recommendation engines, natural language processing, Omniverse and now generative AI engines, can you share with us your view? Is this what we should expect going forward, like a brand-new workload that drives demand to the next level for your products? And the reason I ask is because I found it interesting your comments in your script where you mentioned that your kind of view about the demand that generative AI is going to drive for your products and now services is -- seems to be a lot, better than what you thought just over the last 90 days. So -- and to the extent that there's new workloads that you're working on or new applications that can drive next levels of demand, would you care to share with us a little bit of what you think could drive it past what you're seeing today?"
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2023-12-15T10:30:00.000Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

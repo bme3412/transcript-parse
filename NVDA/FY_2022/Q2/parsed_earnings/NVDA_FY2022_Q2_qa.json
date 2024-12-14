@@ -1,0 +1,125 @@
+{
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Data Center Growth and AI Applications",
+          "content": "We are seeing accelerated -- as we've already reported that we have record revenues in both hyperscale cloud and industrial enterprise this last quarter. And we're seeing accelerated growth. The exploration in hyperscale and cloud comes from the transitioning of the cloud services providers in taking their AI applications, which are now heavily deep learning-driven into production. There were some things that we've spoken about in the past that we'll make Vinny the ideal partner to scale up with."
+        },
+        {
+          "topic": "Enterprise AI Software Strategy",
+          "content": "For instance, NVIDIA AI Enterprise. And that basically puts all of the state-of-the-art AI solvers and engines and libraries that we've industrialized and perfected over the years, have made available to Enterprise license. The second is an operating system platform called Base Command that allows for distributed Gala software development for training and developing models, and then the third is Fleet Command, which is an operating system software product that lets you operate and deploy and manage the AI models out to the Edge. These three software products, in combination with the server called NVIDIA Certified, taken out through our network of partners is our strategy to accelerate the adoption of AI by the Enterprise customers."
+        },
+        {
+          "topic": "RTX and Gaming Progress",
+          "content": "As you know RTX is a fundamental recap of computer graphics. This is a technology called ray tracing that has been the holy grail of computer graphics for quite a long time for 35 years, and our NVIDIA research for 10 years, we finally made it possible to do real-time ray tracing with RTX. RTX's demand is quite incredible, and as you know, we have a large [Indiscernible] that uses an architecture called GTX based on programmable shelters that we invented some 20 years ago. And now, we've reset the entire installed base, and Ampere is off to just the incredible starting the best-selling GPU architecture in the history of our Company. And yet, we've only upgraded some 20% -- less than 20% of our total installed base."
+        },
+        {
+          "topic": "Networking and Data Center Architecture",
+          "content": "The heaviest solid growth quarter, and the Mellanox networking business have really grown incredibly. There are three dynamics happening all at the same time. The first is the transition that you're talking about. You know that the world's data center [Indiscernible] centers are users for computing costs just aggregated, which basically means with a single application is running on multiple servers at the same time. This is what makes it possible for them to scale up. The more users for an AI application or service, you just have to add more servers."
+        },
+        {
+          "topic": "AI Model Growth",
+          "content": "The rate of growth of network sizes AI models buys this is doubled every two months. It's doubling not every year or 2 years, it's doubling every 2 months. And so you can imagine the size when I'm talking about trending AI models that are 100 trillion parameters large. The human brain has a 150 plus trillion synopsis, and so for nuance. And so that gives you a sense of the scale of AI models that people are developing."
+        },
+        {
+          "topic": "AI Industry Impact",
+          "content": "At the highest level, the important thing to realize is that artificial intelligence, is the single greatest technology force that the computer industry has ever seen and potentially the world's ever seen. The automation opportunities -- automation opportunity, which drives productivity, which translates directly the cost savings to companies, is enormous. And it opens up opportunities for technology and computing Companies like it's never happened before."
+        },
+        {
+          "topic": "Omniverse and Metaverse",
+          "content": "The Omniverse, first of all, just what is it? Is a stimulator. It's a simulator that's physically accurate and physically based. And it was made possible because of two fundamental technologies we invented. One of them is, of course, RTX, the ability to physically stimulate light behaviour in the world, which is very fixing. The second is the ability to compute or simulate the physics of -- simulate the artificial intelligence behaviour of agents and objects inside a world. I'm fairly sure at this point that Omniverse or the Metaverse is going to be a new economy that is larger than our current economy. And we'll enjoy a lot of our time in the future in Omniverse and the Metaverse, and we'll do a lot of our work there, and we'll have a lot of robots."
+        },
+        {
+          "topic": "Closing Remarks",
+          "content": "We had an excellent quarter fueled by surging demand for NVIDIA computing. Our pioneering work in accelerated computing continues to vent graphics, scientific computing with AI. Enabled by NVIDIA accelerated computing, developers are creating the most impactful technologies of our time. From natural language understanding, invest in many systems, to autonomous vehicles, and in the logistics centers, to digital biology and climate science research, the Metaverse world that obeys the laws of physics. This quarter we announced NVIDIA Base Command and Fleet Command to develop deploy, scale, and orchestrate the AI workflow that runs on the NVIDIA AI Enterprise software suite. We're doing some of our best work and most impactful work in our history."
+        },
+        {
+          "topic": "Data Center Growth and AI Platforms",
+          "content": "We are seeing accelerated -- as we've already reported that we have record revenues in both hyperscale cloud and industrial enterprise this last quarter. And we're seeing accelerated growth. The exploration in hyperscale and cloud comes from the transitioning of the cloud services providers in taking their AI applications, which are now heavily deep learning-driven into production. Number one, Ampere GPU, which is now a universal GPU for AI, for training, but incredibly good for [Indiscernible] it's terrific and its throughput, it's terrific, and it's a fast response client as well. And therefore, the cost of deployment, the cost of operating the AI applications is the lowest. The second is the introduction of TensorRT, which is our optimizing compiler that makes it possible for us to compile and optimize any AI application to our GPUs. And whether its computer vision or natural language understanding conversational AI, recommender systems, the type of applications that are deploying AIs is really quite vast. And then lastly, this software Inference server that we offer is called Triton, which supports every one of our GPUs. It supports CPU s as well as GPUs still. So every internet service provider could operate their entire data center using Triton."
+        },
+        {
+          "topic": "Enterprise AI Complete Strategy",
+          "content": "First, we have to create a computing platform that allows them to do training in the IT environment that they understand, which is virtualized, which is largely managed by VMware. And our collaboration with VMware, creating a new type of system that could be integrated into Enterprise has been quite a significant effort, and it's in volume production today. The second is a server that allows the enterprise customers to deploy their AI models out to the Edge. And the AI engine, the software suite that we've been developing over the last 10 years, now has been integrated into this environment and allows the enterprises to basically run AI out of the vast. For instance, NVIDIA AI Enterprise. And that basically puts all of the state-of-the-art AI solvers and engines and libraries that we've industrialized and perfected over the years, have made available to Enterprise license. The second is an operating system platform called Base Command that allows for distributed Gala software development for training and developing models, and then the third is Fleet Command, which is an operating system software product that lets you operate and deploy and manage the AI models out to the Edge. These three software products, in combination with the server called NVIDIA Certified, taken out through our network of partners is our strategy to accelerate the adoption of AI by the Enterprise customers. This is an opportunity that could represent, of course, tens of millions of servers, we could link all of them with the GPU accelerated, and we believe that Enterprises will be deploying and taking advantage of AI to revolutionize the industry. And using a credit traditional enterprise software licensing business model. This could represent billions of dollars of profit inputs."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Sequential Growth Guidance",
+          "content": "I guess we're providing the guidance for Q3 of 6.8 billion in revenue. Now excluding CMP, we expect our revenue to grow over 500 million sequentially. A lion's share of that sequential revenue increase will be coming from Data Center. We do expect gaming to be up slightly on a sequential basis but remember we are still supply constrained. Automotive and ProBiz are also expected to be up slightly quarter-over-quarter. And from the CMP perspective, we'll probably just have minimal amounts in Q3."
+        },
+        {
+          "topic": "Gaming Supply Constraints",
+          "content": "Our supply constraint in our gaming business is largely attributed to our desktop and notebook. That can mean a lot of different things from our components that are necessary to build so many of our products. But our mix is really important. Our mix as we are also seeing many of our gamers very interested in our higher-end, higher performance products. We will continue to see that as a driver about overall lifts both our revenue and can lift our overall gross margins."
+        },
+        {
+          "topic": "Data Center Business Mix",
+          "content": "So far with our Data Center business, with our Q2 results, our vertical industry is still quite a strong percentage. Essentially, 50% of our data center business is going to our vertical industries. Our Hyperscale s makes up the other portion of that, slightly below the 50%. And then we also have our supercomputing business with a very small percentage of it doing quite, quite well. As we move into Q3, as we've discussed, we will see an acceleration of both our vertical industries and our Hyperscales as we move into Q3."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topics": ["Data Center Growth", "Enterprise Software"],
+      "questions": [
+        "I think near-term you mentioned the possibility of accelerating data center growth from the 35% rate. I was hoping if you could give us some more color around that confidence and visibility.",
+        "We've seen a lot of announcements from NVIDIA about your Enterprise software opportunity. I honestly don't know how to model that. It sounds very promising, but how should we model it? What problem are you trying to solve? Is it cannibalizing demand you might have otherwise seen from your public Cloud customers, or is this incremental to growth?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topic": "Sequential Growth",
+      "question": "I've been looking at your gaming revenues. It's like three quarters in a row, you've been up, call it ballpark, 10% or 11%. And my understanding is that was a function of your ability to bring on supply. So I guess what does the supply issue look like as you're going from Q2 into Q3? And do you think you can still maintain that kind of sequential growth or does it dial down because I also need to -- I also would play that against your other commentary suggesting that the sequential growth -- and I assume on a dollar basis would be driven primarily by Data Center."
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topics": ["Supply Constraints", "ASPs"],
+      "questions": [
+        "Colette, maybe you could give us a little bit of commentary around supply constraints in gaming in the different tiers or price tiers of your gaming cards. I'm just trying to get a better understanding of how you guys are managing supply across the different price tiers.",
+        "Are the gaming ASPs that we're seeing in the October quarter guidance, are those what you would call sustainable going forward, or do you feel like that mix may change as supply comes online?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore",
+      "topic": "Supply Constraints",
+      "questions": [
+        "When do you think that they'll ease?",
+        "How should we think about gaming into the January quarter vis-a-vis typical seasonality, given -- I would assume you would continue to be supply constrained?"
+      ]
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JP Morgan",
+      "topic": "Mellanox Performance",
+      "question": "The Mellanox networking franchise -- this has been a really strong and synergistic addition to the video compute portfolio. I think kind of near to midterm the team is benefiting from the transition to 200 and 400-gig networking connectivity and Cloud and Hyperscale. And then I think in addition to that, you guys are getting some good traction with the Bluefield smart tech products. Can you just give us a sense of how the business is trending year-over-year, and do you expect continued quarter-over-quarter networking momentum into the second half of this year, especially as the cloud and hyperscalers are going through a server and Capex spending cycle?"
+    },
+    {
+      "analyst": "John Pitzer",
+      "firm": "Credit Suisse",
+      "topic": "Margins",
+      "question": "I'm curious as we move forward, how do you think about the incremental operating gross margin upside still from here, and how you're thinking about the operating merchant leverage for the Company from here through the P&L."
+    },
+    {
+      "analyst": "Chris Casper",
+      "firm": "Raymond James",
+      "topic": "Data Center Customer Split",
+      "question": "My question is about the split between the Hyperscale in the vertical customers in the Data Center business and the trends you see in each. I think in your prepared remarks, you said both would be up in the October quarter. But I'm interested to see if you're seeing any different trends there, particularly in the vertical business, as perhaps business conditions normalize and Companies return to the office, and they adjust their spending plans accordingly."
+    },
+    {
+      "analyst": "Silgan Stein",
+      "firm": "[Indiscernible]",
+      "topic": "Omniverse",
+      "question": "Jensen, I'm wondering if you can talk for a moment about Omniverse. This looks like really cool technology, but I tend to get very few questions from investors about it, but It looks to me like this could be a potentially very meaningful technology for you longer-term. Can you explain perhaps what capabilities and what markets this is going after? It looks like, perhaps this is going to position you very well in augmented and virtual reality, but maybe it's a different market or group of markets."
+    }
+  ]
+}

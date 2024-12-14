@@ -1,0 +1,136 @@
+{
+  "speakers": {
+    "jen_hsun_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "RTX and Gaming Growth",
+          "context": "Response to gaming outlook",
+          "content": "RTX is doing great. I think we have put all the pieces in place to bring ray tracing into the future of games. The number of games, the blockbuster games that adopted RTX is really snowballing. We announced several 6 games in the last couple of months. There is going to be some exciting announcements next week at gamescom. It's pretty clear now the future of gaming will include ray tracing."
+        },
+        {
+          "topic": "Data Center Growth",
+          "context": "Response to hyperscale trends",
+          "content": "With the exception of a couple of hyperscalers, we're seeing broad-based growth in data centers. In the area of training, the thing that's really exciting everybody, and everybody is racing towards, is training these large gigantic natural language understanding models, language models."
+        },
+        {
+          "topic": "AI Strategy",
+          "context": "Response to long-term outlook",
+          "content": "AI is the single most powerful technology force of our time, and that's why we're all in on it. And we know that acceleration and accelerated computing is the perfect model for that. And it started in the cloud, but it's going to keep moving out into the edge and through data centers and enterprises."
+        },
+        {
+          "topic": "Inference Business",
+          "context": "Response to growth drivers",
+          "content": "Our inference business remains robust. It's double digits. It's a large part of our business. The two dynamics that are near term and going to drive growth are interactive conversational AI inference and inference at the edge."
+        },
+        {
+          "topic": "Volta Technology",
+          "context": "Response to product lifecycle",
+          "content": "Volta data center products can't churn that fast. We gamers could churn products quickly because they're bought and sold one at a time. But data centers data center infrastructure really has to be planned properly, and the build-out takes time. And we expect Volta to be successful all the way through next year."
+        },
+        {
+          "topic": "SUPER Launch",
+          "context": "Response to market reception",
+          "content": "SUPER is off to a great start. Goodness, SUPER is off to a super start. If you do spot checks all around the world, they're sold out almost everywhere. And the pricing in the spot market is drifting higher than MSRP. That just tells you something about demand."
+        },
+        {
+          "topic": "Automotive Strategy",
+          "context": "Response to business model",
+          "content": "Our approach to autonomous vehicles comes in basically 2 parts. The first part is a full stack... The second part of DRIVE includes an end-to-end AV development system. These 3 elements, full stack computer, end-to-end development flow and NRE project development product development consists of the overall DRIVE business."
+        }
+      ],
+      "closing_remarks": "We are happy with our results this quarter and our return to growth across our platforms. Gaming is doing great. It's great to see NVIDIA RTX reinvigorating the industry. GeForce has several growth drivers. Outside a few hyperscalers, we're seeing broad-based growth in data centers."
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Gaming Seasonality",
+          "context": "Response to Switch outlook",
+          "content": "From a gaming perspective, the overall Switch or the overall console business definitely is a seasonal business. We usually expect to see production ramping in Q2 and in Q3, with it coming down likely in Q4."
+        },
+        {
+          "topic": "Gross Margins",
+          "context": "Response to improvement drivers",
+          "content": "Our largest area that we expect improvement in terms of our mix is our mix return regarding our overall gaming business. We expect to have a full quarter of our SUPER lineup within the next quarter including our RTX as well as our notebook becoming a bigger mix."
+        },
+        {
+          "topic": "Data Center Growth",
+          "context": "Response to sequential growth",
+          "content": "What we refer to when we're discussing the broad-based growth is the substantial expansion that we have on the types of customers and the industries that we are now approaching. Our hyperscalers, again, a couple of them, not necessarily growing, some of them are flat and some of them are growing."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore",
+      "topics": ["Gaming Outlook", "Data Center"],
+      "questions": [
+        "How should we think about your outlook into the October quarter vis-à-vis kind of normal seasonality?",
+        "Can you speak directly just to the hyperscale side, both internal and cloud, and whether you're seeing any green shoots?"
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Merrill Lynch",
+      "topics": ["Gross Margins", "Data Center Growth"],
+      "questions": [
+        "Is this 62% to 63% range a more sustainable level for gross margins?",
+        "When do you think your data center starts to grow back on a year-to-year basis?"
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Inference", "Gross Margins"],
+      "questions": [
+        "Curious what you saw from inference in the quarter and the outlook both near term and long term?",
+        "Can you break down the sequential gross margin improvement in terms of volume growth mix dynamics?"
+      ]
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JPMorgan",
+      "topic": "Data Center Recovery",
+      "question": "Would you guys expect that this translates into a double-digit percentage sequential growth in data center in Q3 off of the low base in Q2?"
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Volta Demand", "Revenue Growth"],
+      "questions": [
+        "Do you see signs of demand maybe building up ahead of the new set of nanometer products?",
+        "Can you give us maybe some qualitative sense of where the $300 million growth is coming from?"
+      ]
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topics": ["SUPER Performance", "Software Competition"],
+      "questions": [
+        "Any high-level qualitative commentary on how the new SUPER upgrades have been received?",
+        "Have you seen any movement in the competitive landscape on the software side for the data center space?"
+      ]
+    },
+    {
+      "analyst": "Joe Moore",
+      "firm": "Morgan Stanley",
+      "topic": "Automotive Business",
+      "question": "Could you talk about the strength in the automotive business and the mix between services and components?"
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topic": "RTX Adoption",
+      "question": "Where do we stand on the current product cycle and what are you seeing on the Turing platforms?"
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topic": "Data Center Growth",
+      "question": "You only grew at 3% sequentially in data center. How do I wrap my head around like broad-based growth with relatively minimal growth observed?"
+    }
+  ]
+}

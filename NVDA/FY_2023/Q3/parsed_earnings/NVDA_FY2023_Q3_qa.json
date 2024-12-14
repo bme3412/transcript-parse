@@ -1,0 +1,156 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2023",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Gaming Industry Dynamics",
+          "content": "Yes. I appreciate the question. C.J., our sell-through is off the highs in the beginning of the year, but it’s still very solid. In fact, sell-through has increased 70% since pre-COVID, pre-pandemic. And so, it’s very clear that gaming is -- the fundamentals of gaming are strong, and this medium is really doing well. Not to mention the gaming platforms are being used for influencers, people sharing content, creating content, V bloggers, VTuber, there’s all kinds of new ways of engaging and spending time with video games. Our strategy is to reduce the sell-in -- reduce the sell-in this quarter, next quarter to let channel inventory correct. We’ve also instituted programs to price position our current products to prepare for next-generation products. Ampere is the most popular GPU we’ve ever created. It is in the top 15 most popular gaming GPUs on Steam. And it remains the best GPUs in the world, and it will be very successful for some time. However, we do have exciting new next-generation coming and it’s going to be layered on top of that. And so, we’ve taken -- we’ve done two things. We’ve reduced sell-in to let channel inventory correct and we’ve implemented programs with our partners to price position the products in the channel in preparation for our next generation. All of this we anticipate were working towards a path to being in a good shape going into next year. So, that’s what our game plan is."
+        },
+        {
+          "topic": "Data Center and NVLink",
+          "content": "Yes. I appreciate the question. The -- let's see, the first point that you made is a very big point. The next generation of servers that are being teed up right now are all Gen 5. The I/O performance is substantially higher than what was available before. And so, you're going to see a pretty large refresh as a result of that. Brand-new networking cards from our company and others. Gen 5, of course, drives new platform refresh. And so, we're perfectly timed to ramp into the Gen 5 generation with Hopper. There are a lot of different system configurations you want to make. If you take a step back and look at the type of systems that are necessary for data processing, scientific computing, machine learning and training, inference done in the cloud for hyperscale nature, done on-prem for enterprise computing, done at the edge. Each one of these workloads and deployment locations, the way that you manage would dictate a different system architecture. So there isn't one size that fits all, which is one of the reasons why it's so terrific that we support PCI Express, that we innovated chip-to-chip interconnect for diverse -- before anybody else did, this is now some seven years ago, we're in our fourth generation of NVLink that allows us to connect two chips next to each other, two dies, two chips, two modules, two SXM modules to two systems to multiple systems. And so our coherent chip-to-chip link, NVLink has made it possible for us to mix and match chips, dies, packages, systems and all of these different types of configurations. And I think that, over time, you're going to see even more types of configurations. And the reason for that has to do with a couple of very important new type of data centers that are emerging. And you're starting to see that now with fairly large installations, infrastructures with NVIDIA, HPC and NVIDIA AI. These are really AI factories where you're processing the data, refining the data and turning that data into intelligence. These AI factories are essentially running one major workload and they're running at 24/7. Deep recommender systems is a good example of that. In the future, you're going to see large language models essentially becoming a platform themselves. That would be running 24/7, hosting a whole bunch of applications. And then on the other end, you're seeing data centers at the edge that are going to be robotics or autonomous data centers that are running 24/7. They are going to be running in factories and retail stores and warehouses, logistics warehouses, all over the world. So these two new types of data centers are just emerging, and they also have different architectures. So I think the net of it all is that our ability to support every single workload because we have a universal accelerator, running every single workload from data processing to data analytics to high-performance computing to training to inference that we can support Arm and x86 that we support PCI Express to Multisystem NVlink to multi-chip NVLink to multi-die NVLink, that capability for us is -- makes it possible for us to really be able to serve all of these different segments. With respect to vertical integration, I think that system integration, the better way of maybe saying that is that system integration is going to come in all kinds of different ways. We're going to do semi-custom chips as we've done with many companies in the past, including Nintendo. We'll do semi-custom chiplets as we do with NVLink. NVLink is open to our partners. And they could bring it to any fab and connect it coherently into our chip. We could do multi module packages. We could do multi-package systems. So there's a lot of different ways to do system integration."
+        },
+        {
+          "topic": "Data Center Demand and AI",
+          "content": "Yeah. Thanks, Mark. We had a record Data Center business this last quarter. We expect to have a record, another record quarter this quarter, and we're fairly enthusiastic about the second half. AI and data-driven machine learning techniques for writing software and extracting insight from the vast amount of data that companies have is incredibly strategic to all the companies that we know. Because in the final analysis, AI is about automation of intelligence and most companies are about domain-specific intelligence. We want to produce intelligence. And there are several techniques now that have been created to make it possible for most companies to apply their data to extract insight and to automate a lot of the predictive things that they have to do and do it quickly. And so I think the trend that you hear other people are experiencing about machine learning, data analytics, data driven insights, artificial intelligence. However, it's described, it's all exactly the same thing. And it's sweeping just about every industry and every company. Our networking business is also highly supply constrained. Our demand is really, really high. And it requires a lot of components aside from just our chips. Components and transceivers and connectors and cables. And just -- it's a really -- it's a complicated system, the network, and there are many physical components. And so the supply chain has been problematic. We're doing our best and our supply has been increasing from Q4 to Q1. We're expecting it to increase in Q2 and increase in Q3 and Q4. And so we're really, really grateful for the support from the component industry around us, and we'll be able to increase that. With respect to software, there are two, well, first of all, there are all kinds of machine learning models, computer vision, speech AI, natural language understanding, all kinds of robotics applications, the most -- probably the largest, the most visible one is self-driving cars, which is essentially a robotic AI. And then recently, this incredible breakthrough from an AI model called Transformers that has led to really, really significant advances in natural language understanding. And so they're all these different types of models. There are thousands and thousands of species of AI models and used in all these different industries. One of my favorite, I'll just say it very quickly and I'll answer that question about the software. One of my favorites is using Transformers to understand the language of chemistry or using transformers and using AI models to understand the language of proteins, amino acids, which is genomics. To apply AI to understand -- to recognize the patterns, to understand the sequence and essentially understand the language of chemistry and biology is a really, really important breakthrough. And all of this excitement around synthetic biology, much of it stands back to the – some of these inventions. But anyhow, all of these different models need an engine to run on. And that engine is called NVIDIA AI. In the case of hyperscalers, they can cobble together a lot of open source and we provide a lot of our source to them and a lot of our engines to them for them to operate their AI. But for enterprises, they need someone to package it together and be able to support it and refresh it, update it for new architecture, support old architectures in their installed base, etcetera, and all the different use cases that they have. And so that engine is called NVIDIA AI. It's almost like a sequel engine, if you will. And except this is an engine for artificial intelligence. There's another engine that we provide and that engine is called Omniverse and it's designed for the next wave of AI, where artificial intelligence has to not just manipulate information like recommender systems and conversational systems and such. But it has to interact with physical systems. Whether it's interacting with physics directly, meaning robotics or being able to automate physical systems like heat recovery steam generators, which is really important today. And so Omniverse is designed to sit at that interface, that intersection between simulation and artificial intelligence, and that's what Omniverse is about. Omniverse has now – let’s see some -- we're still early in the deployment of Omniverse for commercial license. It's been a couple of quarters now since we've released Omniverse enterprise. And I think, at this point, we have 10% of the world's top 100 companies that are already customers, licensing customers, substantially more who we're evaluating. I think it's been downloaded nearly 200,000 times. It has been tried in some 700 companies. And Colette highlighted some of the companies, you might see some of the companies that are using it in all kinds of interesting applications at GTC. And so, I fully expect that the NVIDIA AI engine, the Omniverse engine, are going to be very successful for us in the future and contribute greatly to our earnings."
+        },
+        {
+          "topic": "Data Center Visibility and Growth",
+          "content": "Either one of those answers -- the answer is yes. We see a strong demand in data center, hyperscale to cloud computing to vertical industries. Ampere is going to continue to scale out. It's been qualified in every single company in the world. And so, after two years, it remains the best universal accelerator on the planet, and it's going to continue to scale out in all these different domains and different markets. We're going to layer on top of that, a brand-new architecture Hopper. We’re going to layer on top of that brand-new networking architectures. Quantum 3, CX-7, BlueField 3 and we have increasing supply. And so, we're looking forward to an excellent quarter next quarter again for data centers and going into the second half."
+        },
+        {
+          "topic": "Autonomous Vehicles and Robotics",
+          "content": "Several data points. We are just starting. We have just started shipping Orin in the first quarter of shipping production Orin. Orin is a robotics processor. It's designed for a software-defined robotic car or robotic pick and placer or a robotic mover, logistics mover. We've been designed into 35 car and trucks and robo taxi companies and more others, if you include logistics movers and last-mile delivery systems and farming equipment and the number of design wins for Orin is really quite fantastic. Orin is a revolutionary processor. And it's designed as a, if you will, a Data Center on a chip. And it is the first Data Center on a chip that is robotic, processes sensor information, it's safe, it has the ability to be rather resilient as confidential computing. It is designed to be secure, designed to be all those things because these data centers are going to be everywhere. And so Orin is really a technological marvels in production. We experienced very likely the lowest auto quarter in some time for some time. And the reason for that is because over the next six years-or-so, we have $11 billion and counting of business that we've secured estimated. And so I think it's a fairly safe thing to say now that Orin and our autonomous vehicle and robotics business is going to be our next multibillion dollar business. It's on its way surely there. The robotics and autonomous systems and autonomous machines, whether they move or not move, but AI systems that are at the physical edge is surely going to be the next major computing segment. It is surely going to be the next major Data Center segment. We've been working in this area, as you know, for a decade. We have a fair amount of expertise in this area. And Orin is just one example of our work here. We have four pillars to our strategy for autonomous systems. Starting from the data processing and the AI training part of it, to train robotics AIs; second, to simulate robotics AIs, which is omniverse; third, to the memory of the robotics AI otherwise known as mapping; and then finally, the actual robotics application and the robotics processor in the system, and that's where Orin goes. But Orin is just one of our four pillars of our robotics strategy and the next wave of AI. And so I am really optimistic and really enthusiastic about the next phase of the computer industry's growth. And I think a lot of it is going to be at the edge. A lot of it's going to be about robotics."
+        },
+        {
+          "topic": "Closing Remarks",
+          "content": "Thanks, everyone. We are quickly adapting to the macro environment. Correcting inventory levels, offering alternative products to data center customers in China and keeping our opex flat for the next few quarters. Our new platforms are off to a great start and formed the foundation for our resumed growth. RTX is reinventing 3D graphics with ray tracing and AI. The launch of [Inaudible] is phenomenal. Gamers waited in long lines around the world, 4090 stocks sold out quickly. Hopper, with its revolutionary transformer engine is just in time to meet the surging demand for recommender systems, large language models and generative AI. NVIDIA networking is synonymous with the highest data center throughput and enjoying record results. Orin is the world's first computing platform designed for AI-powered autonomous vehicles and robotics and putting automotive on the road to be our next multibillion-dollar platform. These computing platforms run NVIDIA AI and NVIDIA Omniverse, software libraries and engines that help the companies build and deploy AI to products and services. We believe this pioneering work and accelerated computing is more vital than ever. Limited by business, general purpose computing has slowed to a crawl just as AI demands more computing. Scaling through general purpose computing alone is no longer viable, both from a cost or power standpoint. Accelerated computing is the path forward. We look forward to updating you on our progress next quarter."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Gaming Revenue Normalization and Inventory Write-downs",
+          "content": "Well, let me start first there and see if I can assist in terms of how to think about after we get through our completion just now of Q2 and what we have provided here for guidance for Q3. Across those two quarters, the Q2 of ‘23, the Q3 of ‘23, we have likely undershipped gaming to our end demand significantly. We expect that sell-through or essentially our end demand for those combined two quarters of Q2 and Q3 to be approximately $5 billion. Now, on top of this, keep in mind that we do have gaming growth drivers to consider for the future. These can include our new gaming product introductions that are around the corner as well as new segments of the market that we plan to reach with our gaming technology to just name a couple. I’ll turn it over to Jensen to talk a little bit more about that. Now, regarding any further types of write-downs on this perspective, we did a thorough assessment with this quarter, not only just looking at what we needed for this quarter, but what we need for the long term. Keep in mind, our inventory provisions and write-downs that we took into account had to reflect some of the purchasing that we did a supply back more than a year ago when we were still in extreme supply shortages in almost all of our products. And so, this was an opportunity for us to resize given the macroeconomic conditions, what we needed in terms of supply. So, our expectations were higher, and we took this opportunity to write them down to what our current expectations are. I’ll turn it over to Jensen to see if he wants to add more."
+        },
+        {
+          "topic": "Gaming Supply Constraints and Inventory Management",
+          "content": "Yes. So let me start here, and I'll see if Jensen wants to add more of that. Our purchase obligations, as well as our prepaid have two major things to keep in mind. One, for the first time ever, we are prepaying to make sure that we have that supply and those commitments long term. And additionally, on our purchase obligations, many of them are for long lead time items that are a must for us to procure to make sure that we have the products coming to market. A good percentage of our purchase commitments is for our Data Center business, which you can imagine, are much larger systems, much more complex systems and those things that we are procuring to make sure we can feed the demand both in the upcoming quarters and further. Areas in terms of where we are still a little bit supply constrained are networking. Our demand is quite strong. We've been improving it each time. But yes, we still have demand -- excuse me, supply concerns with networking still. Is there others that you want to add on, Jensen?"
+        },
+        {
+          "topic": "Sequential Growth Guidance",
+          "content": "Sure. So your question is regarding the sequentials from Q3 to our guidance that we provided for Q4. As we are seeing the numbers in terms of our guidance, you're correct, is only growing about $100 million. And we've indicated that three of those platforms will likely grow just a little bit. But our pro visualization business we think is going to be flattish and likely not growing as we're still working on correcting the channel inventory levels. It's very difficult to say which will have that increase. But again, we are planning for all three of those different market platforms to grow just a little bit."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Securities",
+      "topics": ["Gaming Sell-through Rate", "Data Center CapEx Concerns"],
+      "questions": [
+        "Thanks for taking my question. Colette, just wanted to clarify first, I think last quarter, you gave us a sell-through rate for your gaming business at about $2.5 billion a quarter. I think you said China is somewhat weaker. So I was hoping you could update us on what that sell-through rate is right now for gaming. And then, Jen-Hsun, the question for you. A lot of concerns about large hyperscalers cutting their spending and pointing to a slowdown. So if, let's say, U.S. cloud capex is flat or slightly down next year, do you think your business can still grow in the data center and why?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topics": ["Gaming Revenue Normalization", "Crypto Impact", "Product Cycle", "Inventory Reserves"],
+      "questions": [
+        "Yeah, Good afternoon and thank you for taking the question. You started to bundle on NVIDIA enterprise now with the H-100. I'm curious if you can talk about how we should think about timing around software monetization? And how we should kind of see this flow through the model, particularly with the focus on the AI enterprise and Omnivere side of things?"
+      ]
+    },
+    {
+      "analyst": "Chris Caso",
+      "firm": "Credit Suisse",
+      "topics": ["Inventory Charges", "Supply Constraints", "Sapphire Rapids Delay"],
+      "questions": [
+        "Yes. Thank you. Good evening. I wonder if you could give some more color about the inventory charges you took in the quarter and then internal inventory in general. In the documentation, you talked about that being a portion of inventory on hand plus some purchase obligations. And you also spoke in your prepared remarks that some of this was due to China data centers. So if you can clarify what was in those charges. And then, in general, for your internal inventory. Does that still need to be worked down? And what are the implications if that needs to be worked down over the next couple of quarters?"
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Inventory Charges", "Enterprise Cloud Split"],
+      "questions": [
+        "Colette, I had a clarification and then a question. So my clarification is whether October gross margins are benefiting at all from the sale of previously written down inventory. And then my question is whether you can give us the enterprise cloud split in data center because it sounds like the mix shifted more towards enterprise in July. And I think investors might want to see that as risky in the face of enterprise clearly slowing. So I’m wondering if you can give us that."
+      ]
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topics": ["Data Center Revenue Pull-ins", "Networking and Compute Growth", "H-100 Ramp"],
+      "questions": [
+        "I wanted to follow up on the data center question that Vivek just asked from a couple of angles. I guess, Colette, the first angle being, in the release, you guys talked about pulling high $200 million of revenue into the July quarter from October, but also with supply chain challenges, maybe some deliveries that were meant for July got pushed back into October. So if you could talk a little bit more about those dynamics and just clarify for us that the October sequentially up data center guidance is actually clean of any pull-ins. And Jensen, the second part, the moving pieces, networking stronger in data center, U.S. hyperscale stronger, China hyperscale weaker. If you could kind of walk us through the trends that you’re seeing into the October and January quarters. And in those sort of those breakouts and when clarify for us when you think H-100 will really start to drive revenue."
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Inventory Charges", "Data Center Demand", "Sapphire Rapids Delay"],
+      "questions": [
+        "I had a question regarding the $1.22 billion inventory charge, maybe for Colette, on this one specifically. In the CFO commentary, I think you stated that the inventory charge is related to weaker demand in both data center and gaming. I think the gaming side is pretty clear based on your comments so far. Curious what’s changed on the data center side? Is it mostly the Chinese hyperscalers that Jensen just spoke to? Or is there something else going on in terms of how you’re thinking about demand in data center over the next couple of quarters? And related to this, curious if the delay in Sapphire Rapids at Intel is having an impact on your business in the near to medium term?"
+      ]
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Gaming and ProViz Sequential Decline", "Data Center Growth with Hopper"],
+      "questions": [
+        "Thanks for taking the question. I want to expand on the networking question a little bit further. When we look at the Microsoft announcement today, we think about what Meda is doing on the AI footprint that they're deploying. Jen-Hsun, can you help us understand like where your InfiniBand networking sits relative to like traditional data center switching? And maybe kind of build on that, how you're positioning spectrum for in the market, does that compete against a broader set of opportunities in the Ethernet world for AI fabric networking?"
+      ]
+    },
+    {
+      "analyst": "Atif Malik",
+      "firm": "Citi",
+      "topics": ["Networking vs Compute Supply Constraints"],
+      "questions": [
+        "Colette, can you talk about networking versus compute? Were they both supply constrained in the July quarter? And are they both sequentially growing in the October quarter?"
+      ]
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley",
+      "topics": ["Supply Constraints Impact", "Hopper and Component Supply"],
+      "questions": [
+        "Great. I wonder if you could talk to looking backward at the crypto impact. Obviously, that's gone from your numbers now, but do you see any potential for liquidation of GPUs that are in the mining network, any impact going forward? And do you foresee blockchain being an important part of your business at some point down the road?"
+      ]
+    },
+    {
+      "analyst": "Srini Pajjuri",
+      "firm": "SMBC Nikko",
+      "topics": ["Gross Margins", "Inventory Write-downs", "Sales Mix"],
+      "questions": [
+        "I have a question on gross margins, Colette. The 65% non-GAAP number you’re guiding to, does that include or assume any additional write-offs on the inventory front? And then just to expand on that, your mix is probably a tailwind to gross margins given that gaming is down significantly and data center is up a little bit. And I’m just wondering, are there any other offsets? Because I would have thought gross margins could actually be better than your longer-term model because of the mixed tailwinds?"
+      ]
+    },
+    {
+      "analyst": "Ross Seymore",
+      "firm": "Deutsche Bank",
+      "topics": ["Gaming ASP Trends", "Crypto Impact", "Product Cycle"],
+      "questions": [
+        "Let me ask a question. I just had a longer-term question about once your gaming business normalizes, with the absence of crypto in a general sense and with the merge coming, et cetera, how do you view the pricing environment? I know you guys really weren’t raising prices like we saw in the MSR key premiums in the aftermarket. But generally, your mix was quite rich over the last year or 2. You’re going to have lovely coming in that will obviously help the mix sequentially versus the last couple of quarters. But how do you think about it normalizing? Is that $2.5 billion per quarter sell-through rate comes, is the ASP mix across your stack about the same? Or does it go down because of the absence of that crypto tightening dynamic?"
+      ]
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "J.P. Morgan",
+      "topics": ["ProViz Business Weakness", "Enterprise Spending", "Vertical Industries"],
+      "questions": [
+        "On the weakness in ProViz, this is an enterprise-focused business, right? Granted, it’s a somewhat narrow vertical market, but it does sort of play into the market concerns that consumer is weak now, enterprise is the next shoe to drop. So is the decline in ProViz attributed to enterprise spending weakness? Or is there some other dynamic? And why or why not is this not a leading indicator for your enterprise and vertical industry segments within your data center business?"
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2023-10-15T10:30:00.000Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

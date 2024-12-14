@@ -1,0 +1,130 @@
+{
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Data Center Growth and Applications",
+          "content": "We're seeing strength across the board in data centers, and we're seeing strengthening demand. Our data center, as you know, is accelerated with a range of applications. From scientific computing, both physical and life sciences, data analytics, and classical machine learning, cloud computing and cloud graphics, which is becoming more important because of remote work. And very importantly, AI both for training as well as inferencing for classical machine learning models, like XGBoost all the way to deep learning-based models like conversational AI, natural language, understanding, recommender systems, and so on. And so we have a large suite of applications and our NVIDIA AI and NVIDIA HPC as the case, accelerate these applications and data centers. They run on systems that range from HGX for the hyperscalers to DGX for on-prem to EGX for Enterprise and Edge, all the way out to AGX autonomous systems."
+        },
+        {
+          "topic": "Enterprise AI Platform",
+          "content": "At GTC, we announced one of our largest initiatives and it's taken us several years. You've seen working on it in open -- on the open over the course of the last several years, and it's called EGX, it's our Enterprise AI platform. We're democratizing AI, we're bringing it out in cloud, we're bringing it to enterprises, and we're bringing it out to the Edge. And the reason for that is because the vast majority of the world at the automation that has to be done has data that has data sovereignty issues, or data rate issues that can't move to the cloud easily. And so we have to move the computing to their premise and oftentimes all the way up to the edge. The platform has to be secure, has to be confidential, it has to be remotely manageable. And of course, it has to be high-performance and it has to be cloud-native."
+        },
+        {
+          "topic": "VMware Partnership",
+          "content": "Meanwhile, we ported NVIDIA AI, NVIDIA HPC on to VMware, so that they could run distributed large scale accelerated computing for the very first time. And that partnership, that partnership was announced at VMworld. It was announced at GTC and we're in the process of going to market with all of our enterprise partners, their OEMs, their value-added resellers, their service -- their solution integrators all over the world."
+        },
+        {
+          "topic": "BlueField and Data Center Architecture",
+          "content": "First of all, the modern data center has to be rearchitected for several reasons. There are several fundamental reasons that makes it very, very clear that the architecture has to change. The first insight is cloud-native, which means that a data center is shared for everybody. Number two, you have to assume that it's a Zero Trust environment because you don't know who's using it. The third reason is something that started a long time ago, which is software defined in every way. BlueField-2 replaces approximately 30 CPU cores. BlueField-3 replaces approximately 300 CPU cores. And BlueField-4, we're in the process of building already. And so, we've got a really aggressive pipeline to do this. Now, how big of this market, the way to think about that is every single networking chip in the world will be a smart network [indiscernible] -- it will check. It will be a programmable accelerated infrastructure processor."
+        },
+        {
+          "topic": "More You Buy, More You Save Philosophy",
+          "content": "The more you buy, the more you [indiscernible], there's no question about that. And the reason for that is because we're in the business of accelerated computing, we don't accelerate every application. However, for the applications we do accelerate, the acceleration is so dramatic. And because we sell a component, the entire system, the TCO, the TCO of the entire system, and all the services and all the people and the infrastructure and the energy cost has been reduced by X factors, sometimes 10x, sometimes 15x, sometimes 5x."
+        },
+        {
+          "topic": "Quantum Computing",
+          "content": "And recently we worked on true [ph] quantum so that we could help the quantum industry, quantum computing industry it's already there simulators so that they could discover new algorithms and invent future computers, even though it won't happen until 2030. For the next 20 years, that we're going to have 15 years, we're going to have some really, really great work that we can do, using NVIDIA GPUs to do quantum simulations."
+        },
+        {
+          "topic": "Cryptocurrency and Gaming",
+          "content": "First of all, it's hard to estimate exactly how much and where crypto mining is being done. However, we can only assume that the vast majority of it is contributed by professional miners, especially when the amount of mining increases tremendously. And so we created the CMP. And CMP and GeForce are not fungible. You could use GeForce for mining, but you can't use CMP for gaming. CMP is yields better and producing those doesn't take away from the supply of GeForce. And so it protects our GeForce supply for the gamers. We're at the very beginning of the RTX 30 cycle. And because we reinvented computer graphics, we reset the computer industry. And after 3 years, the entire graphics industry has followed. Every game developers need to do ray tracing, every content developer and every content tool has moved to ray tracing."
+        },
+        {
+          "topic": "Gaming Market Evolution",
+          "content": "Gaming is no longer just gaming. And it's infused into sports, e-sports. It's infused into art. It's infused into social. And so gaming is -- it has such a large cultural impact now, it's the largest form of entertainment. And I think that the experience we're going through is going to last a while. And so, one I hope that crypto will -- the CMP will steer our GeForce supply to gamers. We see strong demand and I expect to see strong demand for quite some time because of the dynamics that I described."
+        },
+        {
+          "topic": "Enterprise Software and Distribution",
+          "content": "Our Enterprise software used to be just about the BGP, which is virtualizing GPU inside the VMware environment, or inside the Red Hat environment and makes it possible for multiple users to use one GPU, which is the nature of Enterprise virtualization, but now with NVIDIA AI, NVIDIA Omniverse, NVIDIA Fleet Command, whether you're doing collaboration or virtual simulations for robotics and digital twins, design your factory or you're doing data analytics, learning what the predictive features are that could create an AI model, predictive model that you can deploy out at the Edge using Fleet Command. We now have an intense suite of software that is consistent with today's enterprise service agreements. More importantly, by creating this -- prioritizing our software, we provide the ability for our large network of partners, OEM partners, value added resellers, system integrators, solution providers for this large network of hundreds of thousands of IT sales professionals that we are connected to through our network, we give them a product that they can take to market."
+        },
+        {
+          "topic": "Closing Remarks",
+          "content": "NVIDIA computing platform is accelerating. Launched at GTC, we are now ramping new platforms and initiatives. First, enabled by the fusion of NVIDIA RTX, NVIDIA AI and NVIDIA [indiscernible]. We built Omniverse, a platform for virtual collaboration and virtual worlds to enable tens of millions of artists and designers to create together in their own metaverse. Second, we lay the foundation to be a three check data center scale computing company with GPUs, DPUs and CPUs. Third, AI is the most powerful technology force of our time. From gaming, metaverses cloud computing, AI, robotics, self driving cars, genomics, computational biology, NVIDIA is doing important work and innovating in the fastest growing markets today. As you can see, on top of our computing platforms that span PC, HPC, Cloud, Enterprise to Autonomous Edge, we've also transformed our business model beyond chips. NVIDIA vGPU, NVIDIA AI Enterprise, NVIDIA Fleet Command and NVIDIA Omniverse adds enterprise software license and subscription to our business model. And NVIDIA GeForce Now and NVIDIA DRIVE with Mercedes Benz as the lead partner, our end-to-end services on top of that."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Q2 Guidance and Growth",
+          "content": "Thanks so much for the question on our guidance. So I first want to start off with, we see demand really across all of our markets. All of our different market platforms we do plan to grow sequentially. You are correct, that we are expecting an increase in our CMP. And outside of our CMP growth, we expect the lion share of our growth to come from our data center and gaming. In our data center business, right now, our product lineup couldn't be better. We have a strong overall portfolio, both for training and for inferencing and we're seeing strong demand across our hyperscales and vertical industries."
+        },
+        {
+          "topic": "Mellanox Performance",
+          "content": "Additionally, Mellanox is an important part of our data center. It is quite integrated with our overall products. We did continue to see growth this last quarter and we are also expecting them to sequentially grow as we move into Q2. They are a smaller part of our overall data center business, but again, we do expect them to grow."
+        },
+        {
+          "topic": "Purchase Commitments",
+          "content": "The market has definitely changed to where long lead times are required to build out our data center products. So we're on a steady stream to both commit longer-term, so that we can make sure that we can serve our customers with the great lineup of products that we have. So yes, a good part of those purchase commitments is really about those long lead times, the components to create the full systems."
+        },
+        {
+          "topic": "RTX Adoption",
+          "content": "We have definitely discussed in terms of the great opportunity that we have in front of us of folks moving to our ray traced GPUs. And we're in the early stages of that. We've had a strong cycle already, but still we probably have approximately 15% moving up a little bit from that at this time. So it's a great opportunity for us to continue to upgrade a good part of that install base, not only just with our desktop GPUs, but the RTX laptops are also a great driver of growth and upgrading folks to RTX."
+        },
+        {
+          "topic": "Second Half Outlook",
+          "content": "We do see as things continue to open up a time to accelerate in the second half of the year for data center. We have, again a great lineup of products here. It couldn't be a better lineup now that we've also added the inferencing products and the host of overall applications that are using our software that we have. So this could be an opportunity as well to see that continued growth. We will work in terms of serving the supply that we need for both of these markets. But yes, we can see definitely growth in the second half of the year. We only guide one quarter at a time, but our plan is to take the supply, serve the overall gamers, work on building out the channel, as we know the channel is quite lean. And so yes, we do and still expect growth in the second half of the year, particularly when we see the lineup of games, the holiday overall coming, the back-to-school, all very important cycles for us."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Guidance", "Networking"],
+      "questions": [
+        "I was wondering if you can double click a little more on the guidance. I know of the 600 to 650 in growth, you said 250 is coming from CMP and both gaming and data center will be up. Can we assume that they're up about equally, so you're getting about 200 roughly from each of those?",
+        "Within data center, I'm wondering can you speak to the networking piece. It sounds like maybe it was up a bit more modestly than it's been up the past few quarters. I'm just wondering what the outlook is there?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topics": ["Data Center Growth", "Purchase Obligations"],
+      "questions": [
+        "In your prepared remarks, I think I heard you talk about a vision for acceleration in data center as we go through the year. And as you think about the purchase obligations that you reported up 45% year-on-year, how much of that is related to long lead time data center?",
+        "How should we interpret that in terms of what kind of ramp we could see in the second half, particularly as you think about perhaps adding more growth from enterprise on top of what was hyperscale-driven growth in the April quarter?"
+      ]
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Gaming Install Base", "BlueField"],
+      "questions": [
+        "I think in the past you talked about how much of your gaming install base is kind of on the pre-race ray tracing platforms are really kind of the context behind the upgrade cycle that's still part of us.",
+        "On the heels of the last question, I was just curious things like VMware's project model ray as we think about the BlueField-2 product and BlueField-3, how should we think about those starting to become or when should they become really material incremental revenue growth contributors for the company?"
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Securities",
+      "topics": ["Crypto Impact", "Gaming Demand"],
+      "questions": [
+        "Is NVIDIA able to ring fence this crypto impact in your CMP product? So even if, let's say crypto goes away, for whatever reason, the decline is a lot more predictable and manageable than what we saw in the 2018, '19 cycle?",
+        "How do you think about your core PC gamer demand? Because when we see these kind of 106% year-on-year growth rate, it brings questions of sustainability."
+      ]
+    },
+    {
+      "analyst": "John Pitzer",
+      "firm": "Credit Suisse",
+      "topics": ["Enterprise AI", "Government Subsidies"],
+      "questions": [
+        "With the NVIDIA Enterprise AI software stack, is there a sense that you can give us is how much that brings down the cost of deployment and AI inside the Enterprise? And do you think whether COVID lockdown related or cost related, there's pent up demand that this unlocks?",
+        "A lot of talks out of Washington about subsidizing the chip industry, a lot of that goes towards building fabs domestically. But when I look at AI, I can't think of anything more important to maintain sort of leadership in relative to national security. How do we think about NVIDIA and kind of the impact that these government subsidies might have on either you or your customers or your business trends?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topics": ["Sequential Growth", "Data Center Outlook"],
+      "questions": [
+        "Last quarter you had kind of suggested that Q1 would be the trough for, I guess, for gaming as well as the rest of the company beginning in particular, and it would grow sequentially through the year. Given the strength we're seeing in the first half, do you still believe that that is the case?",
+        "Is there any reason to think that data center itself shouldn't also grow sequentially, like through the rest of the year?"
+      ]
+    }
+  ]
+}

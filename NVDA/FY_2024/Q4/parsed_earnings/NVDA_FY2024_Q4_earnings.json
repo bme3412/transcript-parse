@@ -1,0 +1,370 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2024",
+  "total_revenue": {
+    "value": 22.1,
+    "unit": "billion",
+    "context": "Q4 revenue was $22.1 billion, up 22% sequentially and up to 265% year-on-year, and well above our outlook of $20 billion.",
+    "period": "Q4"
+  },
+  "segments": [
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 18.4,
+        "unit": "billion",
+        "context": "Data center revenue for Q4 was $18.4 billion, a record, up 27% sequentially and up 409% year-over-year.",
+        "period": "Q4"
+      },
+      "growth_yoy": 409.0,
+      "growth_qoq": 27.0,
+      "key_points": [
+        "Fiscal 2024 Data Center revenue reached $47.5 billion, more than tripling from the prior year.",
+        "Data Center revenue driven by NVIDIA Hopper GPU computing platform and InfiniBand end-to-end networking.",
+        "Compute revenue grew more than 5x and networking revenue tripled from last year.",
+        "Demand for Hopper architecture products remains very strong with improving supply.",
+        "Next-generation products expected to be supply constrained due to high demand.",
+        "Growth driven by both training and inference of generative AI and large language models across various industries and regions.",
+        "Versatility and leading performance of NVIDIA data center platform enable high ROI for AI training, inference, data processing, and CUDA accelerated workloads.",
+        "Approximately 40% of data center revenue over the past year attributed to AI inference.",
+        "Large cloud providers represent more than half of data center revenue, supporting internal workloads and external public cloud customers.",
+        "Microsoft's GitHub Copilot business usage exceeded 50,000 organizations, accelerating GitHub revenue growth by 40% year-over-year.",
+        "Consumer internet companies are major adopters of AI, enhancing customer engagement, ad performance, and automation tools.",
+        "Enterprise software companies like Adobe, Databricks, Snowflake, and ServiceNow applying generative AI for productivity gains.",
+        "Strong adoption of AI infrastructure across automotive, healthcare, and financial services verticals.",
+        "Geographical growth strong across all regions except China due to U.S. export control regulations.",
+        "China represented a mid-single digit percentage of data center revenue in Q4 and is expected to remain similar in Q1.",
+        "Sovereign AI investments globally driving additional demand.",
+        "H200 GPU shipments on track with initial shipments in Q2.",
+        "Networking revenue exceeded a $13 billion annualized run rate, driven by Quantum InfiniBand solutions growing more than 5x year-over-year.",
+        "Spectrum-X Ethernet offering launched, designed for AI-optimized networking, available this quarter.",
+        "Software and services offerings reached an annualized revenue run rate of $1 billion with NVIDIA DGX Cloud expanding partnerships to include Amazon AWS."
+      ]
+    },
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 2.87,
+        "unit": "billion",
+        "context": "Gaming revenue was $2.87 billion, flat sequentially and up 56% year-on-year, better than our outlook, driven by solid consumer demand for NVIDIA GeForce RTX GPUs during the holidays.",
+        "period": "Q4"
+      },
+      "growth_yoy": 56.0,
+      "growth_qoq": 0.0,
+      "key_points": [
+        "Strong consumer demand for NVIDIA GeForce RTX GPUs during the holiday season.",
+        "Fiscal year Gaming revenue reached $10.45 billion, up 15%.",
+        "At CES, announced GeForce RTX 40 Super Series family of GPUs starting at $599, delivering incredible gaming performance and generative AI capabilities.",
+        "RTX 40 Super Series GPUs are delivering up to 836 AI TOPs, enhancing AI for gaming and everyday productivity.",
+        "DLSS technologies enable up to 4x faster ray tracing and better image quality by generating seven out of eight pixels using AI.",
+        "TensorRT-LLM for Windows accelerates inference performance for large-language models, enabling generative AI to run up to 5x faster on RTX AI PCs.",
+        "Launch of new RTX 40 Series AI laptops from major OEMs, offering high-performance gaming and AI capabilities in various form factors.",
+        "GeForce NOW cloud gaming service library surpassed 1,700 titles, including popular games like Alan Wake 2, Baldur's Gate 3, Cyberpunk 2077: Phantom Liberty, and Starfield.",
+        "NVIDIA Avatar Cloud Engine microservices introduced at CES, allowing developers to integrate generative AI models into digital avatars, winning several Best of CES 2024 awards.",
+        "End-to-end platform for building and deploying generative AI applications for RTX PCs and workstations with over 100 million RTX PCs in the installed base and over 500 AI-enabled PC applications and games."
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.463,
+        "unit": "billion",
+        "context": "ProViz revenue was $463 million, up 11% sequentially and up 105% year-on-year.",
+        "period": "Q4"
+      },
+      "growth_yoy": 105.0,
+      "growth_qoq": 11.0,
+      "key_points": [
+        "Fiscal year ProViz revenue reached $1.55 billion, up 1%.",
+        "Sequential growth driven by RTX Ada architecture GPUs ramping.",
+        "Enterprises are refreshing workstations to support generative AI-related workloads such as data preparation, LLM fine-tuning, and retrieval augmented generation.",
+        "Key industrial verticals driving demand include manufacturing, automotive, and robotics.",
+        "Automotive industry early adopter of NVIDIA Omniverse for digitizing workflows from design to build, simulate, operate, and experience factories and cars.",
+        "At CES, announced partnerships with creative partners and developers like Brickland, WPP, and ZeroLight to build Omniverse-powered car configurators.",
+        "Leading automakers like LOTUS adopting Omniverse technology to enhance car buying experiences with personalization, realism, and interactivity."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.281,
+        "unit": "billion",
+        "context": "Automotive revenue was $281 million, up 8% sequentially and down 4% year-on-year, driven by continued adoption of the NVIDIA DRIVE platform by automakers.",
+        "period": "Q4"
+      },
+      "growth_yoy": -4.0,
+      "growth_qoq": 8.0,
+      "key_points": [
+        "Fiscal year Automotive revenue reached $1.09 billion, up 21%, crossing the $1 billion mark.",
+        "Continued adoption of NVIDIA DRIVE platform by automakers.",
+        "NVIDIA DRIVE Orin is the AI car computer of choice for software-defined AV fleets.",
+        "Successor NVIDIA DRIVE Thor designed for vision transformers, offering more AI performance and integrating intelligent capabilities for autonomous driving, parking, driver and passenger monitoring, and AI cockpit functionality, available next year.",
+        "Automotive customer announcements include Li Auto, Great Wall Motor, ZEEKR, Geely's premium EV subsidiary, and Xiaomi EV, all announcing new vehicles built on NVIDIA DRIVE platform."
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided."
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4."
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4."
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 76.0,
+      "unit": "%",
+      "context": "GAAP gross margins expanded sequentially to 76% and non-GAAP gross margins to 76.7%, driven by strong data center growth and mix. Gross margins benefited from favorable component costs.",
+      "period": "Q4"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific cash flow data provided.",
+      "period": "Q4"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": null,
+        "unit": "million",
+        "context": "No specific data provided for Q4.",
+        "period": "Q4"
+      },
+      "gfnow_games": {
+        "value": 1700,
+        "unit": "games",
+        "context": "GeForce NOW library now includes over 1,700 games.",
+        "period": "Q4"
+      },
+      "share_repurchases": {
+        "value": 2.8,
+        "unit": "billion",
+        "context": "Returned $2.8 billion to shareholders in the form of share repurchases and cash dividends.",
+        "period": "Q4 Fiscal 2024"
+      },
+      "share_repurchase_authorization_remaining": {
+        "value": null,
+        "unit": "billion",
+        "context": "No specific data provided for Q4.",
+        "period": "Q4 Fiscal 2024"
+      }
+    }
+  },
+  "future_guidance": {
+    "q1_fiscal_2025_revenue": {
+      "value": 24.0,
+      "unit": "billion",
+      "context": "For Q1, total revenue is expected to be $24 billion, plus or minus 2%.",
+      "period": "Q1 Fiscal 2025"
+    },
+    "q1_fiscal_2025_gross_margin": {
+      "gaap": 76.3,
+      "non_gaap": 77.0,
+      "unit": "%",
+      "context": "GAAP and non-GAAP gross margins are expected to be 76.3% and 77%, respectively, plus or minus 50 basis points.",
+      "period": "Q1 Fiscal 2025"
+    },
+    "q1_fiscal_2025_operating_expenses": {
+      "gaap": 3.5,
+      "non_gaap": 2.5,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP operating expenses are expected to be approximately $3.5 billion and $2.5 billion, respectively.",
+      "period": "Q1 Fiscal 2025"
+    },
+    "q1_fiscal_2025_other_income_expenses": {
+      "value": 0.25,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP other income and expenses are expected to be an income of approximately $250 million, excluding gains and losses from non-affiliated investments.",
+      "period": "Q1 Fiscal 2025"
+    },
+    "q1_fiscal_2025_tax_rates": {
+      "value": 17.0,
+      "unit": "%",
+      "context": "GAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%, excluding any discrete items.",
+      "period": "Q1 Fiscal 2025"
+    },
+    "capital_expenditures": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific data provided for Q1.",
+      "period": "Fiscal 2024"
+    },
+    "full_year_non_gaap_opex_growth": {
+      "value": 30.0,
+      "unit": "%",
+      "context": "Fiscal year 2025 GAAP and non-GAAP operating expenses are expected to grow in the mid-30% range as we continue to invest in the large opportunities ahead.",
+      "period": "Fiscal 2025"
+    },
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Collaboration with Microsoft on AI foundry service for development and tuning of custom generative AI enterprise applications running on Azure.",
+    "Launch of Spectrum-X Ethernet offering designed for AI-optimized networking, available this quarter.",
+    "Partnerships with Adobe, Databricks, Snowflake, ServiceNow, Tesla, and others on AI projects.",
+    "Announced NVIDIA DRIVE Thor for autonomous driving and AI cockpit functionality, available next year.",
+    "Partnership with Foxconn to include NVIDIA DRIVE for next-generation automotive SOC.",
+    "Omniverse-powered digital twins partnerships with Mercedes-Benz, Brickland, WPP, ZeroLight.",
+    "Expansion of NVIDIA DGX Cloud partnerships to include Amazon AWS.",
+    "Launch of GeForce RTX 40 Super Series GPUs and RTX 40 Series AI laptops from major OEMs.",
+    "Introduction of NVIDIA Avatar Cloud Engine microservices at CES.",
+    "Launching new Omniverse Cloud services for automotive digitalization on Microsoft Azure."
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Solid consumer demand for NVIDIA GeForce RTX GPUs during the holidays, driven by new RTX 40 Super Series and AI-enabled gaming applications."
+    },
+    {
+      "cloud_gaming_expansion": "GeForce NOW cloud gaming service library surpassed 1,700 titles, expanding with popular game releases and AI-powered services."
+    },
+    {
+      "cryptocurrency_mining": "No specific mention in the Q4 speech."
+    },
+    {
+      "accelerated_computing": "AI and accelerated computing driving Data Center growth with strong adoption of Hopper and H200 GPUs, InfiniBand and Spectrum-X networking platforms."
+    },
+    {
+      "partnerships": [
+        "Collaboration with Microsoft on AI foundry service.",
+        "Partnerships with Adobe, Databricks, Snowflake, ServiceNow, Tesla.",
+        "Foxconn partnership for NVIDIA DRIVE in next-gen automotive SOC.",
+        "Mercedes-Benz, Brickland, WPP, ZeroLight adopting Omniverse-powered digital twins.",
+        "NVIDIA DGX Cloud partnerships expanding to Amazon AWS."
+      ]
+    },
+    {
+      "technological_advancements": [
+        "Launch of Spectrum-X Ethernet offering designed for AI-optimized networking.",
+        "NVIDIA DRIVE Thor for vision transformers and AI cockpit functionality.",
+        "H200 GPU shipments on track with initial shipments in Q2.",
+        "TensorRT-LLM for Windows accelerating LLM inference by 5x on RTX AI PCs.",
+        "NVIDIA Avatar Cloud Engine microservices introduced for generative AI in digital avatars.",
+        "Omniverse Cloud services for automotive digitalization launched on Microsoft Azure."
+      ]
+    },
+    {
+      "customer_adoption": [
+        "Over 50,000 organizations using GitHub Copilot business.",
+        "ServiceNow's generative AI products driving largest ever net new annual contract value.",
+        "Partnerships with Adobe, Databricks, Snowflake, ServiceNow enhancing enterprise AI adoption.",
+        "Automotive customers like Li Auto, Great Wall Motor, ZEEKR, Geely's premium EV subsidiary, Xiaomi EV adopting NVIDIA DRIVE platform.",
+        "Mercedes-Benz and other automakers adopting Omniverse-powered digital twins.",
+        "Google collaborating to optimize Gemma language models on NVIDIA GPUs."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2025-03-05T00:00:00Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Thanks, Simona.",
+      "Q4 was another record quarter. Revenue of $22.1 billion was up 22% sequentially and up to 265% year-on-year and well above our outlook of $20 billion.",
+      "For fiscal 2024, revenue was $60.9 billion and up 126% from the prior year."
+    ],
+    "gaming": [
+      "Gaming revenue was $2.87 billion, flat sequentially and up 56% year on year, better than our outlook, driven by solid consumer demand for NVIDIA GeForce RTX GPUs during the holidays.",
+      "At CES, we announced our GeForce RTX 40 Super Series family of GPUs. Starting at $599, they deliver incredible gaming performance and generative AI capabilities.",
+      "Sales are off to a great start. NVIDIA AI Tensor cores and the GPUs deliver up to 836 AI TOPs, perfect for powering AI for gaming and creating everyday productivity.",
+      "The rich software stack we offer with our RTX GPUs further accelerates AI. With our DLSS technologies, seven out of eight pixels can be AI generated, resulting in up to 4x faster ray tracing and better image quality.",
+      "With the TensorRT-LLM for Windows, our open-source library that accelerates inference performance for the latest large-language models, generative AI can run up to 5x faster on RTX AI PCs.",
+      "At CES, we also announced a wave of new RTX 40 Series AI laptops from every major OEM, bringing high-performance gaming and AI capabilities to a wide range of form factors, including 14-inch and thin and light laptops.",
+      "With up to 686 AI TOPs of performance, these next-generation AI PCs increase generative AI performance by up to 60x, making them the best-performing AI PC platforms.",
+      "At CES, we announced NVIDIA Avatar Cloud Engine microservices, allowing developers to integrate state-of-the-art generative AI models into digital avatars. ACE won several Best of CES 2024 awards.",
+      "NVIDIA has an end-to-end platform for building and deploying generative AI applications for RTX PCs and workstations. This includes libraries, SDKs, tools, and services developers can incorporate into their generative AI workloads.",
+      "NVIDIA is fueling the next wave of generative AI applications coming to the PC. With over 100 million RTX PCs in the installed base and over 500 AI-enabled PC applications and games, we are on our way."
+    ],
+    "proviz": [
+      "ProViz revenue was $463 million, up 11% sequentially and up 105% year-on-year.",
+      "Fiscal year ProViz revenue reached $1.55 billion, up 1%.",
+      "Sequential growth in the quarter was driven by a rich mix of RTX Ada architecture GPUs continuing to ramp.",
+      "Enterprises are refreshing their workstations to support generative AI-related workloads, such as data preparation, LLM fine-tuning, and retrieval augmented generation.",
+      "These key industrial verticals driving demand include manufacturing, automotive, and robotics.",
+      "The automotive industry has also been an early adopter of NVIDIA Omniverse as it seeks to digitize workflows from design to build, simulate, operate, and experience their factories and cars.",
+      "At CES, we announced that creative partners and developers including Brickland, WPP, and ZeroLight are building Omniverse-powered car configurators.",
+      "Leading automakers like LOTUS are adopting the technology to bring new levels of personalization, realism, and interactivity to the car buying experience."
+    ],
+    "automotive": [
+      "Automotive revenue was $281 million, up 8% sequentially and down 4% year-on-year.",
+      "Fiscal year Automotive revenue reached $1.09 billion, up 21%, crossing the $1 billion mark on continued adoption of the NVIDIA DRIVE platform by automakers.",
+      "NVIDIA DRIVE Orin is the AI car computer of choice for software-defined AV fleets.",
+      "Its successor, NVIDIA DRIVE Thor, designed for vision transformers, offers more AI performance and integrates a wide range of intelligent capabilities into a single AI compute platform, including autonomous driving and parking, driver and passenger monitoring, and AI cockpit functionality, and will be available next year.",
+      "Several automotive customer announcements this quarter include Li Auto, Great Wall Motor, ZEEKR, Geely's premium EV subsidiary, and Xiaomi EV, all announcing new vehicles built on NVIDIA DRIVE platform."
+    ],
+    "data_center": [
+      "Data center revenue for fiscal 2024 was $47.5 billion, more than tripling from the prior year.",
+      "In Q4, data center revenue was $18.4 billion, up 27% sequentially and up 409% year-over-year, driven by the NVIDIA Hopper GPU computing platform along with InfiniBand end-to-end networking.",
+      "Compute revenue grew more than 5x and networking revenue tripled from last year.",
+      "We are delighted that supply of Hopper architecture products is improving. Demand for Hopper remains very strong.",
+      "We expect our next-generation products to be supply constrained as demand far exceeds supply.",
+      "Fourth quarter data center growth was driven by both training and inference of generative AI and large language models across a broad set of industries, use cases, and regions.",
+      "The versatility and leading performance of our data center platform enables a high return on investment for many use cases, including AI training and inference, data processing, and a broad range of CUDA accelerated workloads.",
+      "We estimate in the past year approximately 40% of data center revenue was for AI inference.",
+      "Building and deploying AI solutions has reached virtually every industry. Many companies across industries are training and operating their AI models and services at scale, enterprises across NVIDIA AI infrastructure through cloud providers, including hyperscales, GPU specialized and private clouds or on-premise.",
+      "NVIDIA's computing stack extends seamlessly across cloud and on-premise environments, allowing customers to deploy with a multi-cloud or hybrid-cloud strategy.",
+      "In the fourth quarter, large cloud providers represented more than half of our data center revenue, supporting both internal workloads and external public cloud customers.",
+      "Microsoft recently noted that more than 50,000 organizations use GitHub Copilot business to supercharge the productivity of their developers, contributing to GitHub revenue growth accelerating to 40% year-over-year.",
+      "Copilot for Microsoft 365 adoption grew faster in its first two months than the two previous major Microsoft 365 enterprise suite releases did.",
+      "Consumer internet companies have been early adopters of AI and represent one of our largest customer categories.",
+      "Companies from search to e-commerce, social media, news and video services, and entertainment are using AI for deep learning-based recommendation systems.",
+      "These AI investments are generating a strong return by improving customer engagement, ad conversion, and click-through rates.",
+      "Meta in its latest quarter cited more accurate predictions and improved advertiser performance as contributing to the significant acceleration in its revenue.",
+      "Consumer internet companies are investing in generative AI to support content creators, advertisers, and customers through automation tools for content and ad creation, online product descriptions, and AI shopping assistance.",
+      "Enterprise software companies are applying generative AI to help customers realize productivity gains. Early customers we've partnered with for both training and inference of generative AI are already seeing notable commercial success.",
+      "ServiceNow's generative AI products in their latest quarter drove their largest ever net new annual contract value contribution of any new product family release.",
+      "We are working with many other leading AI and enterprise software platforms as well, including Adobe, Databricks, Getty Images, SAP, and Snowflake.",
+      "The field of foundation large-language models is thriving with companies like Anthropic, Google, Inflection, Microsoft, OpenAI, and xAI leading breakthroughs in generative AI.",
+      "Exciting companies like Adept, AI21, Character.ai, Cohere, Mistral, Perplexity, and Runway are building platforms to serve enterprises and creators.",
+      "New startups are creating LLMs to serve specific languages, cultures, and customs of the world's many regions, and others are creating foundation models to address entirely different industries like Recursion Pharmaceuticals and Generate:Biomedicines for biology.",
+      "These companies are driving demand for NVIDIA AI infrastructure through hyperscale or GPU specialized cloud providers.",
+      "Recently collaborated with Google to optimize its state-of-the-art new Gemma language models to accelerate their inference performance on NVIDIA GPUs in the cloud data center and PC.",
+      "Significant adoption of AI by enterprises across industry verticals such as automotive, healthcare, and financial services.",
+      "NVIDIA offers multiple application frameworks to help companies adopt AI in vertical domains like autonomous driving, drug discovery, low latency machine learning for fraud detection, or robotics, leveraging our full stack accelerated computing platform.",
+      "Data center revenue contribution of the automotive vertical through the cloud or on-premise exceeded $1 billion last year.",
+      "NVIDIA DRIVE infrastructure solutions include systems and software for the development of autonomous driving, including data ingestion, creation, labeling, AI training, and validation through simulation.",
+      "Almost 80 vehicle manufacturers across global OEMs, new energy vehicles, trucking, robotaxi, and Tier 1 suppliers are using NVIDIA's AI infrastructure to train LLMs and other AI models for automated driving and AI cockpit applications.",
+      "Nearly every automotive company working on AI is working with NVIDIA.",
+      "As AV algorithms move to video transformers and more cars are equipped with cameras, we expect NVIDIA's automotive data center processing demand to grow significantly.",
+      "In healthcare, digital biology and generative AI are helping to reinvent drug discovery, surgery, medical imaging, and wearable devices.",
+      "Built deep domain expertise in healthcare with NVIDIA Clara healthcare platform and NVIDIA BioNeMo, a generative AI service to develop, customize, and deploy AI foundation models for computer-aided drug discovery.",
+      "BioNeMo features a growing collection of pre-trained Biomolecular AI models applicable to end-to-end drug discovery processes.",
+      "Announced Recursion is making their proprietary AI model available through BioNeMo for the drug discovery ecosystem.",
+      "In financial services, customers are using AI for trading, risk management, customer service, and fraud detection.",
+      "For example, American Express improved fraud detection accuracy by 6% using NVIDIA AI."
+    ]
+  }
+}

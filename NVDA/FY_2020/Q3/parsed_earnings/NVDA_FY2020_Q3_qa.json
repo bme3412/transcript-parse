@@ -1,0 +1,139 @@
+{
+  "speakers": {
+    "jen_hsun_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Data Center Growth",
+          "context": "Response to data center outlook",
+          "content": "We had a strong Q3 in hyperscale data centers. We shipped a record number of V100s and T4s. For the very first time, we shipped more T4s than V100. Our inference business is now a solid double-digit, and it doubled year-over-year. This is driven by breakthroughs in recommendation systems and conversational AI."
+        },
+        {
+          "topic": "Gaming and RTX",
+          "context": "Response to PC gaming outlook",
+          "content": "RTX is doing fantastic. It's fairly clear that ray tracing is the future and that RTX is a home run. Just about every major game developer has signed on to ray tracing. Even the next-generation consoles had to include ray tracing. The effects are so compelling, it's not possible to go back anymore."
+        },
+        {
+          "topic": "Gross Margins",
+          "context": "Response to margin trends",
+          "content": "NVIDIA's really become a software company. Almost everything we do starts from a rich stack of software. Most of our businesses are now highly software-rich, and they address verticals that we focus on. As a platform company that has a great deal of software intensity, it's natural that the margins would be higher over time."
+        },
+        {
+          "topic": "Hyperscale Business",
+          "context": "Response to visibility",
+          "content": "We had a strong Q3. We're going to see a much stronger Q4. The foundation of that is AI, it's deep learning inference. Deep learning inference is understandably going to be one of the largest computer industry opportunities because the computation intensity is so high."
+        },
+        {
+          "topic": "Data Center Mix",
+          "context": "Response to future outlook",
+          "content": "When we think about hyperscale, there are three parts: training, inference and public cloud. Training models are getting larger, computation is doubling every 3 months. Inference is an untapped market for us. The cloud represents about half of many of our CSPs, driven by AI startups."
+        },
+        {
+          "topic": "Gaming in China",
+          "context": "Response to regional trends",
+          "content": "Gaming is solid in China, and it is also the fastest adopter of our gaming notebooks. This gaming RTX notebooks category never existed before. We saw really great success with RTX notebooks and GeForce notebooks in China, and RTX adoption has been fast."
+        },
+        {
+          "topic": "Automotive Business",
+          "context": "Response to growth trajectory",
+          "content": "The first AV car that's going to be passenger-owned on the road is Volvo, expected in late 2020, early 2021. Our strategy consists of passenger-owned vehicles, robot taxis, and trucks/shuttles. Everything that moves eventually will have autonomous capability or be fully autonomous."
+        },
+        {
+          "topic": "GPU Utilization",
+          "context": "Response to deep learning trends",
+          "content": "In 2018, it was nearly all related to training. This year, we started to see the growth of inference to the point where we now sold more T4 GPUs for inference than V100s for training, and both were record highs."
+        },
+        {
+          "topic": "5G Opportunity",
+          "context": "Response to mobile strategy",
+          "content": "We're creating a software stack for 5G called Aerial. This will allow us to run the whole 5G stack in software and deliver the highest performance, flexibility and scale in data centers. The power of putting it into data center is flexibility and fungibility."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Gross Margins",
+          "context": "Response to margin impact",
+          "content": "The net benefit from the release of inventory provisions was about 1 percentage point to our overall gross margin. Mix is still the largest driver of our gross margin over time. Over the long term, we do expect gross margins to improve."
+        },
+        {
+          "topic": "Enterprise Business",
+          "context": "Response to year-over-year decline",
+          "content": "Our enterprise business has been beginning to ramp from over a year ago at a very small base. In our year ago quarter, we had very strong systems and a very large DGX deal. When we look quarter-over-quarter, we can have some lumpiness."
+        },
+        {
+          "topic": "Gaming Seasonality",
+          "context": "Response to Q4 outlook",
+          "content": "Both consoles and notebooks are expected to be seasonally down. These businesses have ranged in totality of about $500 million a quarter, and we'll see both of them sequentially decline."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Merrill Lynch",
+      "topics": ["Data Center Growth", "Gaming Outlook"],
+      "questions": [
+        "Could you give us some color on what's driving data center growth and how you think about the sustainability going into next year?",
+        "How are you looking at PC gaming growth going forward with competition from new consoles?"
+      ]
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Gross Margins", "Hyperscale Business"],
+      "questions": [
+        "What was the impact of written-off components in the quarter and how do we think about gross margin trajectory?",
+        "What underpins your improved visibility in the hyperscale business?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topic": "Data Center Mix",
+      "question": "How do you see mix within data center looking out over the next 12-24 months between training versus inference and cloud versus enterprise?"
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JPMorgan",
+      "topic": "Gaming in China",
+      "question": "Can you discuss the gaming demand trends out of China given concerns around trade tensions and economic slowdown?"
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topic": "Automotive Business",
+      "question": "Can you speak to the growth trajectory in automotive over the next 1.5-2 years?"
+    },
+    {
+      "analyst": "Mitchell Steves",
+      "firm": "RBC",
+      "topic": "GPU Utilization",
+      "question": "Can you give us a rough update on what the GPU utilization was for deep learning application in 2018 versus today?"
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley",
+      "topic": "5G Opportunity",
+      "question": "Could you talk about the 5G opportunity announced at Mobile World and how big that opportunity is?"
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein",
+      "topics": ["Data Center Growth", "Enterprise Business"],
+      "questions": [
+        "Does Q4 sequential growth suggest stronger growth than Q3 given you're calling it out now?",
+        "How do we think about enterprise decline in context of previous growth and Analyst Day commentary?"
+      ]
+    },
+    {
+      "analyst": "Harsh Kumar",
+      "firm": "Piper Jaffray",
+      "topic": "Gaming Seasonality",
+      "question": "Could you give us an idea of the impact of console business versus laptop in the Q4 guidance?"
+    }
+  ]
+}

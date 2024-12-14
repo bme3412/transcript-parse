@@ -1,0 +1,259 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2020",
+  "total_revenue": {
+    "value": 3.01,
+    "unit": "billion",
+    "context": "Q3 revenue, up 41% YoY and 3% sequentially, well above outlook, reflecting upside in data center and gaming businesses.",
+    "period": "Q3"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 1.66,
+        "unit": "billion",
+        "context": "Revenue from gaming segment, up 56% YoY and down 10% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 56.0,
+      "growth_qoq": -10.0,
+      "key_points": [
+        "Full year gaming revenue was $5.52 billion, down 12% YoY.",
+        "Strong end demand for desktop and notebook GPUs.",
+        "RTX GPUs with ray tracing capabilities drove holiday demand.",
+        "Esports audience exceeded 440 million, up over 30% in two years.",
+        "Gaming laptops posted double-digit YoY growth for the eighth consecutive quarter.",
+        "Record 125 gaming laptops based on NVIDIA GPUs stocked during the holiday season.",
+        "Launched GeForce NOW cloud gaming service with freemium model."
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 0.726,
+        "unit": "billion",
+        "context": "Revenue from data center segment, up 43% YoY and 33% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 43.0,
+      "growth_qoq": 33.0,
+      "key_points": [
+        "Full year data center revenue was $2.98 billion, up 2% YoY.",
+        "Strong growth driven by hyperscale and vertical industry customers.",
+        "T4 shipments up 4x YoY, driven by public cloud deployments and edge AI applications.",
+        "Microsoft cited 800x inference throughput increase using NVIDIA GPUs for BERT models.",
+        "Announced availability of GPU-accelerated supercomputer on Microsoft Azure."
+      ]
+    },
+    {
+      "name": "Pro Visualization (ProVis)",
+      "revenue": {
+        "value": 0.324,
+        "unit": "billion",
+        "context": "Revenue from Pro Visualization segment, up 13% YoY and 2% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 13.0,
+      "growth_qoq": 2.0,
+      "key_points": [
+        "Full year ProVis revenue was $1.21 billion, up 7% YoY.",
+        "RTX-enabled applications driving upgrade cycle for Turing GPUs.",
+        "RTX supported by over 40 creative and design applications with a combined user base of over 40 million."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.162,
+        "unit": "billion",
+        "context": "Revenue from automotive segment, flat YoY and up 1% sequentially.",
+        "period": "Q3"
+      },
+      "growth_yoy": 0.0,
+      "growth_qoq": 1.0,
+      "key_points": [
+        "Full year automotive revenue was $700 million, up 9% YoY.",
+        "Announced DRIVE AGX Orin platform for autonomous vehicles and robots."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 63.6,
+      "unit": "percentage",
+      "context": "GAAP gross margin for Q3, up sequentially reflecting benefit from sales of previously written-off inventory, higher GeForce GPUs average selling prices, and lower component costs.",
+      "period": "Q3"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": 1.6,
+      "unit": "billion",
+      "context": "Cash flow from operations for Q3.",
+      "period": "Q3"
+    },
+    "other_metrics": {
+      "non_GAAP_gross_margin": {
+        "value": 64.1,
+        "unit": "percentage",
+        "context": "Non-GAAP gross margin for Q3.",
+        "period": "Q3"
+      },
+      "GAAP_operating_expenses": {
+        "value": 0.989,
+        "unit": "billion",
+        "context": "GAAP operating expenses for Q3.",
+        "period": "Q3"
+      },
+      "non_GAAP_operating_expenses": {
+        "value": 0.774,
+        "unit": "billion",
+        "context": "Non-GAAP operating expenses for Q3.",
+        "period": "Q3"
+      },
+      "GAAP_EPS": {
+        "value": 1.45,
+        "unit": "dollars",
+        "context": "GAAP EPS for Q3.",
+        "period": "Q3"
+      },
+      "non_GAAP_EPS": {
+        "value": 1.78,
+        "unit": "dollars",
+        "context": "Non-GAAP EPS for Q3.",
+        "period": "Q3"
+      }
+    }
+  },
+  "future_guidance": {
+    "revenue": {
+      "value": 2.95,
+      "unit": "billion",
+      "context": "Expected revenue for Q4 FY2020.",
+      "period": "Q4 FY2020"
+    },
+    "GAAP_gross_margin": {
+      "value": 64.1,
+      "unit": "percentage",
+      "context": "Expected GAAP gross margin for Q4 FY2020.",
+      "period": "Q4 FY2020"
+    },
+    "non_GAAP_gross_margin": {
+      "value": 64.5,
+      "unit": "percentage",
+      "context": "Expected non-GAAP gross margin for Q4 FY2020.",
+      "period": "Q4 FY2020"
+    },
+    "GAAP_operating_expenses": {
+      "value": 1.02,
+      "unit": "billion",
+      "context": "Expected GAAP operating expenses for Q4 FY2020.",
+      "period": "Q4 FY2020"
+    },
+    "non_GAAP_operating_expenses": {
+      "value": 0.805,
+      "unit": "billion",
+      "context": "Expected non-GAAP operating expenses for Q4 FY2020.",
+      "period": "Q4 FY2020"
+    },
+    "capital_expenditures": {
+      "value": 130.0,
+      "unit": "million",
+      "context": "Expected capital expenditures for Q4 FY2020 (lower range).",
+      "period": "Q4 FY2020"
+    }
+  },
+  "strategic_initiatives": [
+    "Launch of Shield TV and Shield TV Pro with AI-based video upscaling.",
+    "Launch of GeForce GTX 1660 Super and 1650 Super GPUs.",
+    "Introduction of NVIDIA EGX Intelligent Edge Computing Platform.",
+    "Expansion of GeForce NOW game-streaming service with new global partners.",
+    "Collaboration with Microsoft on intelligent edge computing."
+  ],
+  "market_opportunities": [
+    {
+      "Gaming": "Growing demand for high-performance gaming laptops and RTX GPUs."
+    },
+    {
+      "Data Center": "Increased adoption of conversational AI and GPU-accelerated inference."
+    },
+    {
+      "Pro Visualization": "New wave of mobile workstations and RTX-accelerated creative applications."
+    },
+    {
+      "Automotive": "Long-term opportunities in autonomous vehicles and AI-based infotainment systems."
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-10T23:06:30.110516",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Q3 revenue was $3.01 billion, down 5% year-on-year and up 17% sequentially.",
+      "Exceeded expectations driven by strength in both desktop and notebook gaming."
+    ],
+    "gaming": [
+      "Gaming revenue of $1.66 billion was down 6% YoY and up 26% QoQ.",
+      "Exceeds expectations driven by strength in desktop and notebook gaming.",
+      "GeForce RTX lineup offers advanced GPUs with hardware-based ray tracing.",
+      "Ray tracing supported by major publishers and blockbuster titles like Minecraft, Call of Duty, Battlefield, Watch Dogs, Tomb Raider, Doom, Wolfenstein, and Cyberpunk.",
+      "Call of Duty: Modern Warfare had a record-breaking launch in late October.",
+      "Red Dead Redemption 2 PC release contributed to strong holiday gaming lineup.",
+      "RTX GPUs now drive more than two-thirds of desktop gaming GPU revenue.",
+      "Gaming laptops drove strong sequential and YoY growth, with over 130 NVIDIA-powered models launched this holiday season.",
+      "Launched GeForce GTX 1660 Super and 1650 Super GPUs, offering significant performance improvements.",
+      "Introduced Shield TV and Shield TV Pro with AI-based video upscaling.",
+      "Launched GeForce NOW cloud gaming service with a freemium model, expanding to underpowered devices and collaborating with Tencent for cloud gaming in China."
+    ],
+    "data_center": [
+      "Data Center revenue was $726 million, down 8% YoY and up 11% QoQ.",
+      "Hyperscale revenue grew both sequentially and YoY.",
+      "Conversational AI driving demand for GPUs, particularly for training complex models like BERT.",
+      "Inference revenue more than doubled YoY.",
+      "T4 inference GPUs and V100 training GPUs reached record shipment volumes.",
+      "NVIDIA won all 5 MLPerf inference benchmarks for AI inference performance.",
+      "Announced NVIDIA EGX Intelligent Edge Computing Platform with over 100 technology partners.",
+      "Launched GPU-accelerated supercomputer on Microsoft Azure.",
+      "Collaborated with Ericsson on software-defined 5G wireless RAN solution accelerated by GPUs."
+    ],
+    "pro_vis": [
+      "Pro Visualization revenue reached a record $324 million, up 6% YoY and up 11% sequentially.",
+      "Driven primarily by mobile workstations.",
+      "RTX GPUs and Max-Q technology enabled a new wave of mobile workstations.",
+      "Over 40 top creative design applications accelerated with RTX GPUs.",
+      "Strong demand from manufacturing, public sector, higher education, and healthcare customers."
+    ],
+    "automotive": [
+      "Automotive revenue was $162 million, down 6% YoY and down 22% sequentially.",
+      "Sequential decline driven by a one-time nonrecurring development services contract in Q2.",
+      "AI cockpit business grew with Daimler's deployment of AI-based infotainment systems.",
+      "Optimus Ride launched New York City's first autonomous driving pilot program powered by NVIDIA DRIVE."
+    ],
+    "financials": [
+      "Q3 GAAP gross margin was 63.6%, and non-GAAP was 64.1%, up sequentially.",
+      "GAAP gross margin benefited from higher GeForce GPUs average selling prices and lower component costs.",
+      "GAAP operating expenses were $989 million, and non-GAAP operating expenses were $774 million, up 15% and 6% YoY respectively.",
+      "GAAP EPS was $1.45, down 26% YoY.",
+      "Non-GAAP EPS was $1.78, down 3% YoY.",
+      "Cash flow from operations was a record $1.6 billion."
+    ],
+    "q4_outlook": [
+      "For Q4 FY2020, revenue expected to be $2.95 billion, plus or minus 2%.",
+      "GAAP gross margin expected to be 64.1% ±50bps.",
+      "Non-GAAP gross margin expected to be 64.5% ±50bps.",
+      "GAAP operating expenses expected to be approximately $1.02 billion.",
+      "Non-GAAP operating expenses expected to be approximately $805 million.",
+      "Capital expenditures expected to be approximately $130 million to $150 million."
+    ],
+    "investor_relations": [
+      "Upcoming event: Morgan Stanley Technology Media and Telecom Conference on March 2nd in San Francisco.",
+      "Upcoming webcast presentation and Q&A with CEO Jensen Huang on product announcements scheduled for May 28.",
+      "Participation in various investor conferences: Cowen's TMT Conference on May 27, Morgan Stanley's Cloud Secular Winners Conference on June 1, BoFa Technology Conference on June 2, Needham Automotive Tech Conference on June 3, and Nasdaq Investor Conference on December 16."
+    ]
+  }
+}

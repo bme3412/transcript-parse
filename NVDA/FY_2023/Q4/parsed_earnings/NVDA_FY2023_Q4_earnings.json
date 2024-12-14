@@ -1,0 +1,364 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2023",
+  "total_revenue": {
+    "value": 6.05,
+    "unit": "billion",
+    "context": "Total revenue of $6.05 billion was up 2% sequentially, while down 21% year-on-year.",
+    "period": "Q4"
+  },
+  "segments": [
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 3.62,
+        "unit": "billion",
+        "context": "Revenue of $3.62 billion was down 6% sequentially and up 11% year-on-year.",
+        "period": "Q4"
+      },
+      "growth_yoy": 11.0,
+      "growth_qoq": -6.0,
+      "key_points": [
+        "Solid performance despite macroeconomic challenges, new export controls, and lingering supply chain disruptions.",
+        "Year-on-year growth driven by leading U.S. cloud providers and a broadening set of consumer Internet companies for workloads such as large language models, recommendation systems, and generative AI.",
+        "Expansion of the traditional hyperscale definition to encompass different end market use cases.",
+        "Growth from vertical industries like automotive and energy with key workloads related to autonomous driving, high-performance computing, simulations, and analytics.",
+        "Impact of new U.S. government export restrictions on A100 and H-100 based products to China, leading to lower sales in China but offset by alternative product sales.",
+        "Introduction of the H100 data center GPU based on the new Hopper architecture.",
+        "Collaboration with Microsoft to build an advanced cloud-based AI supercomputer.",
+        "Partnerships with Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure for H-100 based cloud instances.",
+        "Networking growth driven by high-speed Ethernet adapters and momentum toward next-generation adopters like ConnectX-6 and ConnectX-7.",
+        "Release of Spectrum-4 400 gigabit per second Ethernet networking platform."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.251,
+        "unit": "billion",
+        "context": "Revenue of $251 million, increased 14% sequentially and up 86% year-on-year.",
+        "period": "Q4"
+      },
+      "growth_yoy": 86.0,
+      "growth_qoq": 14.0,
+      "key_points": [
+        "Growth driven by an increase in AI automotive solutions, including AI cockpit and self-driving revenue.",
+        "Momentum from NVIDIA Orin with new energy vehicle design wins ramping into volume.",
+        "Rollout plans announced for new vehicles from OEM partners: NIO, Li Auto, JIDU, Human Horizons, and Pony.ai’s self-driving trucks and robotaxis.",
+        "Automotive design win pipeline expected to translate to continued growth with an $11 billion pipeline.",
+        "Introduction of NVIDIA Drive Super Chip, the successor to Orin, offering up to 2,000 teraflops of performance.",
+        "Deployment of NVIDIA Drive Super Chip in automakers like Volvo, Lockheed Martin, and Jaguar Land Rover.",
+        "Focus on reducing cost and energy consumption while enhancing performance.",
+        "Strategic partnership with Foxconn to develop automated and autonomous vehicle platforms.",
+        "NVIDIA Drive operating system received safety certification from TÜV SÜD."
+      ]
+    },
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 1.83,
+        "unit": "billion",
+        "context": "Revenue of $1.83 billion was up 16% sequentially and down 21% year-on-year.",
+        "period": "Q4"
+      },
+      "growth_yoy": -46.0,
+      "growth_qoq": 16.0,
+      "key_points": [
+        "Sequential growth driven by the strong reception of 40 Series GeForce RTX GPUs based on Ada Lovelace architecture.",
+        "Year-on-year decline due to channel inventory correction, which is largely behind.",
+        "Exceptional launch of Ada Lovelace GPU architecture with GeForce RTX 4090 and RTX 4080.",
+        "GeForce RTX 40 Series GPUs feature DLSS 3, AI-driven frame generation for faster gameplay.",
+        "Third-generation RTX technology has raised the bar for computer graphics and supercharged gaming.",
+        "Total number of RTX games and applications now exceeds 350.",
+        "Record number of simultaneous users on Steam, reaching 30 million.",
+        "Activision's Call of Duty Modern Warfare 2 set a franchise record with over $800 million in opening weekend sales.",
+        "Expansion of GeForce NOW cloud gaming service with over 1,400 games and availability on new gaming devices like Logitech Cloud handheld, cloud gaming Chromebooks, and Razor 5G Edge."
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.226,
+        "unit": "billion",
+        "context": "Revenue of $226 million was up 13% sequentially and down 65% year-on-year.",
+        "period": "Q4"
+      },
+      "growth_yoy": -65.0,
+      "growth_qoq": 13.0,
+      "key_points": [
+        "Sequential growth driven by desktop workstations with strengths in automotive and manufacturing industrial verticals.",
+        "Year-on-year decline reflects impact of channel inventory correction, expected to end in first half of the year.",
+        "Interest in NVIDIA Omniverse continues to build with almost 300,000 downloads and 185 connectors to third-party design applications.",
+        "Release of Omniverse features and enhancements, including support for 4K, real-time path tracing, Omniverse Search, and Omniverse cloud containers for AWS.",
+        "Launch of NVIDIA Omniverse Cloud Services enabling design, publishing, and operation of metaverse applications from anywhere on any device.",
+        "Adoption of Omniverse Cloud Services by major companies like Lowe's, Charter Communications, and Deutsche Bahn."
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided."
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4."
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4."
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 63.3,
+      "unit": "%",
+      "context": "GAAP gross margin was 63.3%, and non-GAAP gross margin was 66.1%. Gross margins reflect $702 million in inventory charges related to lower data center demand in China, partially offset by a warranty benefit of approximately $70 million.",
+      "period": "Q4"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific cash flow data provided.",
+      "period": "Q4"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": 25,
+        "unit": "million",
+        "context": "GeForce NOW registered members now exceed 25 million.",
+        "period": "Q4"
+      },
+      "gfnow_games": {
+        "value": 1400,
+        "unit": "games",
+        "context": "GeForce NOW library now includes over 1,400 games after adding 85 more titles this quarter.",
+        "period": "Q4"
+      },
+      "share_repurchases": {
+        "value": 1.15,
+        "unit": "billion",
+        "context": "Returned $1.15 billion to shareholders in the form of share repurchases and cash dividends.",
+        "period": "Fiscal 2023"
+      },
+      "share_repurchase_authorization_remaining": {
+        "value": 7,
+        "unit": "billion",
+        "context": "At the end of Q4, approximately $7 billion remaining under share repurchase authorization through December 2023.",
+        "period": "Q4 Fiscal 2023"
+      }
+    }
+  },
+  "future_guidance": {
+    "q4_fiscal_2023_revenue": {
+      "value": 6.0,
+      "unit": "billion",
+      "context": "Revenue expected to be $6 billion, plus or minus 2%.",
+      "period": "Q4 Fiscal 2023"
+    },
+    "q4_fiscal_2023_gross_margin": {
+      "gaap": 63.2,
+      "non_gaap": 66.0,
+      "unit": "%",
+      "context": "GAAP and non-GAAP gross margins expected to be 63.2% and 66%, respectively, plus or minus 50 basis points.",
+      "period": "Q4 Fiscal 2023"
+    },
+    "q4_fiscal_2023_operating_expenses": {
+      "gaap": 2.56,
+      "non_gaap": 1.78,
+      "unit": "billion",
+      "context": "GAAP operating expenses expected to be approximately $2.56 billion. Non-GAAP operating expenses expected to be approximately $1.78 billion.",
+      "period": "Q4 Fiscal 2023"
+    },
+    "q4_fiscal_2023_other_income_expenses": {
+      "value": 0.04,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP other income and expenses expected to be an income of approximately $40 million, excluding gains and losses on nonaffiliated investments.",
+      "period": "Q4 Fiscal 2023"
+    },
+    "q4_fiscal_2023_tax_rates": {
+      "value": [
+        9.0,
+        null
+      ],
+      "unit": "%",
+      "context": "GAAP and non-GAAP tax rates expected to be 9%, plus or minus 1%, excluding any discrete items.",
+      "period": "Q4 Fiscal 2023"
+    },
+    "capital_expenditures": {
+      "value": [
+        0.5,
+        0.55
+      ],
+      "unit": "billion",
+      "context": "Capital expenditures expected to be approximately $500 million to $550 million.",
+      "period": "Q4 Fiscal 2023"
+    },
+    "full_year_non_gaap_opex_growth": {
+      "value": 30,
+      "unit": "%",
+      "context": "Full year non-GAAP OpEx is expected to grow over 30%.",
+      "period": "Fiscal 2023"
+    },
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Implemented pricing adjustment programs with Gaming channel partners in response to declining Gaming revenue.",
+    "Preparation for new architecture launch in Gaming segment.",
+    "Partnership with Siemens to enable AI-powered digital twins on NVIDIA Omniverse.",
+    "Advancements to metaverse foundational technologies, including Omniverse Avatar Cloud Engine and new Omniverse connectors.",
+    "Release of SDKs for neural graphics to automate creation of virtual worlds.",
+    "Rollout plans for new vehicles from OEM partners: NIO, Li Auto, JIDU, Human Horizons, and Pony.ai’s self-driving trucks and robotaxis.",
+    "Production of Hopper architecture flagship H100 data center GPU and Grace CPU.",
+    "Adoption of Grace CPU Superchip and Grace Hopper Superchip by top computer makers like Dell, HPE, Inspur, Lenovo, and Supermicro.",
+    "Focus on AI and large language models with updates to NeMo Megatron framework.",
+    "Expansion of GeForce NOW library with over 1,400 games.",
+    "Ongoing share repurchase program with nearly $12 billion remaining under authorization through December 2023.",
+    "Collaboration with Microsoft to build an advanced cloud-based AI supercomputer.",
+    "Launch of NVIDIA Omniverse Computing System (OVS) reference designs featuring the new L4 GPU based on the ADA Lovelace architecture.",
+    "Expansion of AI software and services offerings with NVIDIA and Bio Nemo large language model services.",
+    "Introduction of NVIDIA DGX Cloud offering through Oracle Cloud Infrastructure and Microsoft Azure, Google GCP.",
+    "Partnership with Deutsche Bank to accelerate use of AI and machine learning in financial services.",
+    "Partnership with Foxconn to develop automated and autonomous vehicle platforms.",
+    "Safety certification for NVIDIA Drive operating system from TÜV SÜD.",
+    "Launch of NVIDIA Omniverse Cloud Services enabling metaverse applications.",
+    "Adoption of Omniverse Cloud Services by major companies like Lowe's, Charter Communications, and Deutsche Bahn."
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Despite short-term challenges, long-term fundamentals in Gaming remain strong with NVIDIA RTX supported by nearly 300 games and applications."
+    },
+    {
+      "cloud_gaming_expansion": "GeForce NOW registered members exceeding 25 million and expansion of the game library to over 1,400 titles."
+    },
+    {
+      "cryptocurrency_mining": "Introduction of programs to adjust pricing and position GPUs in response to diminishing contribution from cryptocurrency mining."
+    },
+    {
+      "accelerated_computing": "AI and accelerated computing driving Data Center growth with strong adoption of A100 and H100 GPUs, Grace CPU, and Spectrum-4 networking platform."
+    },
+    {
+      "partnerships": [
+        "Partnership with Siemens to enable AI-powered digital twins on NVIDIA Omniverse.",
+        "Collaboration with Microsoft to build an advanced cloud-based AI supercomputer.",
+        "Partnerships with Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure for H-100 based cloud instances.",
+        "Partnership with Deutsche Bank to accelerate use of AI and machine learning in financial services.",
+        "Partnership with Foxconn to develop automated and autonomous vehicle platforms."
+      ]
+    },
+    {
+      "technological_advancements": [
+        "Advancements to metaverse foundational technologies, including Omniverse Avatar Cloud Engine and new Omniverse connectors.",
+        "Release of SDKs for neural graphics to automate creation of virtual worlds.",
+        "Update to NeMo Megatron framework to speed up training of large language models by up to 30%.",
+        "Launch of NVIDIA Omniverse Computing System (OVS) reference designs featuring the new L4 GPU based on the ADA Lovelace architecture."
+      ]
+    },
+    {
+      "customer_adoption": [
+        "Adoption of Grace CPU Superchip and Grace Hopper Superchip by top computer makers like Dell, HPE, Inspur, Lenovo, and Supermicro.",
+        "72% of the systems on the latest top 500 list of the world’s fastest supercomputers are powered by NVIDIA.",
+        "NVIDIA’s Selene supercomputer ranks at number 8 in the top 500 and is the world’s fastest enterprise supercomputer.",
+        "23 of the top 30 systems on the Green 500 list of the most energy-efficient supercomputers are powered by NVIDIA.",
+        "Adoption of Omniverse Cloud Services by major companies like Lowe's, Charter Communications, and Deutsche Bahn.",
+        "Deployment of NVIDIA Drive Super Chip in automakers like Volvo, Lockheed Martin, and Jaguar Land Rover.",
+        "Adoption of H100 data center GPU by Microsoft Azure, Google Cloud, Amazon Web Services, and Oracle Cloud Infrastructure."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2023-12-31T00:00:00Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Thank you, Simona.",
+      "Q4 revenue was $6.05 billion, up 2% sequentially, while down 21% year-on-year.",
+      "Full year revenue was $27 billion, flat from the prior year."
+    ],
+    "gaming": [
+      "Revenue of $1.83 billion was up 16% sequentially and down 46% year-on-year.",
+      "Fiscal year revenue of $9.07 billion is down 27%.",
+      "Sequential growth driven by strong reception of 40 Series GeForce RTX GPUs based on Ada Lovelace architecture.",
+      "Year-on-year decline due to channel inventory correction, which is largely behind us.",
+      "Demand in seasonally strong fourth quarter was solid in most regions, somewhat impacted by disruptions related to COVID in China, but early signs of recovery.",
+      "Exceptional launch of new Ada Lovelace GPU architecture with GeForce RTX 4090 and RTX 4080.",
+      "GeForce RTX 40 Series GPUs feature DLSS 3, AI-driven frame generation for faster gameplay.",
+      "Third-generation RTX technology has raised the bar for computer graphics and supercharged gaming.",
+      "Total number of RTX games and applications now exceeds 350.",
+      "Record number of simultaneous users on Steam, reaching 30 million.",
+      "Activision's Call of Duty Modern Warfare 2 set a record for the franchise with over $800 million in opening weekend sales.",
+      "Expansion of GeForce NOW cloud gaming service with over 1,400 games and availability on new gaming devices like Logitech Cloud handheld, cloud gaming Chromebooks, and Razor 5G Edge."
+    ],
+    "proviz": [
+      "Revenue of $226 million was up 13% sequentially and down 65% year-on-year.",
+      "Sequential growth driven by desktop workstations with strengths in automotive and manufacturing industrial verticals.",
+      "Year-on-year decline reflects impact of channel inventory correction, expected to end in first half of the year.",
+      "Interest in NVIDIA Omniverse continues to build with almost 300,000 downloads and 185 connectors to third-party design applications.",
+      "Release of Omniverse features and enhancements, including support for 4K, real-time path tracing, Omniverse Search, and Omniverse cloud containers for AWS.",
+      "Launch of NVIDIA Omniverse Cloud Services enabling design, publishing, and operation of metaverse applications from anywhere on any device.",
+      "Adoption of Omniverse Cloud Services by major companies like Lowe's, Charter Communications, and Deutsche Bahn."
+    ],
+    "automotive": [
+      "Revenue of $251 million, increased 14% sequentially and up 86% year-on-year.",
+      "Growth driven by an increase in AI automotive solutions, including AI cockpit and self-driving revenue.",
+      "Momentum from NVIDIA Orin with new energy vehicle design wins ramping into volume.",
+      "Announced rollout plans for new vehicles from OEM partners: NIO, Li Auto, JIDU, Human Horizons, and Pony.ai’s self-driving trucks and robotaxis, all built on NVIDIA DRIVE.",
+      "Automotive design win pipeline expected to translate to continued growth with an $11 billion pipeline.",
+      "Introduction of NVIDIA Drive Super Chip, the successor to Orin, offering up to 2,000 teraflops of performance.",
+      "Deployment of NVIDIA Drive Super Chip in automakers like Volvo, Lockheed Martin, and Jaguar Land Rover.",
+      "Focus on reducing cost and energy consumption while enhancing performance."
+    ],
+    "data_center": [
+      "Revenue of $3.62 billion was down 6% sequentially and up 11% year-on-year.",
+      "Fiscal year revenue was $15 billion and up 41%.",
+      "Hyperscale customer revenue posted strong sequential growth, though short of our expectations as some cloud service providers paused at the end of the year to recalibrate their build plans.",
+      "Tightening reflects overall macroeconomic uncertainty, believed to be a timing issue as end market demand for GPUs and AI infrastructure is strong.",
+      "Networking grew a bit less than expected due to softer demand for general purpose CPU infrastructure.",
+      "Total data center sequential revenue decline driven by lower sales in China, reflecting COVID and other domestic issues.",
+      "Serving an expanding list of fast-growing cloud service providers, including Oracle and GPU specialized CSPs.",
+      "Revenue growth from CSP customers last year significantly outpaced Data Center as a whole as more enterprise customers moved to a cloud-first approach.",
+      "On trailing 4-quarter basis, CSP customers drove about 40% of Data Center revenue.",
+      "Adoption of new flagship H100 data center GPU is strong, with H100 revenue much higher than A100, which declined sequentially.",
+      "H100 offers 9x faster for training and 30x faster for inference in transformer-based large language models.",
+      "LLM adoption is at an inflection point with ChatGPT capturing interest worldwide.",
+      "Generative AI applications improving productivity across various tasks.",
+      "Generative large language models with over 100 billion parameters are the most advanced neural networks.",
+      "Working with industry leaders in large language models.",
+      "Announced partnership with Deutsche Bank to accelerate use of AI and machine learning in financial services.",
+      "Captured leading results for AI inference in key financial services industry benchmark.",
+      "Networking growth driven by latest generation InfiniBand and HPC optimized Ethernet platforms fueled by AI.",
+      "Generative AI foundation model sizes continue to grow, driving need for high-performance networking.",
+      "Launch of Quantum 2 40 gigabit per second InfiniBand platform.",
+      "Launch of Spectrum-4 400 gigabit per second Ethernet networking platform.",
+      "Expansion of NVIDIA AI enterprise software offerings."
+    ]
+  }
+}

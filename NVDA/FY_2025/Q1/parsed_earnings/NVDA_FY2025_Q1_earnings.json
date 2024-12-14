@@ -1,0 +1,397 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q1",
+  "fiscal_year": "2025",
+  "total_revenue": {
+    "value": 26,
+    "unit": "billion",
+    "context": "Q1 revenue was $26 billion, up 18% sequentially and up 262% year-on-year and well above our outlook of $24 billion.",
+    "period": "Q1"
+  },
+  "segments": [
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 22.6,
+        "unit": "billion",
+        "context": "Data Center revenue for fiscal 2024 was $47.5 billion, more than tripling from the prior year. In Q1, Data Center revenue was $22.6 billion, up 23% sequentially and up 427% year-on-year, driven by strong demand for the NVIDIA Hopper GPU computing platform.",
+        "period": "Q1"
+      },
+      "growth_yoy": 427.0,
+      "growth_qoq": 23.0,
+      "key_points": [
+        "Driven by continued strong demand for the NVIDIA Hopper GPU computing platform.",
+        "Compute revenue grew more than 5x and networking revenue more than 3x from last year.",
+        "Strong sequential growth driven by all customer types, led by enterprise and consumer internet companies.",
+        "Large cloud providers deploy and ramp NVIDIA AI infrastructure at scale, representing mid-40s percentage of Data Center revenue.",
+        "Training and inferencing AI on NVIDIA CUDA driving cloud rental revenue growth, offering $5 revenue for every $1 spent on NVIDIA AI infrastructure over four years.",
+        "NVIDIA's rich software stack and ecosystem facilitate easy deployment on NVIDIA GPU instances in the public cloud.",
+        "Leading LLM companies like OpenAI, Adept, Anthropic, Character.AI, Cohere, Databricks, DeepMind, Meta, Mistral, xAI building on NVIDIA AI in the cloud.",
+        "Enterprises driving strong sequential growth, including Tesla's expansion of their training AI cluster to 35,000 H100 GPUs.",
+        "Automotive expected to be largest enterprise vertical within Data Center, presenting a multibillion-dollar revenue opportunity.",
+        "Consumer Internet companies enhancing customer engagement and ad performance through AI investments.",
+        "Inference accounting for approximately 40% of Data Center revenue over the past four quarters.",
+        "AI factories hosting advanced full-stack accelerated computing platforms with over 100 customers building AI factories ranging from hundreds to 100,000 GPUs.",
+        "Geographical diversification with strong growth across all regions except China due to U.S. export control restrictions.",
+        "Sovereign AI investments globally driving additional demand, with significant projects in Japan, France, Italy, Singapore, and Southeast Asia.",
+        "Product-wise, majority of compute revenue driven by Hopper GPU architecture.",
+        "H200 GPU shipments on track with initial shipments in Q2, nearly doubling inference performance of H100.",
+        "Grace Hopper Superchip shipping in volume, powering nine new supercomputers worldwide with a combined 200 exaflops of AI processing power.",
+        "Networking revenue driven by Quantum InfiniBand solutions growing more than 5x year-on-year.",
+        "Launch of Spectrum-X Ethernet networking solution optimized for AI, available in Q1.",
+        "Software and services offerings reached an annualized revenue run rate of $1 billion with NVIDIA DGX Cloud expanding partnerships to include Amazon AWS."
+      ]
+    },
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 2.65,
+        "unit": "billion",
+        "context": "Gaming revenue was $2.65 billion, down 8% sequentially and up 18% year-on-year, consistent with our outlook for a seasonal decline.",
+        "period": "Q1"
+      },
+      "growth_yoy": 18.0,
+      "growth_qoq": -8.0,
+      "key_points": [
+        "Consistent with outlook for a seasonal decline.",
+        "Strong consumer demand for NVIDIA GeForce RTX GPUs during the holidays.",
+        "Fiscal year Gaming revenue reached $10.45 billion, up 15%.",
+        "At CES, announced GeForce RTX 40 Super Series family of GPUs starting at $599, delivering incredible gaming performance and generative AI capabilities.",
+        "RTX 40 Super Series GPUs deliver up to 836 AI TOPs, enhancing AI for gaming and everyday productivity.",
+        "DLSS technologies enable up to 4x faster ray tracing and better image quality by generating seven out of eight pixels using AI.",
+        "TensorRT-LLM for Windows accelerates inference performance for large-language models, enabling generative AI to run up to 5x faster on RTX AI PCs.",
+        "Launch of new RTX 40 Series AI laptops from major OEMs, offering high-performance gaming and AI capabilities in various form factors.",
+        "GeForce NOW cloud gaming service library surpassed 1,700 titles, including popular games like Alan Wake 2, Baldur's Gate 3, Cyberpunk 2077: Phantom Liberty, and Starfield.",
+        "NVIDIA Avatar Cloud Engine microservices introduced at CES, allowing developers to integrate generative AI models into digital avatars, winning several Best of CES 2024 awards.",
+        "End-to-end platform for building and deploying generative AI applications for RTX PCs and workstations with over 100 million RTX PCs in the installed base and over 500 AI-enabled PC applications and games."
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.427,
+        "unit": "billion",
+        "context": "ProViz revenue was $427 million, down 8% sequentially and up 45% year-on-year.",
+        "period": "Q1"
+      },
+      "growth_yoy": 45.0,
+      "growth_qoq": -8.0,
+      "key_points": [
+        "Generative AI and Omniverse industrial digitalization driving next wave of professional visualization growth.",
+        "At GTC, announced new Omniverse Cloud APIs to integrate Omniverse industrial digital twin and simulation technologies into applications.",
+        "Adoption by leading industrial software makers including ANSYS, Cadence, 3DEXCITE at Dassault Systemes, Brand, and Siemens.",
+        "Developers using Omniverse Cloud APIs to stream industrial digital twins with spatial computing devices like Apple Vision Pro.",
+        "Companies using Omniverse to digitalize workflows, such as Wistron reducing production cycle times by 50% and defect rates by 40%, and BYD adopting Omniverse for virtual factory planning and retail configurations."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.329,
+        "unit": "billion",
+        "context": "Automotive revenue was $329 million, up 17% sequentially and up 11% year-on-year, driven by continued adoption of the NVIDIA DRIVE platform by automakers.",
+        "period": "Q1"
+      },
+      "growth_yoy": 11.0,
+      "growth_qoq": 17.0,
+      "key_points": [
+        "Fiscal year Automotive revenue reached $1.09 billion, up 21%, crossing the $1 billion mark.",
+        "Continued adoption of NVIDIA DRIVE platform by automakers.",
+        "NVIDIA DRIVE Orin is the AI car computer of choice for software-defined AV fleets.",
+        "Successor NVIDIA DRIVE Thor designed for vision transformers, offering more AI performance and integrating intelligent capabilities for autonomous driving, parking, driver and passenger monitoring, and AI cockpit functionality, available next year.",
+        "Automotive customer announcements include Xiaomi's SU7 sedan built on NVIDIA DRIVE Orin, BYD, XPeng, GAC's Aion Hyper, and Neuro."
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided."
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q1."
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q1."
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q1."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 78.4,
+      "unit": "%",
+      "context": "GAAP gross margin expanded sequentially to 78.4% and non-GAAP gross margin to 78.9%, driven by strong Data Center growth and mix. Gross margins benefited from favorable component costs.",
+      "period": "Q1"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific cash flow data provided.",
+      "period": "Q1"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": null,
+        "unit": "million",
+        "context": "No specific data provided for Q1.",
+        "period": "Q1"
+      },
+      "gfnow_games": {
+        "value": 1700,
+        "unit": "games",
+        "context": "GeForce NOW library now includes over 1,700 games.",
+        "period": "Q1"
+      },
+      "share_repurchases": {
+        "value": 7.8,
+        "unit": "billion",
+        "context": "Returned $7.8 billion to shareholders in the form of share repurchases and cash dividends.",
+        "period": "Q1 Fiscal 2025"
+      },
+      "share_repurchase_authorization_remaining": {
+        "value": null,
+        "unit": "billion",
+        "context": "No specific data provided for Q1.",
+        "period": "Q1 Fiscal 2025"
+      }
+    }
+  },
+  "future_guidance": {
+    "q2_fiscal_2025_revenue": {
+      "value": 28,
+      "unit": "billion",
+      "context": "For Q2, total revenue is expected to be $28 billion, plus or minus 2%.",
+      "period": "Q2 Fiscal 2025"
+    },
+    "q2_fiscal_2025_gross_margin": {
+      "gaap": 74.8,
+      "non_gaap": 75.5,
+      "unit": "%",
+      "context": "GAAP and non-GAAP gross margins are expected to be 74.8% and 75.5%, respectively, plus or minus 50 basis points.",
+      "period": "Q2 Fiscal 2025"
+    },
+    "q2_fiscal_2025_operating_expenses": {
+      "gaap": 4.0,
+      "non_gaap": 2.8,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP operating expenses are expected to be approximately $4 billion and $2.8 billion, respectively.",
+      "period": "Q2 Fiscal 2025"
+    },
+    "q2_fiscal_2025_other_income_expenses": {
+      "value": 0.3,
+      "unit": "billion",
+      "context": "GAAP and non-GAAP other income and expenses are expected to be an income of approximately $300 million, excluding gains and losses from non-affiliated investments.",
+      "period": "Q2 Fiscal 2025"
+    },
+    "q2_fiscal_2025_tax_rates": {
+      "value": 17.0,
+      "unit": "%",
+      "context": "GAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%, excluding any discrete items.",
+      "period": "Q2 Fiscal 2025"
+    },
+    "capital_expenditures": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific data provided for Q2.",
+      "period": "Fiscal 2025"
+    },
+    "full_year_non_gaap_opex_growth": {
+      "value": 40.0,
+      "unit": "%",
+      "context": "Fiscal year 2025 GAAP and non-GAAP operating expenses are expected to grow in the low 40% range as we continue to invest in large opportunities ahead.",
+      "period": "Fiscal 2025"
+    },
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Collaboration with Microsoft on AI foundry service for development and tuning of custom generative AI enterprise applications running on Azure.",
+    "Launch of Spectrum-X Ethernet networking solution optimized for AI, available in Q1.",
+    "Partnerships with Adobe, Databricks, Snowflake, ServiceNow, Tesla, and others on AI projects.",
+    "Announced NVIDIA DRIVE Thor for autonomous driving and AI cockpit functionality, available next year.",
+    "Partnership with Foxconn to include NVIDIA DRIVE for next-generation automotive SOC.",
+    "Omniverse-powered digital twins partnerships with Mercedes-Benz, Brickland, WPP, ZeroLight.",
+    "Expansion of NVIDIA DGX Cloud partnerships to include Amazon AWS.",
+    "Launch of GeForce RTX 40 Super Series GPUs and RTX 40 Series AI laptops from major OEMs.",
+    "Introduction of NVIDIA Avatar Cloud Engine microservices at CES.",
+    "Launching new Omniverse Cloud services for automotive digitalization on Microsoft Azure.",
+    "Launch of next-generation AI factory platform, Blackwell, at GTC.",
+    "Introduction of NVIDIA Inference Microservices (NIM) for secure and optimized AI inference."
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Solid consumer demand for NVIDIA GeForce RTX GPUs during the holidays, driven by RTX 40 Super Series and AI-enabled gaming applications."
+    },
+    {
+      "cloud_gaming_expansion": "GeForce NOW cloud gaming service library surpassed 1,700 titles, expanding with popular game releases and AI-powered services."
+    },
+    {
+      "cryptocurrency_mining": "No specific mention in the Q1 speech."
+    },
+    {
+      "accelerated_computing": "AI and accelerated computing driving Data Center growth with strong adoption of Hopper and H200 GPUs, InfiniBand and Spectrum-X networking platforms."
+    },
+    {
+      "partnerships": [
+        "Collaboration with Microsoft on AI foundry service.",
+        "Partnerships with Adobe, Databricks, Snowflake, ServiceNow, Tesla.",
+        "Foxconn partnership for NVIDIA DRIVE in next-gen automotive SOC.",
+        "Mercedes-Benz, Brickland, WPP, ZeroLight adopting Omniverse-powered digital twins.",
+        "NVIDIA DGX Cloud partnerships expanding to Amazon AWS."
+      ]
+    },
+    {
+      "technological_advancements": [
+        "Launch of Spectrum-X Ethernet networking solution optimized for AI.",
+        "NVIDIA DRIVE Thor for vision transformers and AI cockpit functionality.",
+        "H200 GPU shipments on track with initial shipments in Q2.",
+        "TensorRT-LLM for Windows accelerating LLM inference by 5x on RTX AI PCs.",
+        "NVIDIA Avatar Cloud Engine microservices introduced for generative AI in digital avatars.",
+        "Next-generation AI factory platform, Blackwell, launched at GTC.",
+        "Introduction of NVIDIA Inference Microservices (NIM) for secure and optimized AI inference."
+      ]
+    },
+    {
+      "customer_adoption": [
+        "Over 100 customers building AI factories ranging from hundreds to 100,000 GPUs.",
+        "ServiceNow's generative AI products driving largest ever net new annual contract value.",
+        "Partnerships with Adobe, Databricks, Snowflake, ServiceNow enhancing enterprise AI adoption.",
+        "Automotive customers like Xiaomi, BYD, XPeng, GAC's Aion Hyper, Neuro adopting NVIDIA DRIVE platform.",
+        "Mercedes-Benz and other automakers adopting Omniverse-powered digital twins.",
+        "Google collaborating to optimize Gemma language models on NVIDIA GPUs."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2025-03-05T00:00:00Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Thanks, Simona.",
+      "Q1 was another record quarter. Revenue of $26 billion was up 18% sequentially and up 262% year-on-year and well above our outlook of $24 billion.",
+      "Starting with Data Center.",
+      "For fiscal 2024, revenue was $60.9 billion and up 126% from the prior year."
+    ],
+    "gaming": [
+      "Gaming revenue of $2.65 billion was down 8% sequentially and up 18% year-on-year, consistent with our outlook for a seasonal decline.",
+      "The GeForce RTX Super GPUs market reception is strong and end demand and channel inventory remained healthy across the product range.",
+      "From the very start of our AI journey, we equipped GeForce RTX GPUs with CUDA Tensor Cores. Now with over 100 million of an installed base, GeForce RTX GPUs are perfect for gamers, creators, AI enthusiasts and offer unmatched performance for running generative AI applications on PCs.",
+      "NVIDIA has full technology stack for deploying and running fast and efficient generative AI inference on GeForce RTX PCs.",
+      "TensorRT LLM now accelerates Microsoft's Phi-3-Mini model and Google's Gemma 2B and 7B models as well as popular AI frameworks, including LangChain and LlamaIndex.",
+      "Yesterday, NVIDIA and Microsoft announced AI performance optimizations for Windows to help run LLMs up to 3x faster on NVIDIA GeForce RTX AI PCs.",
+      "Top game developers, including NetEase Games, Tencent and Ubisoft are embracing NVIDIA Avatar Character Engine to create lifelike avatars to transform interactions between gamers and nonplayable characters."
+    ],
+    "proviz": [
+      "ProViz revenue was $427 million, down 8% sequentially and up 45% year-on-year.",
+      "We believe generative AI and Omniverse industrial digitalization will drive the next wave of professional visualization growth.",
+      "At GTC, we announced new Omniverse Cloud APIs to enable developers to integrate Omniverse industrial digital twin and simulation technologies into their applications.",
+      "Some of the world's largest industrial software makers are adopting these APIs, including ANSYS, Cadence, 3DEXCITE at Dassault Systemes, Brand and Siemens.",
+      "Developers can use them to stream industrial digital twins with spatial computing devices such as Apple Vision Pro.",
+      "Omniverse Cloud APIs will be available on Microsoft Azure later this year.",
+      "Companies are using Omniverse to digitalize their workflows. Omniverse powered digital twins enable Wistron, one of our manufacturing partners to reduce end-to-end production cycle times by 50% and defect rates by 40%.",
+      "BYD, the world's largest electric vehicle maker, is adopting Omniverse for virtual factory planning and retail configurations."
+    ],
+    "automotive": [
+      "Automotive revenue was $329 million, up 17% sequentially and up 11% year-on-year.",
+      "Sequential growth was driven by the ramp of AI cockpit solutions with global OEM customers and strength in our self-driving platforms.",
+      "Year-on-year growth was driven primarily by self-driving.",
+      "We supported Xiaomi in the successful launch of its first electric vehicle, the SU7 sedan built on the NVIDIA DRIVE Orin, our AI car computer for software-defined AV fleets.",
+      "We also announced a number of new design wins on NVIDIA DRIVE Thor, the successor to Orin, powered by the new NVIDIA Blackwell architecture with several leading EV makers, including BYD, XPeng, GAC's Aion Hyper and Neuro.",
+      "DRIVE Thor is slated for production vehicles starting next year."
+    ],
+    "data_center": [
+      "Data Center revenue of $22.6 billion was a record, up 23% sequentially and up 427% year-on-year, driven by continued strong demand for the NVIDIA Hopper GPU computing platform.",
+      "Compute revenue grew more than 5x and networking revenue more than 3x from last year.",
+      "Strong sequential data center growth was driven by all customer types, led by enterprise and consumer internet companies.",
+      "Large cloud providers continue to drive strong growth as they deploy and ramp NVIDIA AI infrastructure at scale and represented the mid-40s as a percentage of our Data Center revenue.",
+      "Training and inferencing AI on NVIDIA CUDA is driving meaningful acceleration in cloud rental revenue growth, delivering an immediate and strong return on cloud provider's investment.",
+      "For every $1 spent on NVIDIA AI infrastructure, cloud providers have an opportunity to earn $5 in GPU instant hosting revenue over four years.",
+      "NVIDIA's rich software stack and ecosystem and tight integration with cloud providers makes it easy for end customers up and running on NVIDIA GPU instances in the public cloud.",
+      "For cloud rental customers, NVIDIA GPUs offer the best time to train models, the lowest cost to train models and the lowest cost to inference large language models.",
+      "For public cloud providers, NVIDIA brings customers to their cloud, driving revenue growth and returns on their infrastructure investments.",
+      "Leading LLM companies such as OpenAI, Adept, Anthropic, Character.AI, Cohere, Databricks, DeepMind, Meta, Mistral, xAI, and many others are building on NVIDIA AI in the cloud.",
+      "Enterprises drove strong sequential growth in Data Center this quarter.",
+      "We supported Tesla's expansion of their training AI cluster to 35,000 H100 GPUs. Their use of NVIDIA AI infrastructure paved the way for the breakthrough performance of FSD Version 12, their latest autonomous driving software based on Vision Video Transformers, while consuming significantly more computing, enabling dramatically better autonomous driving capabilities and propelling significant growth for NVIDIA AI infrastructure across the automotive industry.",
+      "We expect automotive to be our largest enterprise vertical within Data Center this year, driving a multibillion revenue opportunity across on-prem and cloud consumption.",
+      "Consumer Internet companies are also a strong growth vertical.",
+      "A big highlight this quarter was Meta's announcement of Llama 3, their latest large language model, which was trained on a cluster of 24,000 H100 GPUs. Llama 3 powers Meta AI, a new AI assistant available on Facebook, Instagram, WhatsApp and Messenger.",
+      "Llama 3 is openly available and has kickstarted a wave of AI development across industries.",
+      "As generative AI makes its way into more Consumer Internet applications, we expect to see continued growth opportunities as inference scales both with model complexity as well as with the number of users and number of queries per user, driving much more demand for AI compute.",
+      "In our trailing four quarters, we estimate that inference drove about 40% of our Data Center revenue.",
+      "Both training and inference are growing significantly. Large clusters like the ones built by Meta and Tesla are examples of the essential infrastructure for AI production, what we refer to as AI factories.",
+      "These next-generation data centers host advanced full-stack accelerated computing platforms where the data comes in and intelligence comes out.",
+      "In Q1, we worked with over 100 customers building AI factories ranging in size from hundreds to tens of thousands of GPUs, with some reaching 100,000 GPUs.",
+      "From a geographic perspective, Data Center revenue continues to diversify as countries around the world invest in Sovereign AI.",
+      "Sovereign AI refers to a nation's capabilities to produce artificial intelligence using its own infrastructure, data, workforce and business networks.",
+      "Nations are building up domestic computing capacity through various models. Some are procuring and operating Sovereign AI clouds in collaboration with state-owned telecommunication providers or utilities. Others are sponsoring local cloud partners to provide a shared AI computing platform for public and private sector use.",
+      "For example, Japan plans to invest more than $740 million in key digital infrastructure providers, including KDDI, Sakura Internet, and SoftBank to build out the nation's Sovereign AI infrastructure.",
+      "France-based Scaleway, a subsidiary of the Iliad Group, is building Europe's most powerful cloud native AI supercomputer.",
+      "In Italy, Swisscom Group will build the nation's first and most powerful NVIDIA DGX-powered supercomputer to develop the first LLM natively trained in the Italian language.",
+      "In Singapore, the National Supercomputer Center is getting upgraded with NVIDIA Hopper GPUs, while Singtel is building NVIDIA's accelerated AI factories across Southeast Asia.",
+      "NVIDIA's ability to offer end-to-end compute to networking technologies, full-stack software, AI expertise, and rich ecosystem of partners and customers allows Sovereign AI and regional cloud providers to jumpstart their country's AI ambitions.",
+      "From nothing the previous year, we believe Sovereign AI revenue can approach the high single-digit billions this year.",
+      "The importance of AI has caught the attention of every nation.",
+      "We ramped new products designed specifically for China that don't require an export control license. Our Data Center revenue in China is down significantly from the level prior to the imposition of the new export control restrictions in October. We expect the market in China to remain very competitive going forward.",
+      "From a product perspective, the vast majority of compute revenue was driven by our Hopper GPU architecture.",
+      "Demand for Hopper during the quarter continues to increase. Thanks to CUDA algorithm innovations, we've been able to accelerate LLM inference on H100 by up to 3x, which can translate to a 3x cost reduction for serving popular models like Llama 3.",
+      "We started sampling the H200 in Q1 and are currently in production with shipments on track for Q2.",
+      "The first H200 system was delivered by Jensen to Sam Altman and the team at OpenAI and powered their amazing GPT-4 demos last week.",
+      "H200 nearly doubles the inference performance of H100, delivering significant value for production deployments.",
+      "Using Llama 3 with 700 billion parameters, a single NVIDIA HGX H200 server can deliver 24,000 tokens per second, supporting more than 2,400 users at the same time.",
+      "That means for every $1 spent on NVIDIA HGX H200 servers at current prices per token, an API provider serving Llama 3 tokens can generate $7 in revenue over four years.",
+      "With ongoing software optimizations, we continue to improve the performance of NVIDIA AI infrastructure for serving AI models.",
+      "While supply for H100 is proving, we are still constrained on H200. At the same time, Blackwell is in full production. We are working to bring up our system and cloud partners for global availability later this year.",
+      "Demand for H200 and Blackwell is well ahead of supply and we expect demand may exceed supply well into next year.",
+      "Grace Hopper Superchip is shipping in volume.",
+      "Last week at the International Supercomputing Conference, we announced that nine new supercomputers worldwide are using Grace Hopper for a combined 200 exaflops of energy-efficient AI processing power delivered this year.",
+      "These include the Alps Supercomputer at the Swiss National Supercomputing Center, the fastest AI supercomputer in Europe, Isambard-AI at the University of Bristol in the UK, and JUPITER in the Julich Supercomputing Center in Germany.",
+      "We are seeing an 80% attach rate of Grace Hopper in supercomputing due to its high energy efficiency and performance.",
+      "Supercomputers powered with Grace Hopper are taking the number one, number two, and number three spots of the most energy-efficient supercomputers in the world.",
+      "Strong networking year-on-year growth was driven by InfiniBand.",
+      "Experienced a modest sequential decline, largely due to the timing of supply, with demand well ahead of what we were able to ship.",
+      "Expect networking to return to sequential growth in Q2.",
+      "In the first quarter, we started shipping our new Spectrum-X Ethernet networking solution optimized for AI from the ground up.",
+      "Includes Spectrum-4 switch, BlueField-3 DPU, and new software technologies to overcome challenges of AI on Ethernet, delivering 1.6x higher networking performance for AI processing compared with traditional Ethernet.",
+      "Spectrum-X is ramping in volume with multiple customers, including a massive 100,000 GPU cluster.",
+      "Spectrum-X opens a brand-new market for NVIDIA networking and enables Ethernet-only data centers to accommodate large-scale AI.",
+      "Expect Spectrum-X to jump to a multibillion-dollar product line within a year.",
+      "At GTC in March, launched next-generation AI factory platform, Blackwell.",
+      "Blackwell GPU architecture delivers up to 4x faster training and 30x faster inference than H100, enabling real-time generative AI on trillion-parameter large language models.",
+      "Blackwell includes fifth-generation NVLink with multi-GPU spine, new InfiniBand and Ethernet switches, X800 series designed for trillion parameter scale AI.",
+      "Blackwell designed to support data centers universally, from hyperscale to enterprise, training to inference, x86 to Grace CPUs, Ethernet to InfiniBand networking, and air cooling to liquid cooling.",
+      "Blackwell available in over 100 OEM and ODM systems at launch, more than double the number of Hopper's launch, representing every major computer maker in the world.",
+      "Time-to-market customers include Amazon, Google, Meta, Microsoft, OpenAI, Oracle, Tesla, and xAI.",
+      "Announced new software product, NVIDIA Inference Microservices (NIM), providing secure and performance-optimized containers powered by NVIDIA CUDA acceleration in network computing and inference software, including Triton Inference Server and TensorRT LLM.",
+      "NIM offers industry-standard APIs for a broad range of use cases, including large language models for text, speech, imaging, vision, robotics, genomics, and digital biology.",
+      "NIM enables developers to quickly build and deploy generative AI applications using leading models from NVIDIA, AI21, Adept, Cohere, Getty Images, and Shutterstock, and open models from Google, Hugging Face, Meta, Microsoft, Mistral AI, Snowflake, and Stability AI.",
+      "NIMs will be offered as part of our NVIDIA AI Enterprise software platform for production deployment in the cloud or on-prem."
+    ]
+  }
+}

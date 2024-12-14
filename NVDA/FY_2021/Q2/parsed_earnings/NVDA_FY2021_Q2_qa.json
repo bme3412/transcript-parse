@@ -1,0 +1,129 @@
+{
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Gaming and COVID Impact",
+          "content": "We didn't see pull-ins and we are in the beginning of our brand new product cycle with Ampere and so the vast majority of the data center growth came from that. The gaming industry, with all that's happening around the world and it's really unfortunate but it's made gaming the largest entertainment medium in the world. More than ever, people are spending time digitally, spending their time in videogames. The thing that people haven't realized about videogames is that it's not just the game itself anymore. The variety of different ways that you can play, whether you can hang out with your friends in Fortnite, go to a concert in Fortnite, building virtual worlds in Minecraft, you are spending time with your friends, you are using it to create to realize your imaginations. People are using it for broadcast, for sharing ideas and techniques with other people. And so – and then of course, it's just an incredibly fun way to spend time even by consumption of the video – of a videogame."
+        },
+        {
+          "topic": "Data Center and Cloud Transformation",
+          "content": "With data center the things that – the structural change that's happening in data center are coupled with different dynamics that are happening at the same time. The first dynamic, of course, is the movement to the cloud, the way that a cloud data center is built and the way that an enterprise data center or a cluster is built is fundamentally different. And it's really, really beneficial to have the ability to accelerate applications that cloud service providers would like to offer, which is basically everything. And we know that one of the most important applications of today is artificial intelligence."
+        },
+        {
+          "topic": "Architecture and System Design",
+          "content": "We push architecture really hard. And the way we push architecture is we start from the system. But we believe that the future computer company is a data center-scale company. The computing unit is no longer a microprocessor or even a server or even a cluster. The computing unit is an entire data center now. A microservice that we are enjoying hundreds of billions of transactions a day, those are broken up into a whole bunch of microservices that are running across the entire data center. And so, the data center is running – the entire data center is running an application."
+        },
+        {
+          "topic": "RTX and Gaming Strategy",
+          "content": "We are – we are still in the ramping of the RTX generation. Turing, Turing the current generation that we are in, is the world's first ray tracing GPU. And it fuses – the RTX technology fuses three fundamental technologies: the programmable shader that we introduced a long time ago that revolutionized computer graphics, and we added two new technologies. One technology is a ray tracing acceleration core that makes the tracing of rays and looking for intersections between the ray and the scene – objects in scene super, super fast."
+        },
+        {
+          "topic": "Gaming Market Outlook",
+          "content": "We are expecting a really strong second half for gaming. I think this may very well be one of the best gaming seasons ever. And the reason for that is because PC gaming has become such a large format. The combination of amazing games like Fortnite and Minecraft and because of the way people game now, their gaming and their e-sporting, even F1 is an e-sport now, they are hanging out with friends. Switch has – about to sell more than Super Nintendo, more than all the Famicom. I mean – which was one of the best gaming consoles of all time. I mean, they are on their way to make Switch the most successful gaming platform of all time."
+        },
+        {
+          "topic": "AI and Data Center Trends",
+          "content": "Our data center trend is really tied to a few factors. One is the proliferation of using deep learning and artificial intelligence in all the services are that are in by the cloud service providers. And I think it's fair to say that over the last several years, the number of breakthroughs in artificial intelligence has been really terrific. And we are seeing anywhere from 10x more computational requirement each year to more than that. And so, in the last three years, we have seen somewhere between 1,000x to 3,000x increase in the size of models."
+        },
+        {
+          "topic": "Process Technology",
+          "content": "The process technology is a lot more complex than a number. I think people have simplified it down to almost a ridiculous level. Process technology we have a really awesome process engineering team. World-class. Everybody will recognize that it's absolutely world-class. And we work with the foundries, we work with TSMC really closely, to make sure that we engineer transistors that are ideal for us. It's a complicated thing, and we do it at high part. Then the second part of it is where architecture, where the process technology and the rest of the design process, the architecture of the chip, and the final analysis, what NVIDIA paid for, is architecture, not procurement of transistors."
+        },
+        {
+          "topic": "Closing Statement",
+          "content": "The accelerated computing model we pioneered has clearly passed the tipping point. Adopting of NVIDIA computing is accelerating. On this foundation and leveraging one architecture, we have transformed our company in three dimensions. First, NVIDIA is a full-stack computing platform company, offering the world's most dynamic industries, the chips systems, software and libraries like NVIDIA AI to tackle their most pressing challenges. Second, NVIDIA is a data center-scale company with capabilities to architect, build and operate the most advanced data centers. Third, NVIDIA is a software-defined company today, with rich software content like GeForce NOW, NVIDIA virtual workstation in the cloud, NVIDIA AI and NVIDIA Drive that will add recurring software revenue to our business model. Our next GTC will be coming on October 5, again from my kitchen. Join me. I have some exciting developments to share with you."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Data Center Visibility",
+          "content": "Let me see if I can answer this one for you. Yes, we have been talking about our visibility of data center. And as you have seen in our Q2 results, you can see that our overall adoption of the NVIDIA computing portfolio has accelerated quite nicely. But keep in mind, we are still really early in the product cycle. A100 is ramping. It's ramping very strong into our existing installed bases but also into new markets. Right now, A100 probably represents less than a quarter of our data center revenues."
+        },
+        {
+          "topic": "Inventory and Growth",
+          "content": "Keep in mind, C.J., that when you think about the complexity of the products that we are building, we have extremely long lead times, both in terms of what we produce for the data center, our full systems that we need to do, as well as what you are seeing now between the sequential growth between Q2 and Q3 for overall gaming. So, all of that is in preparation for the second half. Nothing unusual about it other than, yes, we have got to hit those revenue numbers that are in our Q3 guidance."
+        },
+        {
+          "topic": "Gross Margins",
+          "content": "And within our Q3 guidance, we have just a small decline in our gross margin from Q2. Most of that is really associated with mix, but also a little bit in terms of the ramping of our new Ampere architecture products that we have. So, keep in mind, our data center will likely be a lower percentage of total revenue, given the strong overall gaming growth that we expect between Q2 and Q3."
+        },
+        {
+          "topic": "Q3 Outlook",
+          "content": "Yes. So, in terms of moving from Q2 to Q3, we believe that most of the actual growth that we will receive in that single – low single-digits to mid-single-digit growth will likely stem from NVIDIA compute will be the largest driver of that."
+        },
+        {
+          "topic": "Supply Chain",
+          "content": "Let me first start on our Q3 outlook and what we're seeing. And when we think about our demand and our supply, we are very comfortable with the supply that we have. Keep in mind, our products are quite complex, and a lot of our time is spent in terms of procuring every aspect of that supply over multiple quarters previously. So that's how we work. But we are very confident with the overall supply that we have across the board in data center."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topic": "COVID Impact on Business",
+      "questions": [
+        "Thanks for taking my question and congratulations on the strong growth and execution. Jensen, I am wondering how much of the strength that you are seeing in gaming and data center is maybe more temporary because of COVID or some customer pull-ins in the data center or so forth?",
+        "And how much of it is more structural and more secular that can continue even once we get into hopefully sooner rather than later into a more normalized period for the industry?"
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Architecture", "Manufacturing", "CPU Integration"],
+      "questions": [
+        "Thanks a lot. Jensen, I guess I had a question on both architecture and also manufacturing. And I think on the manufacturing side, you have been radical on that for some time. And when you have been asked in the past about moving to more of a tiled or chiplet approach, you sort of made light of that. But the CPU guys are clearly picking that approach. So, I guess, the question is why do you think you won't have to make a similar move?",
+        "And then on the side of architecture, the theme of Hot Chips this week was really how compute demand is far outstripping computing power? And then we see this, talk about you and ARM. So, I guess can you talk about whether GPU is the future and maybe the broader opportunity to integrate CPU and GPU?"
+      ]
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Gaming GPU Base", "Data Center Visibility"],
+      "questions": [
+        "Yes. Thanks for taking the question. Congratulations on the quarter. Just building on some prior questions. The first one, I was just curious if you could help us appreciate kind of the installed base of the gaming GPU business, relative to where we are at the Turing upgrade cycle, what do we see still on prior generations, be it Pascal or before?",
+        "And then secondly, Colette, could you just give me a kind of updated commentary or views on visibility in the data center business? How that – how has that changed over the last 3 months? What does that look like as you look through the back half of the calendar year?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topics": ["Inventory", "Platforms"],
+      "questions": [
+        "If I look at your outstanding inventory purchase obligations, grew 17% sequentially. Is that as you prepare for the September 1 launch? And can you kind of comment on gaming visibility into the back half of the year?",
+        "And then the second question, Jensen, I know you are very focused on platforms and driving recurring revenues. I would love to hear if there's any particular platforms over the last 3 months where you have made real headway or get you excited, whether Jarvis, Merlin, Spark or whatever."
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Data Center", "Gross Margins"],
+      "questions": [
+        "Just following-up on the data center business. As you probably know, quite a few of your peers have been talking about potential digestion of capacity on the part of your hyperscale customers over the next call it, 6 to 12 months. Curious, is that something that you think about, worry about in your data center business? Or do you have enough idiosyncratic growth drivers like the A100 ramp?",
+        "And then the second one for Colette, just on gross margins, you are guiding October quarter gross margins down 50 basis points sequentially. Based on the color that you provided for the individual segments, it looks like mix remains pretty positive. So just curious what's driving the marginal decline in gross margins in the October quarter?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topic": "Data Center Growth",
+      "questions": [
+        "I wanted to dig into data center a little bit. This is a question for Colette. So, in the quarter, ex Mellanox, data center was up, core data center, maybe 6%, 7%. The guide looks to be roughly similar to that into Q3. Can you talk to us a little bit about what's driving the trajectory?",
+        "Are you more demand- or more supply limited at this point? What does your supply situation look like? And what are the lead times especially on the A100 products for data center look like at this point?",
+        "And just a quick follow-up, within the data center guidance, how do you think about like the core data center sequential growth versus Mellanox?"
+      ]
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley",
+      "topic": "Process Technology",
+      "question": "I wonder if I could ask a longer-term question about the how you guys see the importance of process technology. There's been a lot of discussion around that in the CPU domain. But you guys haven't really felt the need to be first on seven-nanometer, and you have done very well. Just how important do you think it is to be early in the new process node? And how does that factor into the cycle of innovation at NVIDIA?"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2022",
+  "total_revenue": {
+    "value": 7.1,
+    "unit": "billion",
+    "context": "Q3 was an outstanding quarter with revenue of $7.1 billion, up 50% year-on-year",
+    "period": "Q3"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 3.2,
+        "unit": "billion",
+        "context": "Revenue driven by strong demand across the board, up 5% sequentially and 42% year-on-year",
+        "period": "Q3"
+      },
+      "growth_yoy": 42.0,
+      "growth_qoq": 5.0,
+      "key_points": [
+        "Demand was strong across the board with increased desktop and laptop GPU sales",
+        "Continued to increase desktop GPU supply with low channel inventories",
+        "Strong year-on-year growth in laptop GPUs driven by high-end RTX laptops",
+        "NVIDIA RTX technology driving the biggest ever refresh cycle with gamers and expanding the base with creators",
+        "RTX introduced real-time ray tracing and AI-enabled super resolution capabilities adopted at an accelerating pace",
+        "Over 200 games and applications now support NVIDIA RTX, including 125 with NVIDIA DLSS",
+        "45 new games shipped with DLSS in Q3",
+        "NVIDIA Reflex integrated in top esports titles like Valorant, Fortnite, Apex Legends, and Overwatch",
+        "Reflex ecosystem growing with Reflex technology integrated in almost 50 gaming peripherals",
+        "NVIDIA Studio for creators expanding with new AI features in Adobe Lightroom and collaborations with Microsoft, HP, and ASUS",
+        "Approximately 25% of installed base has adopted RTX GPUs",
+        "Expect continued upgrades and growth from NVIDIA GeForce users due to expanding RTX support and rising popularity of gaming, esports, content creation, and streaming",
+        "Crypto mining processors (CMPs) optimized for miners without impacting GeForce supply",
+        "CMP revenue was $105 million in Q3, included in OEM and other",
+        "GeForce Now achieved two major milestones: more hit games from Electronic Arts and the new GeForce Now RTX 3080 membership tier",
+        "GeForce Now membership doubled to over 14 million gamers, streaming from 30 data centers in over 80 countries"
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.577,
+        "unit": "billion",
+        "context": "Revenue driven by strong notebook growth and rebounded desktop workstations, up 11% sequentially and 144% year-on-year",
+        "period": "Q3"
+      },
+      "growth_yoy": 144.0,
+      "growth_qoq": 11.0,
+      "key_points": [
+        "Strong sequential revenue growth led by mobile workstations and desktop workstations",
+        "Demand driven by enterprises deploying systems to support hybrid work environments",
+        "Ampere architecture sales continue to grow, leading verticals including media and entertainment, healthcare, public sector, and automotive",
+        "General availability of Omniverse Enterprise, a platform for simulating physically accurate 3D worlds and digital twins",
+        "Over 700 companies evaluating Omniverse Enterprise, including BMW, Ericsson, Lockheed Martin, and Sony Pictures",
+        "More than 70,000 individual creators have downloaded Omniverse since the open beta launch in December",
+        "Approximately 40 million 3D designers in the global market",
+        "Announced powerful new Ampere architecture GPUs for next-generation desktop and laptop workstations, available from major OEMs"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.135,
+        "unit": "billion",
+        "context": "Revenue driven by growth in AI cockpit revenue, up 8% year-on-year and down 11% sequentially",
+        "period": "Q3"
+      },
+      "growth_yoy": 8.0,
+      "growth_qoq": -11.0,
+      "key_points": [
+        "Sequential decline driven by AI cockpit revenue impacted by automotive manufacturers' supply constraints",
+        "Announced adoption of NVIDIA DRIVE Orin platform by Kodiak Robotics, Lotus, QCraft, and WM Motor for next-generation vehicles",
+        "NVIDIA DRIVE platform adoption growing among auto OEMs, Tier 1 suppliers, NAVs, trucking companies, mobile taxis, and software startups",
+        "NVIDIA DRIVE platform spans silicon, systems, software, and AI data center infrastructure enabling over-the-air upgrades to enhance safety and driving experience"
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 2.9,
+        "unit": "billion",
+        "context": "Revenue topped $2 billion for the first time, up 55% year-on-year and 24% sequentially",
+        "period": "Q3"
+      },
+      "growth_yoy": 55.0,
+      "growth_qoq": 24.0,
+      "key_points": [
+        "Record revenue driven by both hyperscale customers and vertical industries",
+        "Hyperscale compute revenue doubled year-on-year, fueled by rapid adoption of Ampere architecture Tensor Core GPUs for internal and external workloads",
+        "Strong vertical industry demand led by consumer Internet and broader cloud providers",
+        "Barco Cloud deployed NVIDIA GPUs for AI services including tech analysis, speech recognition, computer vision, and anomaly detection",
+        "Transitioned lineup of inference-focused processors to Ampere architecture, such as the A30 GPU",
+        "Released latest version of Triton Inference Server software for compute-intensive inference workloads like large language models",
+        "Over 25,000 companies worldwide use NVIDIA AI inference, including Microsoft Teams with nearly 250 million monthly active users",
+        "Achieved three milestones to drive mainstream enterprise adoption of NVIDIA AI: general availability of NVIDIA AI Enterprise, collaboration with VMware for vSphere optimization, and global expansion of NVIDIA LaunchPad",
+        "Announced BlueField DOCA 1.2 with new cybersecurity capabilities, enabling developers to build applications on BlueField DPUs",
+        "Released Clara Holoscan, an edge AI computing platform for medical instruments",
+        "Introduced 65 new and updated software development kits (SDKs), bringing total to over 150",
+        "CUDA downloaded 30 million times with a developer ecosystem nearing 3 million strong",
+        "NVIDIA DRIVE Concierge and DRIVE Chauffeur AI software platforms announced",
+        "Announced Jetson AGX Orin for robotics, autonomous missions, and embedded computing at the edge",
+        "Revealed plans to build Earth-2, the world's most powerful AI supercomputer dedicated to confronting climate change",
+        "Progress on proposed acquisition of Arm, with ongoing regulatory reviews"
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided"
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q3"
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q3"
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q3"
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 65.2,
+      "unit": "%",
+      "context": "GAAP gross margin was up 260 basis points year-on-year and up 40 basis points sequentially",
+      "period": "Q3"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": 1.5,
+      "unit": "billion",
+      "context": "Cash flow from operations in Q3 was $1.5 billion, up from $1.3 billion a year earlier and down from $2.7 billion in the prior quarter",
+      "period": "Q3"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": 14,
+        "unit": "million",
+        "context": "GeForce NOW membership has more than doubled to over 14 million gamers for streaming content from 30 data centers in more than 80 countries",
+        "period": "Q3"
+      },
+      "cmp_revenue": {
+        "value": 0.105,
+        "unit": "billion",
+        "context": "Crypto mining processor revenue was $105 million in Q3, lower than original estimates",
+        "period": "Q3"
+      },
+      "gfnow_games": {
+        "value": null,
+        "unit": "games",
+        "context": "No specific number of games provided for Q3",
+        "period": "Q3"
+      },
+      "cmp_outlook_q2": null
+    }
+  },
+  "future_guidance": {
+    "q4_revenue": {
+      "value": 7.4,
+      "unit": "billion",
+      "context": "Expected revenue for Q4, plus or minus 2%",
+      "period": "Q4"
+    },
+    "q4_gross_margin": {
+      "gaap": 65.3,
+      "non_gaap": 67.0,
+      "unit": "%",
+      "context": "Expected GAAP and non-GAAP gross margins for Q4",
+      "period": "Q4"
+    },
+    "q4_operating_expenses": {
+      "gaap": 2.02,
+      "non_gaap": 1.43,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP operating expenses for Q4",
+      "period": "Q4"
+    },
+    "q4_other_income_expenses": {
+      "value": -0.06,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP other income and expenses as expense for Q4",
+      "period": "Q4"
+    },
+    "q4_tax_rates": {
+      "value": 11,
+      "unit": "%",
+      "context": "Expected GAAP and non-GAAP tax rates, excluding discrete items for Q4",
+      "period": "Q4"
+    },
+    "capital_expenditures": {
+      "value": [0.25, 0.275],
+      "unit": "billion",
+      "context": "Expected capital expenditures for Q4",
+      "period": "Q4"
+    },
+    "full_year_non_gaap_opex_growth": null,
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Launch of Cryptocurrency Mining Processors (CMPs) to optimize mining performance and efficiency without impacting GeForce supply",
+    "Introduction of new GeForce Now RTX 3080 membership tier",
+    "General availability of Omniverse Enterprise platform",
+    "Expansion of NVIDIA DRIVE Orin platform adoption by Kodiak Robotics, Lotus, QCraft, and WM Motor",
+    "Announcement of NVIDIA DRIVE Concierge and DRIVE Chauffeur AI software platforms",
+    "Development and launch of Jetson AGX Orin for robotics and autonomous missions",
+    "Plans to build Earth-2, the world's most powerful AI supercomputer dedicated to climate change",
+    "Progress on proposed acquisition of Arm, addressing regulatory concerns",
+    "Announcements at GPU Technology Conference (GTC) including Omniverse advancements, NVIDIA Riva, NeMo Megatron, BlueField DOCA 1.2, Clara Holoscan, and new SDKs",
+    "Expansion of NVIDIA AI Enterprise and collaboration with VMware",
+    "Introduction of NVIDIA LaunchPad in nine global locations"
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Gaming business continues to accelerate with the successful RTX refresh cycle and expanding GeForce Now platform",
+      "cloud_gaming_expansion": "GeForce Now membership has doubled to over 14 million gamers, streaming from 30 data centers in over 80 countries",
+      "cryptocurrency_mining": "Introduction of CMPs to address mining demand and optimize GPU supply for gamers",
+      "accelerated_computing": "AI and accelerated computing driving data center growth with NVIDIA Grace CPU, BlueField DPUs, and Earth-2 supercomputer"
+    },
+    {
+      "upcoming_events": [
+        "Attend the Credit Suisse 25th Annual Technology Conference on November 30th",
+        "Attend the Wells Fargo Fifth Annual TMT Summit virtually on December 1st",
+        "Attend the UBS Global TMT Virtual Conference on December 6th",
+        "Attend the Deutsche Bank Virtual Auto Tech Conference on December 9th"
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-11T21:49:43.024741",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Q3 was an outstanding quarter with revenue of $7.1 billion and year-on-year growth of 50%.",
+      "We set records for total revenue as well as for Gaming, Data Center, and Professional Visualization."
+    ],
+    "gaming": [
+      "Revenue was $3.2 billion, up 5% sequentially and up 42% from a year earlier.",
+      "Demand was strong across the board with increased desktop and laptop GPU sales.",
+      "Continued to increase desktop GPU supply with low channel inventories.",
+      "Laptop GPUs posted strong year-on-year growth, led by increased demand for high-end RTX laptops.",
+      "NVIDIA RTX technology is driving our biggest ever refresh cycle with gamers and expanding our base with creators.",
+      "RTX introduced groundbreaking real-time ray tracing and AI-enabled super resolution capabilities, adopted at an accelerating pace.",
+      "More than 200 games and applications now support NVIDIA RTX, including 125 with NVIDIA DLSS.",
+      "This quarter alone, 45 new games shipped with DLSS.",
+      "NVIDIA Reflex Latency Reducing Technology is integrated in top esports titles like Valorant, Fortnite, Apex Legends, and Overwatch.",
+      "Reflex ecosystem continues to grow with Reflex technology now integrated in almost 50 gaming peripherals.",
+      "NVIDIA Studio for creators keeps expanding with new AI features in Adobe Lightroom and collaborations with Microsoft, HP, and ASUS.",
+      "Approximately 25% of our installed base has adopted RTX GPUs.",
+      "Looking ahead, we expect continued upgrades and growth from NVIDIA GeForce users due to expanding RTX support and rising popularity of gaming, esports, content creation, and streaming.",
+      "Our GPUs are capable of crypto mining, but we don't have visibility into how much this impacts our overall GPU demand.",
+      "In Q3, nearly all of our Ampere architecture gaming desktop GPU shipments were lite hash rate to help steer GeForce supply to gamers.",
+      "Crypto mining processor revenue was $105 million, included in OEM and other.",
+      "Our cloud gaming service, GeForce Now, achieved two major milestones: more hit games from Electronic Arts and the new GeForce Now RTX 3080 membership tier priced at less than $100 for six months.",
+      "GeForce Now membership has more than doubled to over 14 million gamers for streaming content from 30 data centers in more than 80 countries."
+    ],
+    "proviz": [
+      "Q3 revenue was a record $577 million, up 11% sequentially and up 144% year-on-year.",
+      "Strong sequential revenue growth led by mobile workstations and desktop workstations.",
+      "Demand driven by enterprises deploying systems to support hybrid work environments.",
+      "Ampere architecture sales continue to grow, leading verticals including media and entertainment, healthcare, public sector, and automotive.",
+      "General availability of Omniverse Enterprise, a platform for simulating physically accurate 3D worlds and digital twins.",
+      "Initial market reception to Omniverse has been incredible with professionals at over 700 companies evaluating the platform, including BMW, Ericsson, Lockheed Martin, and Sony Pictures.",
+      "More than 70,000 individual creators have downloaded Omniverse since the open beta launch in December.",
+      "Approximately 40 million 3D designers in the global market.",
+      "Announced powerful new Ampere architecture GPUs for next-generation desktop and laptop workstations, available from all major OEMs."
+    ],
+    "automotive": [
+      "Q3 revenue was $135 million, up 8% year-on-year and down 11% sequentially.",
+      "Sequential decline primarily driven by AI cockpit revenue impacted by automotive manufacturers' supply constraints.",
+      "Announced adoption of NVIDIA DRIVE Orin platform by Kodiak Robotics, Lotus, QCraft, and WM Motor for their next-generation vehicles.",
+      "These companies join a rapidly growing list of adopters including auto OEMs, Tier 1 suppliers, NAVs, trucking companies, mobile taxis, and software startups.",
+      "NVIDIA DRIVE platform spans silicon, systems, software, and AI data center infrastructure enabling over-the-air upgrades to enhance safety and driving experience.",
+      "Belief that everything that moves will be autonomous someday, driving widespread adoption of NVIDIA DRIVE across various transportation segments."
+    ],
+    "data_center": [
+      "Revenue of $2.9 billion, up 24% sequentially and 55% year-on-year, first quarter to include Mellanox.",
+      "Growth driven by both hyperscale customers and vertical industries, each with record revenues.",
+      "Hyperscale compute revenue doubled year-on-year, fueled by rapid adoption of Ampere architecture Tensor Core GPUs for internal and external workloads.",
+      "Strong vertical industry demand led by consumer Internet and broader cloud providers, such as Barco Cloud deploying NVIDIA GPUs for AI services including tech analysis, speech recognition, computer vision, and anomaly detection.",
+      "Transitioned lineup of inference-focused processors to Ampere architecture, such as the A30 GPU.",
+      "Released latest version of Triton Inference Server software, enabling compute-intensive inference workloads like large language models to scale across multiple GPUs and nodes with real-time performance.",
+      "Over 25,000 companies worldwide use NVIDIA AI inference, including Microsoft Teams with nearly 250 million monthly active users using NVIDIA AI for real-time speech-to-text during video calls in 28 languages.",
+      "Achieved three milestones to drive mainstream enterprise adoption of NVIDIA AI: general availability of NVIDIA AI Enterprise, collaboration with VMware for vSphere optimization, and global expansion of NVIDIA LaunchPad.",
+      "Announced BlueField DOCA 1.2 with new cybersecurity capabilities, enabling developers to build applications on BlueField DPUs.",
+      "Released Clara Holoscan, an edge AI computing platform for medical instruments to improve decision-making tools in areas such as robo-assisted surgery, interventional radiology, and radiation therapy planning.",
+      "Introduced 65 new and updated SDKs, bringing the total to over 150, serving industries from gaming and design to AI, cybersecurity, 5G, and robotics.",
+      "CUDA has been downloaded 30 million times with a developer ecosystem nearing 3 million strong.",
+      "NVIDIA DRIVE Concierge and DRIVE Chauffeur AI software platforms announced for enhancing vehicle performance, features, and safety.",
+      "Announced Jetson AGX Orin, the world's smallest, most powerful, and energy-efficient AI supercomputer for robotics and autonomous missions, available in Q1 2022.",
+      "Revealed plans to build Earth-2, the world's most powerful AI supercomputer dedicated to confronting climate change.",
+      "Progress on proposed acquisition of Arm, addressing regulatory concerns with ongoing Phase 2 reviews in the EU and U.K."
+    ],
+    "mellanox": [
+      "Mellanox revenue included within Data Center segment; no separate breakdown provided."
+    ],
+    "q4_outlook": [
+      "No Q4 data provided in this commentary."
+    ],
+    "q1_outlook": [
+      "Already covered in the future_guidance section."
+    ]
+  }
+}

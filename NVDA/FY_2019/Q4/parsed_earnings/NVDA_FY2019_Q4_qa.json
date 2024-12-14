@@ -1,0 +1,175 @@
+{
+    "speakers": {
+      "jensen_huang": {
+        "role": "CEO",
+        "responses": [
+          {
+            "topic": "Gaming and RTX Launch",
+            "context": "Response to Turing launch concerns",
+            "content": "When we launched the 2070 and 2080, it was the first time we've ever launched a new generation where the only available SKUs were very high end. And in addition to that, the early boards that came out into the marketplace were the special edition and the over clocked versions. And the MSRP versions didn't show up for some short time after, couple of months after. And so the conditions weren't ideal, if you will."
+          },
+          {
+            "topic": "Data Center Competition",
+            "context": "Response to competitive landscape",
+            "content": "Our data center business is really focused on computing and we don't see anybody. Our primary competitor is CPUs. That's really the starting of it and the ending of it. And it's very clear. The vast majority of the world's data center only runs on CPUs today."
+          },
+          {
+            "topic": "Data Center Growth",
+            "context": "Response to slowdown concerns",
+            "content": "The slowdown is broad based. We saw it across every vertical, every geography. There was just a level of cautiousness across all of the enterprise customers and the cloud service providers that we've not experienced in a while. And I think that it has to be temporary."
+          },
+          {
+            "topic": "Enterprise Focus",
+            "context": "Response to market expansion",
+            "content": "The hyperscalars, their pause is probably the most dramatic. We still see a lot of activity in enterprise. It's just a much smaller base for us but we expect it to be a much larger base in the future."
+          },
+          {
+            "topic": "China Gaming Market",
+            "context": "Response to regional concerns",
+            "content": "I don't know that we could tear that apart, tease that apart. We just know that, the China, the consumer market is relatively slow towards the end of the year. And the China economy is in the final analysis of growth economy. And so we're looking forward to it recovering. And gaming is one of the most important pass-times of their culture."
+          },
+          {
+            "topic": "Growth Drivers",
+            "context": "Response to business outlook",
+            "content": "We have four growth businesses. Our data center business is growing. It's unquestionably that our footprint is larger than ever. Our ProVis business is growing. Our workstation business now has three ways to grow... And then lastly, our automotive is going to be a gross growth business."
+          },
+          {
+            "topic": "Turing Architecture",
+            "context": "Response to performance questions",
+            "content": "First of all, the Turing architecture is the highest performing architecture at every single price point. And it's a big jump from our last generation in every single way. Without ray-tracing the Turing architecture is the first GPU to do concurrent floating point and image your operations at the same time."
+          },
+          {
+            "topic": "Gaming Market",
+            "context": "Response to market fundamentals",
+            "content": "The fundamentals of gaming has not changed, there more gamers than ever. Games are better than ever. There's been a recent shift in the popularity of multiplayer competitive e-sports like games, that's good for hardware."
+          }
+        ],
+        "closing_remarks": "2018 was a record year but it was a disappointing finish. This quarter, we expect to put the channel inventory issue behind us and get back on track. As the pioneer of accelerated computing, our position is unique and strong. And the opportunities ahead in graphic, high performance computing, AI and autonomous machines remain enormous. Thanks everyone for joining us today."
+      },
+      "colette_kress": {
+        "role": "CFO",
+        "responses": [
+          {
+            "topic": "Inventory",
+            "context": "Response to Q4 results",
+            "content": "Our inventory dollars at the end of Q4 rose just due to the weaker than expected finish to Q4. Inventory right now is primarily related to Turing, Volta and DGX. And we don't expect any further write-downs as we have incorporated approximately 128 million of write-downs within the current Q4."
+          },
+          {
+            "topic": "Gross Margins",
+            "context": "Response to margin outlook",
+            "content": "Our gross margin, the largest contributor to our absolute gross margin is really just the mix of our product. The mix of our products based on our market platforms, but also the mix of our products within data center, as well as within gaming."
+          },
+          {
+            "topic": "Annual Guidance",
+            "context": "Response to revenue trajectory",
+            "content": "With the expectation that we will be flat or slightly down for the full year, you are correct in some case that we're going to have to build up to that over the course of the several next quarters. Likely, the second half of the year will definitely be stronger than the first half of the year."
+          },
+          {
+            "topic": "DRAM Pricing",
+            "context": "Response to component costs",
+            "content": "Yes, they have definitely been volatile over the historical period. It is great to see them coming down in price. Over the long-term, yes, that is beneficial to us from a gross margin perspective."
+          },
+          {
+            "topic": "OpEx Guidance",
+            "context": "Response to investment plans",
+            "content": "We plan to increase OpEx in the high single-digits over where we finished in terms of fiscal year '19. That is related to our opportunities that we see in front of us, gaming, AI as well as self driving cars."
+          }
+        ]
+      }
+    },
+    "analyst_questions": [
+      {
+        "analyst": "Toshiya Hari",
+        "firm": "Goldman Sachs",
+        "topics": ["RTX Performance", "Inventory"],
+        "questions": [
+          "Can you talk about the weakness you saw in the 2070 and the 2080 in the quarter?",
+          "Inventory was up on the balance sheet. Can you provide some color there and expectations going forward?"
+        ]
+      },
+      {
+        "analyst": "C.J. Muse",
+        "firm": "Evercore",
+        "topics": ["Data Center", "T4 Ramp"],
+        "question": "Can you give a little bit more color in terms of I guess what you're seeing across enterprise cloud, high performance compute, and I guess within that, how you're seeing the ramp of T4?"
+      },
+      {
+        "analyst": "Vivek Arya",
+        "firm": "Bank of America Merrill Lynch",
+        "topics": ["Gross Margins", "Gaming Growth"],
+        "question": "What is the normalized run rate for gross margins? And can you give us more reassurance that gaming is still a growth business?"
+      },
+      {
+        "analyst": "John Pitzer",
+        "firm": "Credit Suisse",
+        "topic": "Gaming Revenue",
+        "question": "If you're going through channel inventory worked out in fiscal first quarter, it seems like to hit your full year guide the expectation is for gaming revenue to accelerate well above that normalized level you talked about. What am I doing the math right?"
+      },
+      {
+        "analyst": "Stacy Rasgon",
+        "firm": "Bernstein Research",
+        "topics": ["Gross Margins", "Data Center Growth"],
+        "questions": [
+          "If I correct for the inventory write down in Q4, the normalized gross margin this quarter was 61.7. And so you're guiding it to 59, so it's down 270 basis points sequentially on flat revenues. Is that an indicator of the mix between the businesses?",
+          "If I've got full year revenues for the flat to down slightly and I've got gaming revenues down a bit like you said, and I have ProVis and auto growing, it's really hard within the envelope that guidance to get data centers growing much if at all. How are you thinking about the idea of data center growing within the context of the full year guidance?"
+        ]
+      },
+      {
+        "analyst": "Joe Moore",
+        "firm": "Morgan Stanley",
+        "topic": "Data Center Competition",
+        "question": "AMD on their call had talked about graphics in their data center business being, biggest server which is worth north of $100 million a quarter, which surprised me. My sense is they're doing quite a bit different applications than you guys are. Can you give us some context around what they're doing and how you see the competition?"
+      },
+      {
+        "analyst": "Matt Ramsay",
+        "firm": "Cowen",
+        "topics": ["Turing Platform", "DRAM Pricing"],
+        "questions": [
+          "It seemed like the Turing platform is delivering some amazing results but as you talked about relying on some new software features to do it. I wonder if you might talk about any steps you're taking in the roadmap to really upgrade performance for the installed base of games?",
+          "You noted in the pre-announcement something about the write down having to do with DRAM. I mean obviously that commodity pricing has been volatile. Is there anything you can talk about how big of an effect that might have on the business and on pricing overall?"
+        ]
+      },
+      {
+        "analyst": "Aaron Rakers",
+        "firm": "Wells Fargo",
+        "topics": ["Turing Pricing", "China Market"],
+        "questions": [
+          "Has the company invoked any changes in your pricing strategy around Turing?",
+          "Can you help us frame how important China is to the gaming segment and whether or not you're assuming that the China market rebounds in your annual assumptions?"
+        ]
+      },
+      {
+        "analyst": "Mark Lipacis",
+        "firm": "Jefferies",
+        "topic": "OpEx Growth",
+        "question": "Could you just repeat what you said you thought the OpEx would grow in this fiscal year? And what is the focus of that investment, to what extent this is R&D versus SG&A?"
+      },
+      {
+        "analyst": "Mitch Steves",
+        "firm": "RBC Capital Markets",
+        "topic": "Gross Margins",
+        "question": "If I look out let's call it a year or even 18 months to make it more of a long-term target. Is there any reason why you guys can't get back up to the mid 6s level?"
+      },
+      {
+        "analyst": "Blayne Curtis",
+        "firm": "Barclays",
+        "topic": "Data Center Slowdown",
+        "question": "Obviously, a pause in data center particularly with the hyperscale, it's pretty well documented. Can you give us any perspective as to how widespread is maybe number of customers or geographic perspective, and just curious how AI is affected with this greater slow down?"
+      },
+      {
+        "analyst": "Pierre Ferragu",
+        "firm": "New Street Research",
+        "topics": ["Cloud Growth", "2020 Outlook"],
+        "questions": [
+          "How much you guys have been increasing revenues within your cloud business, did you grow faster than CPUs? Did you go faster than overall CapEx?",
+          "When we listen to players like Google and Facebook and others, they all seem to be seemed like very tuned to grow their overall spending this year. Is that just because I've been more optimistic than you?"
+        ]
+      },
+      {
+        "analyst": "Harlan Sur",
+        "firm": "JP Morgan",
+        "topic": "China Gaming",
+        "question": "On the China gaming weakness, is it the slower economic environment or is it government policy related? Because we know that the Chinese government has had a freeze on new gaming approvals, probably recently started to approve new games."
+      }
+    ]
+  }

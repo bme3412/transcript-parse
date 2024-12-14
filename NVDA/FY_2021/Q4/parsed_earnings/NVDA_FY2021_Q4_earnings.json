@@ -1,0 +1,432 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q4",
+  "fiscal_year": "2021",
+  "total_revenue": {
+    "value": 5.0,
+    "unit": "billion",
+    "context": "Record quarter with revenue exceeding $5 billion, up 61% YoY",
+    "period": "Q4"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 2.5,
+        "unit": "billion",
+        "context": "Record revenue driven by NVIDIA Ampere GPU architecture-based GeForce RTX 30 series GPUs and strong demand",
+        "period": "Q4"
+      },
+      "growth_yoy": 67.0,
+      "growth_qoq": 10.0,
+      "key_points": [
+        "Launched GeForce RTX 3060 Ti in early December, joining RTX 3090, 3080, and 3070",
+        "Entire 30 Series lineup had low channel inventories",
+        "GeForce RTX 30 series graphics cards were a holiday sensation with advanced features like ray tracing and DLSS",
+        "Three dozen games support RTX, including Fortnite, Cyberpunk 2077, World of Warcraft, and Minecraft",
+        "Introduced new Ampere architecture gaming products at CES in January, including GeForce RTX 3060, 3070, 3080 laptop GPUs with Max-Q technology",
+        "Gaming laptops market grew seven-fold in past seven years with over 70 laptop models based on GeForce RTX 30 series",
+        "Launched GeForce RTX 3060 GPU priced at $329 extending 30 series into mainstream",
+        "Addressed cryptomining by introducing software drivers reducing mining efficiency for RTX 3060",
+        "Cryptomining contributed $100 million to $300 million to Q4 revenue",
+        "Announced NVIDIA CMPs, cryptomining processors, to be shipped in March with expected contribution of $15 million in Q1"
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 307.0,
+        "unit": "million",
+        "context": "Revenue driven by recovery in desktop workstations and record notebook GPUs",
+        "period": "Q4"
+      },
+      "growth_yoy": -10.0,
+      "growth_qoq": 30.0,
+      "key_points": [
+        "Sequential growth driven by recovery in desktop workstations as some customers returned to office",
+        "Notebook GPUs grew to a record as enterprises support remote workforce initiatives",
+        "Healthcare was a standout vertical with orders from GE, Siemens, and Oxford Nanopore Technologies",
+        "Omniverse, real-time 3D collaboration and simulation platform, entered open beta with over 500 creators and professionals testing",
+        "Strength in public sector and automotive",
+        "Expect longer-term shift to notebook GPUs and cloud offerings due to workforce trends"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 145.0,
+        "unit": "million",
+        "context": "Revenue driven by recovering global automotive production volumes and growth in AI cockpit revenue",
+        "period": "Q4"
+      },
+      "growth_yoy": -11.0,
+      "growth_qoq": 16.0,
+      "key_points": [
+        "Continued recovery in global automotive production volumes",
+        "Growth in AI cockpit revenue",
+        "NVIDIA as leading end-to-end full stack technology provider for self-driving and AI enabled vehicles",
+        "Partnerships with NIO, SAIC, Li Auto, Xpeng using NVIDIA DRIVE platform",
+        "Zoox unveiled Level 5 bi-directional robotaxi powered by NVIDIA",
+        "Mercedes announced 56-inch wide MBUX Hyperscreen powered by NVIDIA AI cockpit",
+        "Built multi-billion dollar design win pipeline for self-driving and AI cockpit solutions"
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 1.9,
+        "unit": "billion",
+        "context": "Revenue driven by strong ramp of A100-based platforms and continued growth with Mellanox",
+        "period": "Q4"
+      },
+      "growth_yoy": 97.0,
+      "growth_qoq": 0.0,
+      "key_points": [
+        "Compute revenue up 45% YoY",
+        "Full-year data center revenue up 125% to $6.7 billion",
+        "Hyperscale customers deployed A100 for internal workloads",
+        "Adoption by all major cloud customers globally",
+        "DGX system sales were strong",
+        "Vertical industries accounted for over 50% of data center revenue",
+        "Cambridge-1, NVIDIA powered supercomputer with 400 petaflops of AI performance"
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue up over 30% compared to Q4 2019 standalone",
+        "Year-on-year growth led by hyperscale and large consumer internet customers, up over 60%",
+        "Sequential decline impacted by non-recurring sales to China OEM in Q3",
+        "Expect sequential growth in Q1 driven by strong demand for high speed networking products and ConnectX adapters with CSPs and server OEMs",
+        "Strong momentum in high-performance computing with HDR InfiniBand products",
+        "Winning six of seven supercomputers awarded by Euro HPC",
+        "Will no longer break out Mellanox revenue separately"
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4"
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4"
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q4"
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 63.1,
+      "unit": "%",
+      "context": "Q4 GAAP gross margin",
+      "period": "Q4"
+    },
+    "operating_margin": null,
+    "net_income": null,
+    "cash_flow": {
+      "value": 2.07,
+      "unit": "billion",
+      "context": "Cash flow from operations in Q4",
+      "period": "Q4"
+    },
+    "other_metrics": {
+      "geforce_now_users": {
+        "value": 6.0,
+        "unit": "million",
+        "context": "GeForce NOW registered users increased to over 6 million members",
+        "period": "Q4"
+      },
+      "cryptomining_revenue": {
+        "value": [0.1, 0.3],
+        "unit": "billion",
+        "context": "Cryptomining contributed $100 million to $300 million to Q4 revenue",
+        "period": "Q4"
+      },
+      "omniverse_testers": {
+        "value": 500,
+        "unit": "creators and professionals",
+        "context": "Over 500 creators and professionals tested Omniverse through early access program",
+        "period": "Q4"
+      }
+    }
+  },
+  "future_guidance": {
+    "q1_revenue": {
+      "value": 5.3,
+      "unit": "billion",
+      "context": "Expected revenue for Q1, plus or minus 2%",
+      "period": "Q1"
+    },
+    "q1_gross_margin": {
+      "gaap": 63.8,
+      "non_gaap": 66.0,
+      "unit": "%",
+      "context": "Expected GAAP and non-GAAP gross margins for Q1",
+      "period": "Q1"
+    },
+    "q1_operating_expenses": {
+      "gaap": 1.67,
+      "non_gaap": 1.2,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP operating expenses for Q1",
+      "period": "Q1"
+    },
+    "q1_other_income_expenses": {
+      "value": -0.05,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP other income and expenses as expense",
+      "period": "Q1"
+    },
+    "q1_tax_rates": {
+      "value": 10,
+      "unit": "%",
+      "context": "Expected GAAP and non-GAAP tax rates, excluding discrete items",
+      "period": "Q1"
+    },
+    "capital_expenditures": {
+      "value": [0.3, 0.325],
+      "unit": "billion",
+      "context": "Expected capital expenditures",
+      "period": "Full-year"
+    },
+    "full_year_non_gaap_opex_growth": {
+      "value": 20,
+      "unit": "%",
+      "context": "Expected to grow non-GAAP operating expenses in mid-20% range for full-year",
+      "period": "Full-year"
+    }
+  },
+  "strategic_initiatives": [
+    "Announced NVIDIA CMPs, cryptomining processors, to be shipped in March",
+    "Launched Omniverse platform, a real-time 3D collaboration and simulation platform",
+    "Introduced new Ampere architecture gaming products at CES in January",
+    "Partnerships with NIO, SAIC, Li Auto, Xpeng using NVIDIA DRIVE platform",
+    "Launched GeForce RTX 3060 GPU priced at $329 extending 30 series into mainstream",
+    "Proposed acquisition of Arm from SoftBank for $40 billion, expected to complete in 18 months"
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Gaming business remains on a robust growth trajectory with expanding universe of gamers and creators",
+      "cloud_gaming_expansion": "GeForce NOW offers 800 games from over 300 publishers and has expanded globally with over 65 countries",
+      "cryptocurrency_mining": "Introduced NVIDIA CMPs to address cryptocurrency mining and gain visibility into its contribution",
+      "accelerated_computing": "AI and accelerated computing driving data center and supercomputing growth"
+    },
+    {
+      "upcoming_events": [
+        "Raymond James Institutional Investors Conference on March 1st",
+        "Morgan Stanley Technology, Media and Telecom Conference on March 3rd",
+        "Arete Virtual Semis Conference on March 3rd"
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-11T21:49:43.024741",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "Q4 was another record quarter with revenue exceeding $5 billion and year-on-year growth accelerating to 61%.",
+      "Full-year revenue was also a record at $16.7 billion, up 53%.",
+      "Our Gaming business has reached record revenue of $2.5 billion in Q4, up 10% sequentially, and up 67% from a year earlier.",
+      "Full-year gaming revenue was a record at $7.8 billion, up 41%.",
+      "Demand is incredible for our new GeForce RTX 30 Series products based on the NVIDIA Ampere GPU architecture.",
+      "In early December, we launched the GeForce RTX 3060 Ti, which joined the previously launched RTX 3090, 3080, and 3070.",
+      "The entire 30 Series lineup has been hard to keep in stock and we exited Q4 with channel inventories even lower than when we started.",
+      "Although we are increasing supply, channel inventories will likely remain low throughout Q1.",
+      "GeForce RTX 30 series graphics cards were a holiday sensation due not just to their amazing performance, but also to the rich features, including our second-generation RTX ray tracing technologies and DLSS, AI-powered performance accelerator, which massively boost frame rates in graphically demanding titles.",
+      "Three dozen games now all support RTX, including the top Battle Royale game, Fortnite; the top role-playing game, Cyberpunk 2077; the top massively multiplayer online game, World of Warcraft; and the best-selling game of all time, Minecraft.",
+      "RTX has clearly set the new standard in gaming.",
+      "Building on this momentum at CES in January, we introduced a wave of Ampere architecture gaming products, including our biggest ever laptop launch powered by GeForce RTX 3060, 3070, and 3080 laptop GPUs and with our third-generation Max-Q technology.",
+      "These new thin and lightweight gaming laptops increased performance and energy efficiency by up to 2x from the prior generation.",
+      "RTX 3060 laptops start at $999 and are faster than the previous generation laptops, which sold for $2,500.",
+      "The incredible performance, design and price points of these new laptops will delight the growing universe of gamers and creators as well as students and professionals.",
+      "The gaming laptop market has grown seven-fold in the past seven years and momentum is building.",
+      "With top OEMs bringing to market a record 70-plus laptop models based on the GeForce RTX 30 series.",
+      "GeForce laptops as a whole are the fastest-growing and one of the largest gaming platforms.",
+      "Also at CES, we announced the GeForce RTX 3060 GPU, priced at $329, extending the 30 series desktop liner further into the mainstream.",
+      "We expect strong demand when it launches this Friday as 60-class GPUs have traditionally been our most popular products.",
+      "Starting with the 3060, we're taking an important step to maximize the supply of GeForce GPUs for gamers.",
+      "Users are constantly discovering new applications for our powerful programmable GPUs and cryptocurrency mining is one of them.",
+      "With rising Ethereum prices, there are indications that miners are behind GPUs.",
+      "We would like GeForce GPUs to end up with gamers.",
+      "So we have created a new special software driver that will detect the Ethereum mining algorithm cutting in half the mining efficiency of the GeForce RTX 3060.",
+      "We suspect the significant increase in the Ethereum network hash rate observed over the past few months was driven by a combination of previously installed mining capacities that was reactivated as well as new sales of GPUs and ASICs.",
+      "Since our GPUs are sold to graphics card manufacturers and then onto distribution, we don't have the ability to accurately track or quantify their end use.",
+      "Analyst estimates suggest that cryptomining contributed $100 million to $300 million to our Q4 revenue, a relatively small portion of our gaming revenue in Q4.",
+      "Cryptocurrencies have recently started to be accepted by companies and financial institutions and show increased signs of staying power to address industrial Ethereum mining demand.",
+      "Last week we announced a new line of NVIDIA CMPs or cryptomining processors.",
+      "Shipments will start in March.",
+      "CMPs lack display outputs and have other optimizations that improve cryptomining power efficiency.",
+      "CMP products will let us gain some visibility into the contribution of cryptomining to our overall revenue.",
+      "For Q1, we estimate that CMP will contribute approximately $15 million.",
+      "We plan to sell these products to industrial miners.",
+      "We will quantify their contribution each quarter for transparency.",
+      "Over the past year, it has become clear that we've entered a new era in which gaming is an integral part of global culture.",
+      "The number of concurrent users on Steam has more than doubled since 2018 and continues to hit new records.",
+      "In 2020 alone, more than 100 billion hours of gaming content was seen on YouTube and 0.5 billion people watched e-sports.",
+      "Increasingly, we aren't just gaming.",
+      "We're also watching sports, attending concerts, creating content and connecting with our friends in virtual environments.",
+      "Additionally, we are excited about the new experiences like VR.",
+      "Significantly more content is now available, including arguably the first VR killer app, Beat Saber, and there is now almost 2 million VR users on Steam.",
+      "And with these powerful structural shifts, we expect our gaming business to remain on a robust growth trajectory.",
+      "The GeForce RTX 30 Series GPUs have kicked off a powerful upgrade cycle and we estimate only around 15% of GeForce gamers own an RTX GPU, which is needed to experience the beautiful ray trace graphics of modern games.",
+      "Moreover, the universe of gamers is rapidly expanding and the reach of GeForce has extended beyond gamers to some 45 million creators.",
+      "In addition, gaming revenue continues to benefit from a favorable mix shift as gamers and creators keep moving to higher-end GPUs, we expect another great year for GeForce.",
+      "Earlier this month, we celebrated the one year anniversary of the GeForce NOW cloud gaming platform, which is now over 6 million members strong.",
+      "GeForce NOW offers 800 games from over 300 publishers, more than any other cloud gaming service including any of the most played free-to-play games, starting with support for Windows PCs, Macs, and Android devices we added support in recent months to Chromebooks, iPhones and iPads.",
+      "GFN has grown globally with more than 65 countries on our service and more – added regularly by our GeForce NOW alliance partners."
+    ],
+    "gaming": [
+      "Q4 revenue was a record $2.5 billion, up 10% sequentially, up 67% year-on-year, and ahead of our high expectations.",
+      "Driving strong growth was our new NVIDIA Ampere GPU architecture-based GeForce RTX 30 series of gaming GPUs.",
+      "The GeForce RTX 3060 Ti, RTX 3090, 3080 and 3070 GPUs offer up to two times the performance and two times the power efficiency over the previous generation.",
+      "The second generation NVIDIA RTX combines ray tracing and AI to deliver the greatest ever generational leap in performance.",
+      "These GPUs have generated amazing reviews and overwhelming demand. PC World called them 'staggeringly powerful', while Newegg cited more traffic than Black Friday.",
+      "Many of our retail and e-tail partners sold out instantly, the RTX 30 series drove our biggest ever launch.",
+      "While we anticipated strong demand, it exceeded even our bullish expectations.",
+      "Given industry-wide capacity constraints and long cycle times, it may take a few more months for product availability to catch up with demand.",
+      "In addition to the NVIDIA Ampere GPU architecture, we announced powerful new tools for gamers, live streamers, eSports professionals, artists and creators.",
+      "NVIDIA Reflex improves reaction time in games, reducing system latency by up to 58%. It is being integrated into popular eSports games such as Apex Legends, Call of Duty: Warzone, Fortnite and Valorant.",
+      "NVIDIA Broadcast is a universal plugin for video conferencing and live streaming applications that enhances the quality of microphones, speakers and webcams with NVIDIA AI effects.",
+      "Blockbuster games continue to adopt NVIDIA’s RTX ray tracing and AI technology. Epic Games announced that Fortnite is adding NVIDIA RTX real-time ray tracing, DLSS AI super-resolution and NVIDIA Reflex.",
+      "Other major new titles featuring RTX this holiday season include Watch Dogs: Legion, Call of Duty: Black Ops Cold War, and Cyberpunk 2077.",
+      "Gaming laptop demand was also strong with double-digit year-on-year growth for the 11th quarter in a row.",
+      "NVIDIA GeForce laptops support the most demanding applications for creators and designers while doubling as a powerful gaming system.",
+      "We also have record gaming console revenue on strong demand for the Nintendo Switch.",
+      "We continue to grow our cloud gaming service, GeForce NOW, which has doubled in the past seven months to reach over 6 million registered users.",
+      "GeForce NOW is unique as an open platform connecting to popular game stores, giving gamers access to titles they already own.",
+      "800 games are currently available on GFN, including 75 free-to-play games, with more added regularly.",
+      "GFN supports many popular clients, including PCs, Macs, Chromebooks, iPhones and iPads. Stay tuned for more devices to come.",
+      "GFN’s reach expands through GeForce NOW alliance partners in over 65 countries.",
+      "Following our earlier announcement with Tencent, Amazon and Facebook are beginning to offer cloud gaming services powered by NVIDIA."
+    ],
+    "proviz": [
+      "Q4 revenue was $307 million, up 30% sequentially and down 10% year-on-year, ahead of our expectations.",
+      "Sequential growth was driven primarily by a recovery in desktop workstations as some customers returned to the office and enterprises resumed purchases that had been deferred by the pandemic.",
+      "Notebook GPUs grew sequentially to a record as enterprises continue to support remote workforce initiatives.",
+      "This was partially offset by a year-on-year decline in desktop workstations, which continued to be impacted by the pandemic.",
+      "From an industry demand perspective, stronger verticals include healthcare, public sector, higher education and research, and financial services.",
+      "We continue to win new business in areas like healthcare (GE, Siemens, Oxford Nanopore Technologies), public sector and automotive.",
+      "During the quarter, we announced Omniverse, the world’s first real-time 3D collaboration and simulation platform, entering open beta.",
+      "Omniverse enables over 500 creators and professionals to collaborate in real time, on-premises or remotely.",
+      "Omniverse is one of our most important and exciting platforms, and we look forward to sharing more details on its long-term growth opportunity in the coming months.",
+      "The reopening of businesses will benefit desktop workstations, but longer-term workforce trends will likely shift our mix to notebook GPUs and cloud offerings."
+    ],
+    "automotive": [
+      "Q4 revenue was $145 million, up 16% sequentially and down 11% year-on-year.",
+      "Sequential growth was driven by continued recovery in global automotive production volumes and growth in AI cockpit revenue.",
+      "Year-on-year decline reflects the expected ramp down of legacy infotainment.",
+      "NVIDIA has emerged as the industry's leading end-to-end full stack technology provider for self-driving and AI enabled vehicles.",
+      "Our software-defined NVIDIA DRIVE platform delivers unrivaled 254 trillion operations per second of performance on industry-leading power efficiency, helping to revolutionize the transportation industry.",
+      "Our technology leadership has driven a robust, rapidly growing set of opportunities.",
+      "We have great momentum with an expanding list of electric vehicle OEMs, including NIO, SAIC, Li Auto and Xpeng, which are all using the NVIDIA DRIVE platform to power their next generation of vehicles.",
+      "We look forward to growing with them as they continue to scale.",
+      "Our software-defined platforms is the only solution that spans from the data center for training deep neural nets and running physically accurate simulations to full stack in-car solutions scaling for ADAS to Level 5 fully autonomous functionality.",
+      "Autonomous vehicle companies are harnessing this technology.",
+      "Zoox recently unveiled its Level 5 bi-directional robotaxi powered by NVIDIA, and wide launched its next generation autonomous truck using NVIDIA DRIVE Orin.",
+      "Earlier this year, Mercedes announced a 56-inch wide MBUX Hyperscreen powered by NVIDIA AI cockpit technology.",
+      "This builds on our momentum with Mercedes first-generation MBUX system, which is now in 1.8 million cars.",
+      "We are in the early innings of a significant opportunity.",
+      "We have built a multi-billion dollar design win pipeline for our self-driving and AI cockpit solutions, which will drive a material inflection in revenue over the next few years.",
+      "Our transformational partnership with Mercedes announced last June demonstrates the power of our evolving business model as we expand our addressable market and layer in software revenue.",
+      "We are exceptionally well positioned to capitalize on the significant opportunity that lies ahead."
+    ],
+    "data_center": [
+      "Revenue was $1.9 billion, which exceeded our expectations, was comparable to last quarter, and up 97% from the year ago period, which did not include Mellanox.",
+      "Data center compute revenue was up 45% year-on-year.",
+      "Full-year data center revenue rose 125% to a record $6.7 billion, including almost 70% growth from data center compute.",
+      "From a sequential perspective, the data center compute was stronger than expected with double-digit growth more than offset the anticipated decline in Mellanox revenue, which included a large non-recurring network sale to a single OEM in Q3.",
+      "Compute growth was led by vertical industries where OEM partners continued ramping up their 100-day 100-base servers and our own DGX system sales were strong.",
+      "Vertical industries accounted for over 50% of data center revenue across compute and networking with particular strength in supercomputing, financial services, higher education and consumer internet verticals.",
+      "Hyperscale customers continued to deploy the A100 driving both sequential growth and exceptionally strong year-on-year growth in data center compute.",
+      "The A100 has been adopted by all major cloud customers globally and is being deployed by hyperscale customers for internal workloads.",
+      "Still, we are in the early stages of adoption and expect continued growth this year.",
+      "The ramp of the A100 has been smoother and accomplished with better visibility than prior generation.",
+      "Its universal AI training and inference capabilities as well as support for a wider set of applications and outstanding performance are driving five customer utilizations; a clear sign of the A100's value.",
+      "Turning to Mellanox. We are seeing continued strong traction and robust momentum across our customer set.",
+      "Its revenue was up over 30% from Mellanox's Q4 revenue in calendar 2019 when it was still a standalone company.",
+      "Year-on-year growth in the quarter was led by hyperscale and large consumer internet customers, which grew over 60% from last year with several contributing record revenues.",
+      "Consistent with our outlook, Mellanox had a sequential decline impacted by a non-recurring sale to a China OEM in Q3.",
+      "We expect to return to sequential growth in Q1 driven by strong demand for our high-speed networking products, including the ramp of ConnectX adapters with CSPs and all major server OEMs in their upcoming refresh.",
+      "We also see strong momentum in high-performance computing with HDR InfiniBand products.",
+      "For example, we won six of the seven supercomputers awarded over the past few months by Euro HPC.",
+      "Starting next quarter, we will continue to provide color on networking as part of the data center market platform, but we will no longer break out Mellanox revenue separately.",
+      "Looking forward, we are incredibly excited about the opportunities in data center.",
+      "Accelerated computing is not only delivering superior performance but also an energy-efficient and cost-effective method of computing, and virtually every industry is adopting technology with greater urgency as companies adapt to the new world of more distributed workers and customers.",
+      "As industries embark on this journey, they are also increasingly focused on combating climate change.",
+      "To that end, the A100 performed AI computations with one-twentieth the power consumption of CPUs.",
+      "And powers Selene supercomputer, which is number one on the Green500 list of the world's most efficient supercomputers.",
+      "Indeed, NVIDIA's powered machines recently captured 25 of the top 30 spots on the Green500 list.",
+      "Accelerated computing is not only serving the exponential growth and demand for compute; it can also help bend the power consumption curve.",
+      "With accelerated computing NVIDIA is pioneering a forward step in the computing industry.",
+      "Before I moved to the P&L and outlook, let me give you an update on our proposed acquisition of Arm.",
+      "In September, we announced plans to acquire Arm from SoftBank Group and a transaction that will create the premier computing company for the age of AI.",
+      "At that time, we said it would take approximately 18 months to secure regulatory approvals in the U.S., the UK, the EU, China and other jurisdictions.",
+      "Thorough reviews are typical with the deal of this size.",
+      "This process is moving forward as expected.",
+      "We are in constructive dialogue with the relevant authorities and are confident that regulators will see the benefits to the entire tech ecosystem.",
+      "As we have said, this combination will spur competition together Arm and Nvidia will provide greater choice to the data center ecosystem, a compelling alternative CPU architecture for the market and further enhance Arm's offering in mobile and embedded.",
+      "Our intention is to increase investment in Arm's existing roadmap, adding resources to stimulate growth in new markets.",
+      "We intend to maintain Arm's open licensing model, a commitment guaranteed both by long-term legally binding contracts, as well as our own interest in ensuring this investment is a profitable one for us.",
+      "We are on the cusp of a new age in which AI fuels industries ranging from healthcare to scientific research to the environment.",
+      "With this transaction, our vision is to boost Arm's potential, so it can thrive in this new era and grow into promising new markets.",
+      "Moving to the rest of the P&L.",
+      "Q4 GAAP gross margins were 63.1% and non-GAAP gross margins were 65.5%.",
+      "GAAP gross margins declined year-on-year due to amortization of developed technology acquired from Mellanox, partially offset by product mix.",
+      "The sequential increase was due to higher margins for gaming GPU and lower IP related costs, partially offset by lower margin mix in our data center portfolio.",
+      "Non-GAAP gross margins increased by 10 basis points year-on-year and were flat sequentially in line with our expectations.",
+      "Q4 GAAP EPS was $2.31, up 51% from a year earlier.",
+      "Non-GAAP EPS was $3.10, up 64% from a year ago.",
+      "Q4 cash flow from operations was a record $2.07 billion.",
+      "With that, let me turn to the outlook for the first quarter of fiscal 2022.",
+      "Revenue is expected to be $5.3 billion plus or minus 2% with most of the sequential growth driven by gaming.",
+      "GAAP and non-GAAP gross margins are expected to be 63.8% and 66% respectively plus or minus 50 basis points.",
+      "GAAP and non-GAAP operating expenses are expected to be approximately $1.67 billion and $1.2 billion respectively.",
+      "For the full-year we expect to grow non-GAAP operating expenses in the mid-20% range.",
+      "GAAP and non-GAAP other income and expenses are both expected to be an expense of approximately $50 million.",
+      "GAAP and non-GAAP tax rates are both expected to be 10% plus or minus 1%, excluding discrete items.",
+      "Capital expenditures are expected to be approximately $300 million to $325 million.",
+      "Further financial details are included in the CFO commentary and other information on our IR website.",
+      "In closing, let me highlight upcoming events for the financial community.",
+      "We will be virtually attending the Raymond James Institutional Investors Conference on March 1st.",
+      "The Morgan Stanley Technology, Media and Telecom Conference on March 3rd;",
+      "and the Arete Virtual Semis Conference on March 3rd."
+    ],
+    "q4_outlook": [
+      "Revenue is expected to be $5.3 billion plus or minus 2% with most of the sequential growth driven by gaming.",
+      "GAAP and non-GAAP gross margins are expected to be 63.8% and 66% respectively plus or minus 50 basis points.",
+      "GAAP and non-GAAP operating expenses are expected to be approximately $1.67 billion and $1.2 billion respectively.",
+      "For the full-year we expect to grow non-GAAP OPEX in the mid-20% range.",
+      "GAAP and non-GAAP other income and expenses are both expected to be an expense of approximately $50 million.",
+      "GAAP and non-GAAP tax rates are both expected to be 10% plus or minus 1%, excluding discrete items.",
+      "Capital expenditures are expected to be approximately $300 million to $325 million."
+    ],
+    "investor_relations": [
+      "We will be virtually attending the Raymond James Institutional Investors Conference on March 1st.",
+      "The Morgan Stanley Technology, Media and Telecom Conference on March 3rd;",
+      "and the Arete Virtual Semis Conference on March 3rd."
+    ]
+  }
+}

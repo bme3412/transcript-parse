@@ -1,0 +1,182 @@
+[
+  {
+    "company_name": "NVIDIA",
+    "quarter": "Q1",
+    "fiscal_year": "2025",
+    "speakers": {
+      "jensen_huang": {
+        "role": "CEO",
+        "responses": [
+          {
+            "topic": "Blackwell Production and Revenue",
+            "content": "We will be shipping. Well, we've been in production for a little bit of time. But our production shipments will start in Q2 and ramp in Q3, and customers should have data centers stood up in Q4."
+          },
+          {
+            "topic": "Blackwell Revenue",
+            "content": "We will see a lot of Blackwell revenue this year."
+          },
+          {
+            "topic": "Blackwell vs Hopper Deployment",
+            "content": "Yes. Blackwell comes in many configurations. Blackwell is a platform, not a GPU. And the platform includes support for air cooled, liquid cooled, x86 and Grace, InfiniBand, now Spectrum-X and very large NVLink domain that I demonstrated at GTC, that I showed at GTC. And so for some customers, they will ramp into their existing installed base of data centers that are already shipping Hoppers. They will easily transition from H100 to H200 to B100. And so Blackwell systems have been designed to be backwards compatible, if you will, electrically, mechanically. And of course, the software stack that runs on Hopper will run fantastically on Blackwell. We also have been priming the pump, if you will, with the entire ecosystem, getting them ready for liquid cooling. We've been talking to the ecosystem about Blackwell for quite some time. And the CSPs, the data centers, the ODMs, the system makers, our supply chain beyond them, the cooling supply chain base, liquid cooling supply chain base, data center supply chain base, no one is going to be surprised with Blackwell coming and the capabilities that we would like to deliver with Grace Blackwell 200. GB200 is going to be exceptional."
+          },
+          {
+            "topic": "Product Utilization and Supply Constraints",
+            "content": "Well, I guess, there's the big picture view that I'll come to, and then, but I'll answer your question directly. The demand for GPUs in all the data centers is incredible. We're racing every single day. And the reason for that is because applications like ChatGPT and GPT-4o, and now it's going to be multi-modality and Gemini and its ramp and Anthropic and all of the work that's being done at all the CSPs are consuming every GPU that's out there. There's also a long line of generative AI startups, some 15,000, 20,000 startups that in all different fields from multimedia to digital characters, of course, all kinds of design tool application -- productivity applications, digital biology, the moving of the AV industry to video, so that they can train end-to-end models, to expand the operating domain of self-driving cars. The list is just quite extraordinary. We're racing actually. Customers are putting a lot of pressure on us to deliver the systems and stand it up as quickly as possible. And of course, I haven't even mentioned all of the Sovereign AIs who would like to train all of their regional natural resource of their country, which is their data to train their regional models. And there's a lot of pressure to stand those systems up. So anyhow, the demand, I think, is really, really high and it outstrips our supply. Longer term, that's what -- that's the reason why I jumped in to make a few comments. Longer term, we're completely redesigning how computers work. And this is a platform shift. Of course, it's been compared to other platform shifts in the past. But time will clearly tell that this is much, much more profound than previous platform shifts. And the reason for that is because the computer is no longer an instruction-driven only computer. It's an intention-understanding computer. And it understands, of course, the way we interact with it, but it also understands our meaning, what we intend that we asked it to do and it has the ability to reason, inference iteratively to process a plan and come back with a solution. And so every aspect of the computer is changing in such a way that instead of retrieving prerecorded files, it is now generating contextually relevant intelligent answers. And so that's going to change computing stacks all over the world. And you saw a build that, in fact, even the PC computing stack is going to get revolutionized. And this is just the beginning of all the things that -- what people see today are the beginning of the things that we're working in our labs and the things that we're doing with all the startups and large companies and developers all over the world. It's going to be quite extraordinary."
+          },
+          {
+            "topic": "Hopper Demand and Transition to Blackwell",
+            "content": "We see increasing demand of Hopper through this quarter. And we expect to be -- we expect demand to outstrip supply for some time as we now transition to H200, as we transition to Blackwell. Everybody is anxious to get their infrastructure online. And the reason for that is because they're saving money and making money, and they would like to do that as soon as possible."
+          },
+          {
+            "topic": "NVIDIA's Competitive Edge in Accelerated Computing",
+            "content": "We're different in several ways. First, NVIDIA's accelerated computing architecture allows customers to process every aspect of their pipeline from unstructured data processing to prepare it for training, to structured data processing, data frame processing like SQL to prepare for training, to training to inference. And as I was mentioning in my remarks, that inference has really fundamentally changed, it's now generation. It's not trying to just detect the cat, which was plenty hard in itself, but it has to generate every pixel of a cat. And so the generation process is a fundamentally different processing architecture. And it's one of the reasons why TensorRT LLM was so well received. We improved the performance in using the same chips on our architecture by a factor of three. That kind of tells you something about the richness of our architecture and the richness of our software. So one, you could use NVIDIA for everything, from computer vision to image processing, the computer graphics to all modalities of computing. And as the world is now suffering from computing cost and computing energy inflation because general-purpose computing has run its course, accelerated computing is really the sustainable way of going forward. So accelerated computing is how you're going to save money in computing, is how you're going to save energy in computing. And so the versatility of our platform results in the lowest TCO for their data center. Second, we're in every cloud. And so for developers that are looking for a platform to develop on, starting with NVIDIA is always a great choice. And we're on-prem, we're in the cloud. We're in computers of any size and shape. We're practically everywhere. And so that's the second reason. The third reason has to do with the fact that we build AI factories. And this is becoming more an apparent to people that AI is not a chip problem only. It starts, of course, with very good chips and we build a whole bunch of chips for our AI factories, but it's a systems problem. In fact, even AI is now a systems problem. It's not just one large language model. It's a complex system of a whole bunch of large language models that are working together. And so the fact that NVIDIA builds this system causes us to optimize all of our chips to work together as a system, to be able to have software that operates as a system, and to be able to optimize across the system. And just to put it in perspective in simple numbers, if you had a $5 billion infrastructure and you improved the performance by a factor of two, which we routinely do, when you improve the infrastructure by a factor of two, the value too is $5 billion. All the chips in that data center doesn't pay for it. And so the value of it is really quite extraordinary. And this is the reason why today, performance matters everything. This is at a time when the highest performance is also the lowest cost because the infrastructure cost of carrying all of these chips cost a lot of money. And it takes a lot of money to fund the data center, to operate the data center, the people that goes along with it, the power that goes along with it, the real estate that goes along with it, and all of it adds up. And so the highest performance is also the lowest TCO."
+          },
+          {
+            "topic": "NVIDIA's Innovation and Future Roadmap",
+            "content": "Well, I can announce that after Blackwell, there's another chip. And we are on a one-year rhythm. And so and you can also count that -- count on us having new networking technology on a very fast rhythm. We're announcing Spectrum-X for Ethernet. But we're all in on Ethernet, and we have a really exciting road map coming for Ethernet. We have a rich ecosystem of partners. Dell announced that they're taking Spectrum-X to market. We have a rich ecosystem of customers and partners who are going to announce taking our entire AI factory architecture to market. And so for companies that want the ultimate performance, we have InfiniBand computing fabric. InfiniBand is a computing fabric, Ethernet is a network. And InfiniBand, over the years, started out as a computing fabric, became a better and better network. Ethernet is a network and with Spectrum-X, we're going to make it a much better computing fabric. And we're committed -- fully committed to all three links, NVLink computing fabric for single computing domain to InfiniBand computing fabric, to Ethernet networking computing fabric. And so we're going to take all three of them forward at a very fast clip. And so you're going to see new switches coming, new NICs coming, new capability, new software stacks that run on all three of them. New CPUs, new GPUs, new networking NICs, new switches, a mound of chips that are coming. And all of it, the beautiful thing is all of it runs CUDA. And all of it runs our entire software stack. So you invest today on our software stack, without doing anything at all, it's just going to get faster and faster and faster and faster. And if you invest in our architecture today, without doing anything, it will go to more and more clouds and more and more data centers and everything just runs. And so I think the pace of innovation that we're bringing will drive up the capability, on the one hand, and drive down the TCO on the other hand. And so we should be able to scale out with the NVIDIA architecture for this new era of computing and start this new industrial revolution where we manufacture not just software anymore, but we manufacture artificial intelligence tokens and we're going to do that at scale. Thank you."
+          }
+        ]
+      }
+    },
+    "analyst_questions": [
+      {
+        "analyst": "Stacy Rasgon",
+        "firm": "Bernstein",
+        "topics": [
+          "Blackwell Production",
+          "Shipment and Delivery Timing",
+          "Blackwell Revenue"
+        ],
+        "questions": [
+          "Hi, guys. Thanks for taking my questions. My first one, I wanted to drill a little bit into the Blackwell comment that it's in full production now. What does that suggest with regard to shipments and delivery timing if that product is -- doesn't sound like it's sampling anymore. What does that mean when that's actually in customers' hands if it's in production now?",
+          "Got it. So this year, we will see Blackwell revenue, it sounds like?"
+        ]
+      },
+      {
+        "analyst": "Timothy Arcuri",
+        "firm": "UBS",
+        "topics": [
+          "Blackwell vs Hopper Deployment",
+          "Liquid Cooling Challenges",
+          "System Transition"
+        ],
+        "questions": [
+          "Thanks a lot. I wanted to ask, Jensen, about the deployment of Blackwell versus Hopper just between the systems nature and all the demand for GB that you have. How does the deployment of this stuff differ from Hopper? I guess I ask because liquid cooling at scale hasn't been done before, and there's some engineering challenges both at the node level and within the data center. So do these complexities sort of elongate the transition? And how do you sort of think about how that's all going? Thanks."
+        ]
+      },
+      {
+        "analyst": "Vivek Arya",
+        "firm": "Bank of America Securities",
+        "topics": [
+          "Product Utilization",
+          "Supply Constraints",
+          "Monetization Strategies"
+        ],
+        "questions": [
+          "Thanks for taking my question. Jensen, how are you ensuring that there is enough utilization of your products and that there isn't a pull-ahead or holding behavior because of tight supply, competition or other factors? Basically, what checks have you built in the system to give us confidence that monetization is keeping pace with your really very strong shipment growth?"
+        ]
+      },
+      {
+        "analyst": "Joseph Moore",
+        "firm": "Morgan Stanley",
+        "topics": [
+          "Hopper Demand",
+          "Transition to Blackwell",
+          "Product Demand Sustainment"
+        ],
+        "questions": [
+          "Great. Thank you. I understand what you just said about how strong demand is. You have a lot of demand for H200 and for Blackwell products. Do you anticipate any kind of pause with Hopper and H100 as you sort of migrate to those products? Will people wait for those new products, which would be a good product to have? Or do you think there's enough demand for H100 to sustain growth?"
+        ]
+      },
+      {
+        "analyst": "Toshiya Hari",
+        "firm": "Goldman Sachs",
+        "topics": [
+          "Competition in Cloud Services",
+          "NVIDIA's Competitive Differentiation",
+          "Accelerated Computing Advantages"
+        ],
+        "questions": [
+          "Hi. Thank you so much for taking the question. Jensen, I wanted to ask about competition. I think many of your cloud customers have announced new or updates to their existing internal programs, right, in parallel to what they're working on with you guys. To what extent did you consider them as competitors, medium to long term? And in your view, do you think they're limited to addressing most internal workloads or could they be broader in what they address going forward? Thank you."
+        ]
+      },
+      {
+        "analyst": "Matt Ramsay",
+        "firm": "TD Cowen",
+        "topics": [
+          "Data Center Product Depreciation",
+          "Customer Transition Strategies",
+          "Innovation Velocity"
+        ],
+        "questions": [
+          "Thank you very much. Good afternoon, everyone. Jensen, I've been in the data center industry my whole career. I've never seen the velocity that you guys are introducing new platforms at the same combination of the performance jumps that you're getting, I mean, 5x in training. Some of the stuff you talked about at GTC up to 30x in inference. And it's an amazing thing to watch but, it also creates an interesting juxtaposition where the current generation of product that your customers are spending billions of dollars on, it's going to be not as competitive with your new stuff, very, very much more quickly than the depreciation cycle of that product. So I'd like you to -- if you wouldn't mind speak a little bit about how you're seeing that situation evolve itself with customers. As you move to Blackwell, you're going to have very large installed bases, obviously software compatible, but large installed bases of product that's not nearly as performant as your new generation stuff. And it'd be interesting to hear what you see happening with customers along that path. Thank you."
+        ]
+      },
+      {
+        "analyst": "Mark Lipacis",
+        "firm": "Evercore ISI",
+        "topics": [
+          "General-Purpose Computing Risks",
+          "Workload Variability",
+          "Accelerated vs Custom Solutions"
+        ],
+        "questions": [
+          "Hi. Thanks for taking my question. Jensen, in the past, you've made the observation that general-purpose computing ecosystems typically dominated each computing era. And I believe the argument was that they could adapt to different workloads, get higher utilization, drive cost of compute cycle down. And this is a motivation for why you were driving to a general-purpose GPU CUDA ecosystem for accelerated computing. And if I mischaracterized that observation, please do let me know. So the question is, given that the workloads that are driving demand for your solutions are being driven by neural network training and inferencing, which on the surface seem like a limited number of workloads, then it might also seem to lend themselves to custom solutions. And so then the question is about does the general purpose computing framework become more at risk or is there enough variability or a rapid enough evolution on these workloads that support that historical general purpose framework? Thank you."
+        ]
+      },
+      {
+        "analyst": "Blayne Curtis",
+        "firm": "Jefferies",
+        "topics": [
+          "Supply Allocation for China Products",
+          "Sales Impact",
+          "Gross Margin Considerations"
+        ],
+        "questions": [
+          "Thanks for taking my question. Actually kind of curious, I mean, being supply constrained, how do you think about , I mean, you came out with a product for China, H20. I'm assuming there'd be a ton of demand for it, but obviously, you're trying to serve your customers with the other Hopper products. Just kind of curious how you're thinking about that in the second half. You could elaborate any impact, what you're thinking for sales as well as gross margin."
+        ]
+      },
+      {
+        "analyst": "Srini Pajjuri",
+        "firm": "Raymond James",
+        "topics": [
+          "Demand for GB200 Systems",
+          "System Configuration",
+          "Energy Efficiency"
+        ],
+        "questions": [
+          "Thank you. Jensen, actually more of a clarification on what you said. GB 200 systems, it looks like there is a significant demand for systems. Historically, I think you've sold a lot of HGX boards and some GPUs and the systems business was relatively small. So I'm just curious, why is it that now you are seeing such a strong demand for systems going forward? Is it just the TCO or is it something else or is it just the architecture? Thank you."
+        ]
+      },
+      {
+        "analyst": "William Stein",
+        "firm": "Truist Securities",
+        "topics": [
+          "ARM-based Grace CPU Advantages",
+          "Client-Side Computing Dynamics",
+          "Emerging AI Workloads"
+        ],
+        "questions": [
+          "Great. Thanks for taking my question. Jensen, at some point, NVIDIA decided that while there are reasonably good CPUs available for data center operations, your ARM-based Grace CPU provides some real advantage that made that technology worth delivering to customers, perhaps related to cost or power consumption or technical synergies between Grace and Hopper, Grace and Blackwell. Can you address whether there could be a similar dynamic that might emerge on the client side, whereby while there are very good solutions, you've highlighted that Intel and AMD are very good partners and deliver great products in x86, but there might be some, especially in emerging AI workloads, some advantage that NVIDIA can deliver that others have more of a challenge?"
+        ]
+      },
+      {
+        "analyst": "C.J. Muse",
+        "firm": "Cantor Fitzgerald",
+        "topics": [
+          "Pace of Innovation",
+          "Scaling Challenges",
+          "Future Frictions"
+        ],
+        "questions": [
+          "Good afternoon. Thank you for taking the question. I guess, Jensen, a bit of a longer-term question. I know Blackwell hasn't even launched yet, but obviously, investors are forward-looking and amidst rising potential competition from GPUs and custom ASICs, how are you thinking about NVIDIA's pace of innovation and your million-fold scaling over the last decade, truly impressive. CUDA, Varsity, Precision, Grace, Cohere and Connectivity. When you look forward, what frictions need to be solved in the coming decade? And I guess, maybe, more importantly, what are you willing to share with us today?"
+        ]
+      }
+    ],
+    "metadata": {
+      "parsed_date": "2024-04-27T10:00:00.000Z",
+      "company_ticker": "NVDA",
+      "source": "earnings_call_transcript"
+    }
+  }
+]

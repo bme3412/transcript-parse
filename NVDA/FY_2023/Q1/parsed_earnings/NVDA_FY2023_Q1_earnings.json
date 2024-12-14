@@ -1,0 +1,316 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q1",
+  "fiscal_year": "2023",
+  "total_revenue": {
+    "value": 8.3,
+    "unit": "billion",
+    "context": "Total revenue of $8.3 billion was a record, up 8% sequentially and up 46% year-on-year.",
+    "period": "Q1"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 3.6,
+        "unit": "billion",
+        "context": "Revenue of $3.6 billion rose 6% sequentially and 31% year-on-year, powered by the GeForce RTX 30 Series product cycle.",
+        "period": "Q1"
+      },
+      "growth_yoy": 31.0,
+      "growth_qoq": 6.0,
+      "key_points": [
+        "Powered by the GeForce RTX 30 Series product cycle, the best Gaming product cycle ever since its launch in fall 2020.",
+        "The gaming industry has grown with 100 million new PC gamers added in the past two years according to Newzoo.",
+        "NVIDIA RTX has set new industry standards with demand from both first-time GPU buyers and those upgrading their PCs.",
+        "Nearly one-third of the GeForce Gaming GPU installed base is now on RTX.",
+        "Sustained expansion in higher-end platforms and installed base with significant runway ahead.",
+        "End demand remained solid though mixed by region; strong in Americas, softness in parts of Europe and China.",
+        "Projection of Gaming revenue to decline sequentially in Q2 due to new architectural transition.",
+        "Channel inventory has nearly normalized and is expected to remain stable in Q2.",
+        "Cryptocurrency mining's contribution to Gaming demand is diminishing.",
+        "Laptop Gaming revenue posted strong sequential and year-on-year growth with over 180 laptop models featuring RTX 30 Series GPUs.",
+        "Expansion of GeForce NOW with RTX 3080 class streaming and over 1,300 games in the library."
+      ]
+    },
+    {
+      "name": "ProViz",
+      "revenue": {
+        "value": 0.622,
+        "unit": "billion",
+        "context": "Q1 revenue was $622 million, down 3% sequentially and up 67% year-on-year.",
+        "period": "Q1"
+      },
+      "growth_yoy": 67.0,
+      "growth_qoq": -3.0,
+      "key_points": [
+        "Demand remains strong as enterprises build out remote office infrastructure to support hybrid work.",
+        "Sequential growth driven by mobile workstation GPUs, offset by lower desktop revenue.",
+        "Strong year-on-year growth supported by NVIDIA RTX Ampere architecture product cycle.",
+        "Top use cases include digital content creation at Sony Pictures Animation and medical imaging at Medtronic.",
+        "Omniverse enterprise software adopted by major companies like Amazon, Kroger, and PepsiCo for digital twins and optimization.",
+        "Expansion of the Omniverse ecosystem with third-party developers in robotics, industrial automation, 3D design, and rendering."
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.138,
+        "unit": "billion",
+        "context": "Q1 revenue of $138 million, increased 10% sequentially and declined 10% year-on-year.",
+        "period": "Q1"
+      },
+      "growth_yoy": -10.0,
+      "growth_qoq": 10.0,
+      "key_points": [
+        "DRIVE Orin SoC is now in production, initiating a major product cycle with auto customers ramping in Q2 and beyond.",
+        "Over 35 customer wins from automakers, truck makers, and robotaxi companies.",
+        "Partnerships with BYD and Lucid for next-generation fleets on DRIVE Orin.",
+        "Automotive design win pipeline exceeds $11 billion over the next six years, up from $8 billion a year ago."
+      ]
+    },
+    {
+      "name": "Data Center",
+      "revenue": {
+        "value": 3.8,
+        "unit": "billion",
+        "context": "Record revenue of $3.8 billion grew 15% sequentially and accelerated to 83% growth year-on-year.",
+        "period": "Q1"
+      },
+      "growth_yoy": 83.0,
+      "growth_qoq": 15.0,
+      "key_points": [
+        "Growth driven by strong adoption of A100 GPUs for training and inference with large volume deployments by hyperscale customers.",
+        "Revenue from hyperscale and cloud computing customers more than doubled year-on-year.",
+        "Strong double-digit growth from vertical industries including consumer Internet companies, financial services, and telecom.",
+        "Networking revenue accelerated due to demand for next-generation Ethernet adapters and DGX super pods.",
+        "Introduction of H100 GPU offering an order of magnitude leap in performance over A100.",
+        "Launch of Grace CPU and Spectrum-4 Ethernet networking platform.",
+        "Networking products remain supply constrained with expectations of improvement throughout the year.",
+        "Data Center outlook expects strong growth with Triton and Omniverse driving enterprise AI adoption."
+      ]
+    },
+    {
+      "name": "Mellanox",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "Mellanox revenue included within Data Center segment; no separate breakdown provided."
+      ]
+    },
+    {
+      "name": "Computing Products",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q1."
+      ]
+    },
+    {
+      "name": "Auto and ProViz",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q1."
+      ]
+    },
+    {
+      "name": "OEM",
+      "revenue": null,
+      "growth_yoy": null,
+      "growth_qoq": null,
+      "key_points": [
+        "No specific data provided for Q1."
+      ]
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 65.5,
+      "unit": "%",
+      "context": "GAAP gross margin for Q1 was 65.5% and non-GAAP gross margin was 67.1%, up 90 basis points year-on-year and up 10 basis points sequentially.",
+      "period": "Q1"
+    },
+    "operating_margin": {
+      "gaap": 22.5,
+      "non_gaap": 47.7,
+      "unit": "%",
+      "context": "GAAP operating margin was 22.5%, impacted by a $1.35 billion acquisition termination charge related to the ARM transaction. Non-GAAP operating margin was 47.7%.",
+      "period": "Q1"
+    },
+    "net_income": null,
+    "cash_flow": {
+      "value": null,
+      "unit": "billion",
+      "context": "No specific cash flow data provided.",
+      "period": "Q1"
+    },
+    "other_metrics": {
+      "geforce_now_users": null,
+      "cmp_revenue": null,
+      "gfnow_games": null,
+      "cmp_outlook_q2": null
+    }
+  },
+  "future_guidance": {
+    "q2_fiscal_2023_revenue": {
+      "value": 8.1,
+      "unit": "billion",
+      "context": "Expected revenue for Q2 fiscal 2023 is $8.1 billion, plus or minus 2%.",
+      "period": "Q2 fiscal 2023"
+    },
+    "q2_fiscal_2023_gross_margin": {
+      "gaap": 65.1,
+      "non_gaap": 67.1,
+      "unit": "%",
+      "context": "Expected GAAP gross margin is 65.1% and non-GAAP gross margin is 67.1%, plus or minus 0.5%.",
+      "period": "Q2 fiscal 2023"
+    },
+    "q2_fiscal_2023_operating_expenses": {
+      "gaap": 2.46,
+      "non_gaap": 1.75,
+      "unit": "billion",
+      "context": "Expected GAAP operating expenses are $2.46 billion and non-GAAP operating expenses are $1.75 billion for Q2 fiscal 2023.",
+      "period": "Q2 fiscal 2023"
+    },
+    "q2_fiscal_2023_other_income_expenses": {
+      "value": -0.04,
+      "unit": "billion",
+      "context": "Expected GAAP and non-GAAP other income and expenses are an expense of approximately $40 million, excluding gains and losses on non-affiliated investments.",
+      "period": "Q2 fiscal 2023"
+    },
+    "q2_fiscal_2023_tax_rates": {
+      "value": [
+        12.5,
+        null
+      ],
+      "unit": "%",
+      "context": "Expected GAAP tax rate is 12.5%, plus or minus 1%, excluding discrete items.",
+      "period": "Q2 fiscal 2023"
+    },
+    "capital_expenditures": {
+      "value": [
+        0.4,
+        0.45
+      ],
+      "unit": "billion",
+      "context": "Expected capital expenditures for Q2 fiscal 2023 are approximately $400 million to $450 million.",
+      "period": "Q2 fiscal 2023"
+    },
+    "full_year_non_gaap_opex_growth": null,
+    "cmp_outlook_q2": null
+  },
+  "strategic_initiatives": [
+    "Launch of H100 Data Center GPU based on the new architecture.",
+    "Launch of Grace CPU, the first Data Center CPU, in the first half of 2023.",
+    "Introduction of Spectrum-4, the world's first 400-gigabit per second end-to-end Ethernet networking platform.",
+    "Development of NVIDIA Ampere architecture-based GPUs and full software stack for AI workloads.",
+    "Expansion of Omniverse ecosystem with third-party developers.",
+    "Opening of GeForce NOW subscription plans with RTX 3080 class streaming.",
+    "Building Earth-2, the world's most powerful AI supercomputer dedicated to climate change.",
+    "Continuation of the share repurchase program up to a total of $15 billion through December 2023."
+  ],
+  "market_opportunities": [
+    {
+      "gaming_growth": "Gaming business continues to accelerate with the successful RTX 30 Series refresh cycle and expanding GeForce NOW platform.",
+      "cloud_gaming_expansion": "GeForce NOW membership has expanded with RTX 3080 class streaming and over 1,300 games in the library.",
+      "cryptocurrency_mining": "Introduction of CMPs to address mining demand and optimize GPU supply for gamers, with diminishing contribution expected.",
+      "accelerated_computing": "AI and accelerated computing driving Data Center growth with A100 and H100 GPUs, Grace CPU, and Spectrum-4 networking platform."
+    },
+    {
+      "upcoming_events": [
+        "Attendance at the BofA Securities Technology Conference in person on June 7, where Jensen will participate in a keynote fireside chat."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-12T00:00:00Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette Kress",
+    "introduction": [
+      "We delivered a strong quarter driven by record revenue in both Data Center and Gaming with strong fundamentals and execution against a challenging macro backdrop.",
+      "Total revenue of $8.3 billion was a record, up 8% sequentially and up 46% year-on-year.",
+      "Data Center has become our largest market platform, and we see continued strong momentum going forward."
+    ],
+    "gaming": [
+      "Revenue of $3.6 billion rose 6% sequentially and 31% year-on-year, powered by the GeForce RTX 30 Series product cycle.",
+      "Since launching in the fall of 2020, the RTX 30 Series has been our best Gaming product cycle ever.",
+      "The gaming industry has grown tremendously with 100 million new PC gamers added in the past two years according to Newzoo.",
+      "NVIDIA RTX has set new standards for the industry with demand from both first-time GPU buyers as well as those upgrading their PCs to experience the 250-plus RTX-optimized games and apps, double from last year.",
+      "We estimate that almost a third of the GeForce Gaming GPU installed base is now on RTX.",
+      "RTX has brought tremendous energy into the gaming world, and has helped drive a sustained expansion in our higher-end platforms and installed base with significant runway still ahead.",
+      "Overall, end demand remained solid though mixed by region, and demand in Americas remained strong.",
+      "However, we started seeing softness in parts of Europe related to the war in Ukraine and parts of China due to the COVID lockdowns.",
+      "As we expect some ongoing impact as we prepare for a new architectural transition later in the year, we are projecting Gaming revenue to decline sequentially in Q2.",
+      "Channel inventory has nearly normalized and we expect it to remain around these levels in Q2.",
+      "The extent in which cryptocurrency mining contributed to Gaming demand is difficult for us to quantify with any reasonable degree of precision.",
+      "The reduced pace of increase in Ethereum network hash rate likely reflects lower mining activity on GPUs. We expect a diminishing contribution going forward.",
+      "Laptop Gaming revenue posted strong sequential and year-on-year growth, driven by the ramp of the NVIDIA RTX 30 Series lineup.",
+      "With this year's spring refresh and ahead of the upcoming back-to-school season, there are now over 180 laptop models featuring RTX 30 Series GPUs and our energy-efficient thin and light Max-Q technologies, up from 140 at this time last year.",
+      "Driving this growth are not just gamers, but also the fast-growing category of content creators for whom we offer dedicated NVIDIA studio drivers.",
+      "We've also developed applications and tools to empower artists from Omniverse for advanced 3D and collaboration to broadcast for live streaming to Canvas for painting landscapes with AI.",
+      "The creator economy is estimated at $100 billion and powered by 80 million individual creators and broadcasters.",
+      "We continued to build out our GeForce NOW cloud gaming service. Gamers can now access RTX 3080 class streaming, our new top-tier offering with subscription plans of $19.99 a month.",
+      "We added over 100 games to the GeForce NOW library, bringing the total to over 1,300 games.",
+      "Last week, we launched Fortnite on GeForce NOW with touch controls for mobile devices, streaming through the Safari web browser on iOS and the GeForce NOW Android app."
+    ],
+    "proviz": [
+      "Q1 revenue was $622 million, down sequentially 3% and up 67% from a year ago.",
+      "Demand remains strong as enterprises continued to build out their employees' remote office infrastructure to support hybrid work.",
+      "Sequential growth in the mobile workstation GPUs was offset by lower desktop revenue.",
+      "Strong year-on-year growth was supported by the NVIDIA RTX Ampere architecture product cycle.",
+      "Top use cases include digital content creation at Sony Pictures Animation and medical imaging at Medtronic.",
+      "In just its second quarter of general availability, our Omniverse enterprise software is being adopted by some of the world's largest companies.",
+      "Amazon is using Omniverse to create digital twins to better optimize warehouse design and flow and to train more intelligent robots.",
+      "Kroger is using Omniverse to optimize store efficiency with digital twin store simulation.",
+      "PepsiCo is using Omniverse digital twins to improve the efficiency and environmental sustainability of the supply chain.",
+      "Omniverse is also expanding our GPU sales pipeline, driving higher end and multiple GPU configurations.",
+      "The Omniverse ecosystem continues to rapidly expand with third-party developers in the robotics, industrial automation, 3D design and rendering ecosystems developing connections to Omniverse."
+    ],
+    "automotive": [
+      "Q1 revenue of $138 million, increased 10% sequentially and declined 10% from the year ago quarter.",
+      "Our DRIVE Orin SoC is now in production and kicks off a major product cycle with auto customers ramping in Q2 and beyond.",
+      "Orin has great traction in the marketplace with over 35 customer wins from automakers, truck makers and robotaxi companies.",
+      "In Q1, BYD, China's largest EV maker and Lucid, an award-winning EV pioneer, were the latest to announce that they are building their next-generation fleets on DRIVE Orin.",
+      "Our automotive design win pipeline now exceeds $11 billion over the next six years, up from $8 billion just a year ago."
+    ],
+    "data_center": [
+      "Record revenue of $3.8 billion grew 15% sequentially and accelerated to 83% growth year-on-year.",
+      "Revenue from hyperscale and cloud computing customers more than doubled year-on-year, driven by strong demand for both external and internal workloads.",
+      "Customers remain supply constrained in their infrastructure needs and continue to add capacity as they try to keep pace with demand.",
+      "Revenue from vertical industries grew a strong double-digit percentage from last year.",
+      "Top verticals driving growth this quarter include consumer Internet companies, financial services and telecom.",
+      "Overall, Data Center growth was driven primarily by strong adoption of our A100 GPU for both training and inference with large volume deployments by hyperscale customers and broadening adoption across the vertical industries.",
+      "Top workloads include recommender systems, conversational AI, large language models and cloud graphics.",
+      "Networking revenue accelerated on strong broad-based demand for our next-generation 25, 50 and 100-gig Ethernet adapters.",
+      "Customers are choosing NVIDIA's networking products for their leading performance and robust software functionality.",
+      "Networking revenue is benefiting from growing demand for DGX super pods and cross-selling opportunities.",
+      "Customers are increasingly combining our compute and networking products to build what are essentially modern AI factories with data as the raw material input and intelligence as the output.",
+      "Our networking products are still supply constrained though we expect continued improvement throughout the rest of the year.",
+      "One of the biggest workloads driving adoption of NVIDIA AI is natural language processing, which has been revolutionized by transformer-based models.",
+      "Recent industry breakthroughs traced to transformers include large language models like GPT-3, NVIDIA Megatron BERT for drug discovery and DeepMind AlphaFold for protein structure prediction.",
+      "Transformers allow self-supervised learning without the need for human labeled data and enable unprecedented levels of accuracy for tasks such as text generation, translation, summarization and answering questions.",
+      "To run these giant models without sacrificing low inference times, customers like Microsoft are increasingly deploying NVIDIA AI, including our NVIDIA Ampere architecture-based GPUs and full software stack.",
+      "At GTC, we announced our next-generation Data Center GPU, the H100 based on the new Orin architecture.",
+      "H100 is ideal for advancing large language models and deep recommender systems, the two largest scale AI workloads today.",
+      "We are working with leading server makers and hyperscale customers to qualify and ramp H100.",
+      "The new DGX H100 AI supercomputing system will ramp in volume late in the calendar year.",
+      "Building on the H100 product side, we are on track to launch our first ever Data Center CPU, Grace, in the first half of 2023.",
+      "Grace is the ideal CPU for AI factories.",
+      "We announced that dozens of server models based on Grace will be brought to market by the first wave of system builders, including ASUS, Foxconn, Gigabyte, QCT, Supermicro and Wiwynn.",
+      "These servers will be powered by the NVIDIA Grace CPU Super Chip and the Grace Upper Super Chip, which pairs an NVIDIA Hopper GPU with an NVIDIA Grace CPU in an integrated model.",
+      "We've introduced new reference designs based on Grace for next-generation data centers, optimized for NVIDIA's rich accelerated computing software stacks.",
+      "With NVLink, we can configure Grace and Hopper to address a broad range of workloads.",
+      "Future NVIDIA chips will integrate NVLink to connect to NVIDIA's platforms.",
+      "In networking, we're introducing Spectrum-4, the world's first 400-gigabit per second end-to-end Ethernet networking platform.",
+      "Built for AI and video, Spectrum-4 enables high-performance advanced virtualization and simulation at scale.",
+      "We are launching multiple new GPU, CPU, DPU and SOC quarters with a ramp in supply to support customer demand."
+    ]
+  }
+}

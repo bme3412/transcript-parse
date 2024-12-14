@@ -1,0 +1,195 @@
+{
+  "speakers": {
+    "jen_hsun_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "China Gaming Market",
+          "context": "Response to geographic demand trends",
+          "content": "China looks like fine. I think China has stabilized. The gaming market in China is really vibrant and it continues to be vibrant. Tencent's releasing new games. I think you might have heard that Epic stores now open in Asia and games are available from the West. So, there are all kinds of positive signs in China. There's some 300 million PC gamers in China and people are expecting it to grow."
+        },
+        {
+          "topic": "Ray Tracing and Gaming Pipeline",
+          "context": "Response to future game adoption",
+          "content": "Well, it's seasonal second half the year, we expect to see some great games. We won't preannounce anybody else games for them. But, this is this is a great PC cycle because it is the end of the console cycle. And PCs are where the actions at these days. With Battle Royale and Esports and so much social going on, the PC gaming ecosystem is just really vibrant. Our strategy with RTX was to take a lead and move the world to Ray tracing... Almost every single game platform will have to have Ray tracing."
+        },
+        {
+          "topic": "Data Center Trends",
+          "context": "Response to hyperscale slowdown",
+          "content": "Hyperscale are digesting the capacity they have. At this point, I think it's fairly clear that in the second half of last year they took on a little bit too much capacity. And so, everybody is has paused to give themselves a chance to digest. However, our business on inference is doing great. And we're working with CSPs all over the world to accelerate their inference models."
+        },
+        {
+          "topic": "Accelerated Computing Strategy",
+          "context": "Response to competitive landscape",
+          "content": "NVIDIA strategy is accelerated computing. It is very different than accelerator strategy. For example, if you were building a smart microphone, you need an accelerator for speech recognition ASR. Our company is focused on accelerated computing. The world's body of software is really gigantic and continues to evolve and AI is nowhere near done."
+        },
+        {
+          "topic": "Cloud Gaming Strategy",
+          "context": "Response to GeForce NOW questions",
+          "content": "Our strategy for cloud gaming is to extend our PC position for GeForce gamers into the cloud. And our strategy for our building out our network is partnerships with telcos around the world. And so, we'll build out some of it. And on top of the service, we have our entire PC gaming stack and when we host the service, we will move toward a subscription model."
+        },
+        {
+          "topic": "Enterprise Data Center",
+          "context": "Response to non-cloud business outlook",
+          "content": "We expected to grow in 2019. A lot of our T4 inference work is related to what people call edge computing and it has to be done at the edge because the amount of data that otherwise would be transferred to the cloud is just too much."
+        },
+        {
+          "topic": "Automotive Strategy",
+          "context": "Response to growth trajectory",
+          "content": "Level 2+ call it 2020, late 2021 or 2022-ish. So that's Level 2+. I would say 2019 very, very early for robot taxis, next year substantially more volume for robot taxis 2021 bigger volumes for robot taxis."
+        },
+        {
+          "topic": "Notebook Gaming",
+          "context": "Response to product strategy",
+          "content": "In Q2, we had to deal with some CPU shortage issues at the OEMs. It's improving, but the initial ramp will be affected. The new category of gaming notebooks that we created called Max-Q has made it possible for really amazing gaming performance to fit into a thin and light."
+        },
+        {
+          "topic": "7nm Technology",
+          "context": "Response to process technology questions",
+          "content": "The entire reason for Q4 and Q1 is attributed to oversupply in the channel as a result of cryptocurrency, has nothing to do with Turing in fact. Turing is off to a faster start than Pascal was. In terms of process nodes we tend to design our own process with TSMC."
+        },
+        {
+          "topic": "Mellanox Acquisition",
+          "context": "Response to regulatory concerns",
+          "content": "The acquisition is going to enable data centers around the world whether it's U.S. or elsewhere China to be able to advance much, much more quickly. Now we're going to invest and building infrastructure technology and as a combined company, we'll be able to do that much better."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Data Center Visibility",
+          "context": "Response to business outlook",
+          "content": "When we had discussed our overall data center business three months ago, we did indicate that our visibility as we turned into the new calendar year was low. We had a challenge in terms of completing some of the deals at the end of that quarter."
+        },
+        {
+          "topic": "Gaming Guidance",
+          "context": "Response to annual outlook",
+          "content": "At this time, we don't plan on giving a full year overall guidance. I think our look in terms of gaming all of the still drivers that we thought about earlier in the quarter and we talked about our Investor Day are still definitely in the line."
+        },
+        {
+          "topic": "Full Year Guidance Withdrawal",
+          "context": "Response to guidance decision",
+          "content": "When we looked at Q1 and what we are guiding we understood that it was certainly an extraordinary quarter something that we didn't feel was a true representative of our business. We are still experiencing the uncertainty as a result of the pause with the overall hyperscale data centers."
+        },
+        {
+          "topic": "Q2 Growth Components",
+          "context": "Response to revenue guidance",
+          "content": "When you think about our growth between Q1 and Q2, yes, we do expect in terms of our gaming to increase. We do expect our Nintendo switch to start again in sizable amount. Once we move into Q2 and we do at this time expect probably our data center business to grow."
+        },
+        {
+          "topic": "Gaming Normalization",
+          "context": "Response to inventory concerns",
+          "content": "When we look at our overall inventory in the channel, we believe that this is relatively behind us and moving forward that it will not be an issue. Going forward, we will probably reach normalized level for gaming somewhere between Q2 and Q3."
+        },
+        {
+          "topic": "Data Center Training",
+          "context": "Response to growth segments",
+          "content": "We are targeting many of the hyperscale definitely purchasing in terms of the inferencing into the installment that it continues. Also in terms of the training; the training instances that they will need for the cloud or for internal use, absolutely."
+        },
+        {
+          "topic": "Product Mix and Margins",
+          "context": "Response to gross margin outlook",
+          "content": "When you look at our sequential gross margin increase that will be influenced by our larger revenue or larger revenue and better mix. However, we will be beginning the Nintendo switch back up and that does have lower gross margins than the company average."
+        },
+        {
+          "topic": "OpEx Trajectory",
+          "context": "Response to spending outlook",
+          "content": "We're still on track to our thoughts on leaving the fiscal year with the year-over-year growth and overall OpEx on a non-GAAP basis in a high single digit. We'll see probably an increase sequentially quarter-to-quarter along there."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Data Center", "Gaming"],
+      "questions": [
+        "Could you give a little bit more color or discussion around what exactly you've seen in the data center segment?",
+        "Last quarter you talked about gaming being down slightly for the full year. Is that still the expectation?"
+      ]
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JPMorgan",
+      "topics": ["China Gaming", "Game Pipeline"],
+      "questions": [
+        "Do you anticipate continued China gaming demand on a go forward basis?",
+        "How does the pipeline of new games look for October, November timeframe?"
+      ]
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Guidance", "Revenue Growth"],
+      "questions": [
+        "What went into decision to pull for your guidance versus just cutting it?",
+        "Can you give us some sense of the $320 million incremental revenue for July?"
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Data Center", "Gaming Mix"],
+      "questions": [
+        "Could you provide color on what you're seeing from hyperscale customers and enterprise?",
+        "Can you characterize product mix within gaming?"
+      ]
+    },
+    {
+      "analyst": "Joe Moore",
+      "firm": "Morgan Stanley",
+      "topics": ["Cloud Gaming"],
+      "questions": [
+        "Is GeForce NOW going to be your preferred way to go-to-market with cloud gaming?"
+      ]
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Merrill Lynch",
+      "topics": ["Gaming Recovery", "Data Center Competition"],
+      "questions": [
+        "Are you satisfied that the PC gaming business is operating at normal levels?",
+        "How should we get confidence that your lead in training will help maintain good lead in inference?"
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topics": ["Data Center Growth", "Mellanox"],
+      "questions": [
+        "How do we get confidence that we haven't seen a ceiling on training/acceleration?",
+        "How do we gauge the risk of potential further deterioration in relationship spilling over on the regulatory front around Mellanox deal?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore ISI",
+      "topics": ["Enterprise Data Center", "Automotive"],
+      "questions": [
+        "Can you talk through the visibility you have today for non-cloud datacenter business?",
+        "What's the visibility like in automotive and growth trajectory into second half?"
+      ]
+    },
+    {
+      "analyst": "Chris Caso",
+      "firm": "Raymond James",
+      "topics": ["Notebooks", "Automotive Timeline"],
+      "questions": [
+        "What's been different from your notebook expectations this year?",
+        "When can we expect an acceleration of auto revenue and what would be the driver?"
+      ]
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topics": ["Process Technology", "OpEx"],
+      "questions": [
+        "Could you talk about your product plans around 7-nanometer?",
+        "Could you talk about OpEx trends through the rest of the year?"
+      ]
+    }
+  ]
+}

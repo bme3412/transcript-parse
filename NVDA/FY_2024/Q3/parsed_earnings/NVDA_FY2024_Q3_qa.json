@@ -1,0 +1,148 @@
+{
+  "company_name": "NVIDIA",
+  "quarter": "Q3",
+  "fiscal_year": "2024",
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Adoption Curve in Generative AI Market",
+          "content": "Generative AI is the largest TAM expansion of software and hardware that we've seen in several decades. At the core of it, what's really exciting is that, what was largely a retrieval based computing approach, almost everything that you do is retrieved off of storage somewhere, has been augmented now, added with a generative method. And it's changed almost everything. You could see that text-to-text, text-to-image, text-to-video, text-to-3D, text-to-protein, text-to-chemicals, these were things that were processed and typed in by humans in the past. And these are now generative approaches. The way that we access data is changed. It used to be based on explicit queries. It is now based on natural language queries, intention queries, semantic queries. And so, we're excited about the work that we're doing with SAP and Dropbox and many others that you're going to hear about. And one of the areas that is really impactful is the software industry, which is about $1 trillion or so, has been building tools that are manually used over the last couple of decades. And now there's a whole new segment of software called copilots and assistants. Instead of manually used, these tools will have copilots to help you use it. So, instead of licensing software, we will continue to do that, of course, but we will also hire copilots and assistants to help us use these -- use the software. We'll connect all of these copilots and assistants into teams of AIs, which is going to be the modern version of software, modern version of enterprise business software. And so the transformation of software and the way that software has done is driving the hardware underneath. And you can see that it's transforming hardware in two ways. One is something that's largely independent of generative AI. There's two trends: one is related to accelerated computing, general purpose computing is too wasteful of energy and cost. And now that we have much, much better approaches, call it, accelerated computing, you could save an order of magnitude of energy, you can save an order of magnitude of time or you can save an order of magnitudes of cost by using acceleration. And so, accelerated computing is transitioning, if you will, general purpose computing into this new way of doing computing, accelerated computing. And that has been augmented by a new class of data centers. This is the traditional data centers that you were just talking about where we represent about a third of that. But there is a new class of data centers and this new class of data centers, unlike the data centers of the past, where you have a lot of applications running used by a great many people that are different tenants that are using the same infrastructure and that data center stores a lot of files. These new data centers are very few applications, if not one application, used by basically one tenant and it processes data, it trains models and then generates tokens and generates AI. And we call these new data centers AI factories. We're seeing AI factories being built out everywhere, and just by every country. And so if you look at the way where we are in the expansion, the transition into this new computing approach, the first wave you saw with large language model start-ups, generative AI start-ups and consumer Internet companies, and weren't in the process of ramping that. Meanwhile, while that's being ramped, you see that we're starting to partner with enterprise software companies who would like to build chatbots and copilots and assistants to augment the tools that they have on their platforms. You see GPU specialized CSPs cropping up all over the world and they are dedicated to do really one thing, which is processing AI. You see sovereign AI infrastructures, people -- countries that now recognize that they have to utilize their own data, keep their own data, keep their own culture, process that data and develop their own AI. You see that in India. Several -- about a year ago in Sweden, you are seeing in Japan. Last week, a big announcement in France. But the number of sovereign AI clouds that are being built is really quite significant. And my guess is that almost every major region will have and surely every major country will have their own AI clouds. And so I think you're seeing just new developments as the generative AI wave propagates through every industry, every company, every region. And so we're at the beginning of this inflection, this computing transition."
+        },
+        {
+          "topic": "Networking Solutions and Spectrum-X",
+          "content": "Our networking business is already on a $10 billion plus run rate and it's going to get much larger. And as you mentioned, we added a new networking platform to our networking business recently. The vast majority of the dedicated large scale AI factories standardize on InfiniBand. And the reason for that is not only because of its data rate and not only just the latency, but the way that it moves traffic around the network is really important. The way that you process AI and a multi-tenant hyperscale Ethernet environment, the traffic pattern is just radically different. And with InfiniBand and with software defined networks, we could do congestion control, adaptive routing, performance isolation and noise isolation, not to mention, of course, the data rate and the low latency that -- and a very low overhead of InfiniBand that's natural part of InfiniBand. And so, InfiniBand is not so much just the network, it's also a computing fabric. We've put a lot of software-defined capabilities into the fabric including computation. We will do 40-point calculations and computation right on the switch, and right in the fabric itself. And so that's the reason why that difference in Ethernet versus InfiniBand or InfiniBand versus Ethernet for AI factories is so dramatic. And the difference is profound. And the reason for that is because you've just invested in a $2 billion infrastructure for AI factories. A 20%, 25%, 30% difference in overall effectiveness, especially as you scale up is measured in hundreds of millions of dollars of value. And so InfiniBand's value proposition is undeniable for AI factories. However, as we move AI into enterprise. This is enterprise computing what we'd like to enable every company to be able to build their own custom AIs. We're building customer AIs in our company based on our proprietary data, our proprietary type of skills. There are variety of different reasons that drives the success of Grace Hopper, but we're off to a just an extraordinary start. This is a home run product."
+        },
+        {
+          "topic": "Grace Hopper and L40S",
+          "content": "Grace Hopper is in production -- in high volume production now. We're expecting next year just with all of the design wins that we have in high performance computing and AI infrastructures, we are on a very, very fast ramp with our first data center CPU to a multi-billion dollar product line. This is going to be a very large product line for us. The capability of Grace Hopper is really quite spectacular. It has the ability to create computing nodes that simultaneously has very fast memory, as well as very large memory. In the areas of vector databases or semantic surge, what is called RAG, retrieval augmented generation. So that you could have a generative AI model be able to refer to proprietary data or a factual data before it generates a response, that data is quite large. And you can also have applications or generative models where the context length is very high. You basically store it in entire book into end-to-end system memory before you ask your questions. And so the context length can be quite large this way. The generative models has the ability to still be able to naturally interact with you on one hand. On the other hand, be able to refer to factual data, proprietary data or domain-specific data, you data and be contextually relevant and reduce hallucination. That particular use case for example is really quite fantastic for Grace Hopper. It also serves the customers that really care to have a different CPU than x86. Maybe it's a European supercomputing centers or European companies who would like to build up their own ARM ecosystem and like to build up a full stack or CSPs that have decided that they would like to pivot to ARM, because their own custom CPUs are based on ARM. There are variety of different reasons that drives the success of Grace Hopper, but we're off to a just an extraordinary start. This is a home run product."
+        },
+        {
+          "topic": "AI Foundry and Monetization",
+          "content": "Our AI foundry's strategy is to achieve several things: number one, to enable a really close partnership between us and the world's CSPs. We recognize that many of our -- we work with some 30,000 companies around the world. 15,000 of them are startups. Thousands of them are generative AI companies and the fastest-growing segment, of course, is generative AI. We're working with all of the world's AI start-ups. And ultimately, they would like to be able to land in one of the world's leading clouds. And so we built DGX Cloud as a footprint inside the world's leading clouds so that we could simultaneously work with all of our AI partners and help blend them easily in one of our cloud partners. The second benefit is that it allows our CSPs and ourselves to work really closely together to improve the performance of hyperscale clouds, which is historically designed for multi-tenancy and not designed for high-performance distributed computing like generative AI. And so to be able to work closely architecturally to have our engineers work hand in hand to improve the networking performance and the computing performance has been really powerful, really terrific. And then thirdly, of course, NVIDIA uses very large infrastructures ourselves. Our self-driving car team, our NVIDIA research team, our generative AI team, our language model team, the amount of infrastructure that we need is quite significant. And none of our optimizing compilers are possible without our DGX systems. Even compilers these days require AI, and optimizing software and infrastructure software requires AI to even develop. It's been well publicized that our engineering uses AI to design our chips. And so, our internal consumption is quite large as well, and we land that in DGX Cloud. And so, DGX Cloud has multiple use cases, multiple drivers, and it's been off to just an enormous success. Our CSPs love it, the developers love it and our own internal engineers are clamoring to have more of it. And it's a great way for us to engage and work closely with all of the AI ecosystem around the world."
+        },
+        {
+          "topic": "Data Center Demand Sustainability",
+          "content": "Absolutely believe the Data Center can grow through 2025. And there are, of course, several reasons for that. We are expanding our supply quite significantly. We have already one of the broadest and largest and most capable supply chain in the world. Remember, people think that the GPU is a chip. But the HGX H100, the Hopper HGX has 35,000 parts, it weighs 70 pounds. The other 35,000 are not. It is a supercomputer, and therefore, the only way to test a supercomputer is with another supercomputer. Even the manufacturing of it is complicated, the testing of it is complicated, the shipping of it complicated and installation is complicated. And so, every aspect of our HGX supply chain is complicated. And the remarkable team that we have here has really scaled out the supply chain incredibly. Not to mention, all of our HGXs are connected with NVIDIA networking. And the networking, the transceivers, the mix, the cables, the switches, the amount of complexity there is just incredible. And so, I'm just super proud of the team for scaling up this incredible supply chain. We are absolutely world class. But meanwhile, we're adding new customers and new products. So we have new supply. We have new customers, as I was mentioning earlier. Different regions are standing up GPU specialist clouds, sovereign AI clouds coming out from all over the world, as people recognize that they can't afford to export their country's knowledge, their country's culture for somebody else to then resell AI back to them, they have to -- they should, they have the skills and surely with us in combination, we can help them to do that build up their national AI. And so, the first thing that they have to do is, create their AI cloud, national AI cloud. You're also seeing us now growing into enterprise. The enterprise market has two paths. One path, of course, just off-the-shelf AI. And there are of course Chat GPT, a fabulous off-the-shelf AI, there'll be others. There's also a proprietary AI, because software companies like ServiceNow and SAP, there are many, many others that can't afford to have their company's intelligence be outsourced to somebody else. And they are about building tools and on top of their tools they should build custom and proprietary and domain-specific copilots and assistants that they can then rent to their customer base. This is -- they're sitting on a goldmine, almost every major tools company in the world is sitting on a goldmine, and they recognize that they have to go build their own custom AIs. And so, we have a new service called an AI foundry, where we leverage NVS (ph) capabilities to be able to serve them in that. And the second thing is, you have to have AI factories. Our AI models are called AI Foundations. Our process, if you will, our CAD system for creating AIs are called NeMo and they run on NVIDIA's factories we call DGX Cloud. Our monetization model is that with each one of our partners they rent a sandbox on DGX Cloud, where we work together, they bring their data, they bring their domain expertise, we bring our researchers and engineers, we help them build their custom AI. We help them make that custom AI incredible. Then that custom AI becomes theirs. And they deploy it on the runtime that is enterprise grade, enterprise optimized or outperformance optimized, runs across everything NVIDIA. We have a giant installed base in the cloud, on-prem, anywhere. And it's secure, securely patched, continuously patched and optimized and supported. And we call that NVIDIA AI Enterprise. NVIDIA AI Enterprise is $4,500 per GP per year, that's our business model. Our business model is basically a license. Our customers then with that basic license can build their monetization model on top of. So, subscription license, per instance or per usage, etc. The last part is, for any application, you have to do pre-processing and post-processing, that requires software acceleration and that's where our stack provides it. So, you have to do pre-processing with our libraries, post-processing with our libraries. So, the complexity includes software acceleration, hardware acceleration and integration into the enterprise. And so the AI foundry is really monetizing the software and the software's integral to it. And that's how we drive our software business."
+        },
+        {
+          "topic": "Large Model Inference",
+          "content": "Yeah. Thanks a lot. So, let's take a quick step back. These large language models are fairly -- are pretty phenomenal. It does several things, of course. It has the ability to understand unstructured language. But at its core, what it has learned is the structure of human language. And it has encoded or within it -- compressed within it a large amount of human knowledge that it has learned by the corpuses that it studied. What happens is, you create these large language models and you create as large as you can, and then you derive from it smaller versions of the model, essentially teacher-student models. It's a process called distillation. And so when you see these smaller models, it's very likely the case that they were derived from or distilled from or learned from larger models, just as you have professors and teachers and students and so on and so forth. And you're going to see this going forward. And so you start from a very large model and it has a large amount of generality and generalization and what's called zero-shot capability. And so for a lot of applications and questions or skills that you haven't trained it specifically on, these large language models miraculously has the capability to perform them. That's what makes it so magical. On the other hand, you would like to have these capabilities in all kinds of computing devices, and so what you do is you distill them down. These smaller models might have excellent capabilities on a particular skill, but they don't generalize as well. They don't have what is called as good zero-shot capabilities. And so they all have their own unique capabilities, but you start from very large models."
+        }
+      ]
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "China Contributions in Q4",
+          "content": "So, first let me start with your question, Vivek, on export controls and the impacts that we are seeing in our Q4 outlook and guidance that we provided. We had seen historically over the last several quarters that China and some of the other impacted destinations to be about 20% to 25% of our Data Center revenue. We are expecting in our guidance for that to decrease substantially as we move into Q4. The export controls will have a negative effect on our China business. And we do not have good visibility into the magnitude of that impact even over the long-term. We are though working to expand our Data Center product portfolio to possibly offer new regulation compliance solutions that do not require a license, these products, they may become available in the next coming months. However, we don't expect their contribution to be material or meaningful as a percentage of the revenue in Q4."
+        },
+        {
+          "topic": "Software Business Run Rate and Materiality",
+          "content": "And let's see if I can answer your question regarding our software revenue. In part of our opening remarks that we made as well, remember, software is a part of almost all of our products, whether they're our Data Center products, GPU systems or any of our products within gaming and our future automotive products. You're correct, we're also selling it in a standalone business. And that stand-alone software continues to grow where we are providing both the software services, upgrades across there as well. Now we're seeing, at this point, probably hundreds of millions of dollars annually for our software business, and we are looking at NVIDIA AI enterprise to be included with many of the products that we're selling, such as our DGX, such as our PCIe versions of our H100. And I think we're going to see more availability even with our CSP marketplaces. So we're off to a great start, and I do believe we'll see this continue to grow going forward."
+        },
+        {
+          "topic": "Q4 Revenue Breakdown and Lead Times",
+          "content": "Yeah, Stacy, let me see if I can help you understand. Yes, there are still situations where we are working on both improving our supply each and every quarter. We've done a really solid job of ramping every quarter, which has defined our revenue. But with the absence of China for our outlook for Q4, sure, there could have been some things that we are not supply-constrained that we could have sold, but kind of we would no longer can. So could our guidance had been a little higher in our Q4? Yes. We are still working on improving our supply on plan, on continuing growing all throughout next year as well towards that."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America Securities",
+      "topics": ["China Revenue Impact", "Generative AI Adoption"],
+      "questions": [
+        "Thanks for taking my question. Just, Colette, wanted to clarify what China contributions are you expecting in Q4. And then, Jensen, the main question is for you, where do you think we are in the adoption curve in terms of your shipments into the generative AI market? Because when I just look at the trajectory of your data center, is growth -- it will be close to nearly 30% of all the spending in data center next year. So what metrics are you keeping an eye on to inform you that you can continue to grow? Just where are we in the adoption curve of your products into the generative AI market? Thank you."
+      ]
+    },
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topics": ["Networking Growth", "Ethernet Evolution", "Spectrum-X Differentiation"],
+      "questions": [
+        "I wanted to ask about kind of the networking side of the business. Given the growth rates that you've now cited, I think, it's 155% year-over-year and strong growth sequentially, it looks like that business is like almost approaching $2.5 billion to $3 billion quarterly level. I'm curious of how you see Ethernet involved evolving and maybe how you would characterize your differentiation of Spectrum-X relative to the traditional Ethernet stack as we start to think about that becoming part of the networking narrative above and maybe beyond just InfiniBand as we look into next year? Thank you."
+      ]
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topics": ["Software Ecosystem Evolution", "Hardware vs Software Differentiation"],
+      "questions": [
+        "Hi. Thanks for taking my question and congrats on the success. Jensen, it seems like a key part of the success -- your success in the market is delivering the software ecosystem along with the chip and the hardware platform. And I had a two-part question on this. I was wondering if you could just help us understand the evolution of your software ecosystem, the critical elements. And is there a way to quantify your lead on this dimension like how many person years you've invested in building it? And then part two, I was wondering if you would care to share with us your view on the -- what percentage of the value of the NVIDIA platform is hardware differentiation versus software differentiation? Thank you."
+      ]
+    },
+    {
+      "analyst": "Atif Malik",
+      "firm": "Citi",
+      "topics": ["L40S Supply Tightness", "Profitability Contribution"],
+      "questions": [
+        "Colette, I have a question on the core L40S that you guys talked about. Any idea how much of the supply tightness can L40S help with? And if you can talk about the incremental profitability or gross margin contribution from this product? Thank you."
+      ]
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley",
+      "topics": ["Unfulfilled Demand", "Supply-Demand Equilibrium"],
+      "questions": [
+        "Great. Thank you. I guess the thing about these numbers that's so remarkable to me is the amount of demand that remains unfulfilled, talking to some of your customers. As good as these numbers are, you sort of more than tripled your revenue in a couple of quarters. There's a demand, in some cases, for multiples of what people are getting. So can you talk about that? How much unfulfilled demand do you think there is? And you talked about visibility extending into next year. Do you have line of sight into when you get to see supply-demand equilibrium here?"
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Regulation-Compliant Products", "AI Foundry Monetization"],
+      "questions": [
+        "Hi. Thank you. I wanted to clarify something with Colette real quick, and then I had a question for Jensen as well. Colette, you mentioned that you'll be introducing regulation-compliant products over the next couple of months. Yet, the contribution to Q4 revenue should be relatively limited. Is that a timing issue and could it be a source of reacceleration in growth for Data Center in April and beyond or are the price points such that the contribution to revenue going forward should be relatively limited? And then the question for Jensen, the AI foundry service announcement from last week. I just wanted to ask about that, and hopefully, have you expand on it. How is the monetization model going to work? Is it primarily services and software revenue? How should we think about the long term opportunity set? And is this going to be exclusive to Microsoft or do you have plans to expand to other partners as well? Thank you."
+      ]
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topics": ["Data Center Revenue Composition", "Supply Chain Impact"],
+      "questions": [
+        "Hi, guys. Thanks for taking my questions. Colette, I wanted to know if it weren't for the China restrictions would the Q4 guide has been higher or are you supply-constrained in just reshipping stuff that would have gone to China elsewhere? And I guess along those lines you give us a feeling for where your lead times are right now in data center and just the China redirection such as-is, is it lowering those lead times, because you've got parts that are sort of immediately available to ship?"
+      ]
+    },
+    {
+      "analyst": "Matt Ramsay",
+      "firm": "Cowen",
+      "topics": ["Inference Workload Evolution", "Data Processing Acceleration"],
+      "questions": [
+        "Thank you very much. Congrats, everybody, on the results. Jensen, I had a two-part question for you, and it comes off of sort of one premise. And the premise is, I still get a lot of questions from investors thinking about AI training as being NVIDIA's dominant domain and somehow inference, even large model inference takes more and more of the TAM that the market will become more competitive. You'll be less differentiated et cetera., et cetera. So I guess the two parts of the question are: number one, maybe you could spend a little bit of time talking about the evolution of the inference workload as we move to LLMs and how your company is positioned for that rather than smaller model inference. And second, up until a month or two ago, I never really got any questions at all about the data processing piece of the AI workloads. So the pieces of manipulating the data before training, between training and inference, after inference and I think that's a large part of the workload now. Maybe you could talk about how CUDA is enabling acceleration of those pieces of the workload. Thanks."
+      ]
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "J.P. Morgan",
+      "topics": ["R&D OpEx Growth", "Managing Execution Complexity"],
+      "questions": [
+        "Good afternoon. Thanks for taking my question. If you look at the history of the tech industry like those companies that have been successful have always been focused on ecosystem; silicon, hardware, software, strong partnerships and just as importantly, right, an aggressive cadence of new products, more segmentation over time. The team recently announced a more aggressive new product cadence in data center from two years to now every year with higher levels of segmentation, training, optimization in printing CPU, GPU, DPU networking. How do we think about your R&D OpEx growth outlook to support a more aggressive and expanding forward roadmap, but more importantly, what is the team doing to manage and drive execution through all of this complexity?"
+      ]
+    },
+    {
+      "analyst": "Tim Arcuri",
+      "firm": "UBS",
+      "topics": ["Networking Solutions Attach Rate", "GPU Allocation"],
+      "questions": [
+        "Thanks a lot. I had a question and then I had a clarification as well. So, the question first is, Jensen, on the InfiniBand versus Ethernet argument, can you sort of speak to that debate and maybe how you see it playing out? I know you need the low late -- the low latency of InfiniBand for AI, but can you sort of talk about the attach rate of your InfiniBand solutions to what you're shipping on the core compute side and maybe whether that's similarly crowding out Ethernet like you are with on the compute side? And then the clarification, Colette, is that there wasn't a share buyback despite you still having about $7 billion on the share repo authorization. Was that just timing? Thanks."
+      ]
+    },
+    {
+      "analyst": "Benjamin Reitzes",
+      "firm": "Melius",
+      "topics": ["DGX Cloud Reception", "Software Business Run Rate"],
+      "questions": [
+        "Hi. Good afternoon. Good evening. Thank you for the question, putting me in here. My question is with regard to DGX Cloud. Can you talk about the reception that you're seeing and how the momentum is going? And then Colette, can you also talk about your software business? What is the run rate right now and the materiality of that business? And it does seem like it's already helping margins a bit. Thank you very much."
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-09-15T10:30:00.000Z",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  }
+}

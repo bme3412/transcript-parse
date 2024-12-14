@@ -1,0 +1,159 @@
+{
+  "speakers": {
+    "jensen_huang": {
+      "role": "CEO",
+      "responses": [
+        {
+          "topic": "Gaming and RTX",
+          "content": "If you look at the big picture, there's a few dynamics that are working really well in our favor. First, of course, is that RTX and ray tracing is just the home run. Minecraft was phenomenal. We have 33 games in the pipe that has already been announced or shipping. Just about every game developers signed on to RTX and ray tracing, and I think it's a foregone conclusion that this is the next generation. This is the way computer graphics is going to be in the future."
+        },
+        {
+          "topic": "Gaming Products",
+          "content": "The notebooks that we create is just doing great. We got 100 notebooks in gaming. We have 75 notebooks designed for either mobile workstations or what we call NVIDIA studio for designers and creators. And the timing was just perfect. With everybody needing to stay at home, the ability to have a mobile gaming platform and a mobile workstation, it was just perfect timing."
+        },
+        {
+          "topic": "Accelerated Computing Evolution",
+          "content": "Accelerated computing is now common sense in data centers. It wasn't the case when we first launched Volta. If you went back to Volta, Volta was the first generation that the deep learning training in a really serious way, and it was really focused on training. It was focused on training and high-performance computing. We didn't come until later with the inference version called T4."
+        },
+        {
+          "topic": "COVID-19 Impact",
+          "content": "This pandemic is really quite tragic, and it's reshaping industries and markets. And I think it's going to be structural. I think it's going to remain. The first is that the world's enterprise digital transformation and moving to the cloud, that is going to accelerate. Every single company can't afford to rely just on on-prem IT."
+        },
+        {
+          "topic": "Trade Relations",
+          "content": "We've been living in this environment for some time, Toshiya. And as you know, the trade tension has been in the background for coming up on a year, probably gotten longer. And China's high-performance computing systems are largely based on Chinese electronics anyhow. And so that's -- I think our condition won't materially change going forward."
+        },
+        {
+          "topic": "Mellanox Integration",
+          "content": "High-performance networking and high-performance computing go hand-in-hand. And the reason for that is because the problems we're trying to solve no longer fit in one computer, no matter how big it is. And so it has to be distributed. And when you distribute a computational workload of such intense scale, the communications overhead becomes one of its greatest bottlenecks, which is the reason why Mellanox is so valuable."
+        },
+        {
+          "topic": "Closing Remarks",
+          "content": "We had a great and busy quarter. With our announcements, we highlighted several initiatives. First, computing is moving to data center scale where computing and networking go hand in hand. The acquisition of Mellanox gives us deep expertise and scale to innovate from end to end. Second, AI is the most powerful technology force of our time."
+        }
+      ],
+      "closing_remarks": "2018 was a record year but it was a disappointing finish. This quarter, we expect to put the channel inventory issue behind us and get back on track. As the pioneer of accelerated computing, our position is unique and strong. And the opportunities ahead in graphic, high performance computing, AI and autonomous machines remain enormous. Thanks everyone for joining us today."
+    },
+    "colette_kress": {
+      "role": "CFO",
+      "responses": [
+        {
+          "topic": "Data Center Visibility",
+          "content": "We have indicated a couple of quarters ago that we were starting to see improved visibility after we came out of the digestion period in the prior overall fiscal year. As we move into Q2, we still have visibility and solid visibility into our Q2 results for overall data centers."
+        },
+        {
+          "topic": "Gaming Business",
+          "content": "Some of the pieces that we had seen related to COVID-19 in Q1 may carry over into Q2. COVID-19, in fact, had an impact in terms of our retail channels as well as our iCafes. However, as we discussed, efficiently, moved to overall e-tail. We have normally been seasonally down in desktop between Q1 and Q2."
+        },
+        {
+          "topic": "Gross Margins",
+          "content": "We are guiding Q2 non-GAAP gross margins at 66%. This is -- would be another record gross margin quarter just as we finished an overall record level, even as we are continuing right now to ramp our overall Ampere architecture within that. The Q2 also incorporates Mellanox."
+        },
+        {
+          "topic": "OpEx Guidance",
+          "content": "We've guided the non-GAAP at approximately $4.1 billion for the year. Yes, that incorporates 3 full quarters of Mellanox, Mellanox and its employees. We have about close to 3,000 Mellanox employees coming on board. You are correct. We have a 53rd week in this quarter -- excuse me, not this quarter, this year."
+        },
+        {
+          "topic": "Mellanox Growth",
+          "content": "At this time, it's a little early for us. And as you know, we generally just go 1 quarter out, and we're excited to bring the Mellanox team on board so we can start beginning the future of building products together. For the overall margin, their overall performance over the last couple of quarters, they had a great last year."
+        }
+      ]
+    }
+  },
+  "analyst_questions": [
+    {
+      "analyst": "Aaron Rakers",
+      "firm": "Wells Fargo",
+      "topic": "Data Center Visibility",
+      "question": "I'm curious of your commentary around visibility in the data center side, that that's comments over the last couple of quarters, how would you characterize your visibility today relative to maybe what it was last quarter? And how do we think about the visibility in the context of trends maybe into the back half of the calendar year."
+    },
+    {
+      "analyst": "Stacy Rasgon",
+      "firm": "Bernstein Research",
+      "topic": "Gaming Commentary",
+      "questions": [
+        "You sort of mentioned a couple of offsets. COVID potentially still a headwind, e-tail or tailwind and maybe offsetting each other. Were you trying to suggest that those did offset completely and gaming was kind of flattish into Q2?",
+        "If it's growing, I mean like in prior years, we've seen it grow like very strong double digits. Obviously, the mix of the business was different back then. But do you think that the kind of -- I mean are we thinking kind of it's up somewhat? Is there any chance that it could be up like on -- for what we've seen in terms of like typical levels in the past?"
+      ]
+    },
+    {
+      "analyst": "Joseph Moore",
+      "firm": "Morgan Stanley",
+      "topic": "Ampere Rollout",
+      "question": "I wanted to ask about the rollout of Ampere how quickly does that roll in the various segments between hyperscale as well as on the DGX side as well as on the HPC side. And is it a smooth transition? Is there -- I remember when you launched Volta, there was a little bit of a transitional pause."
+    },
+    {
+      "analyst": "Vivek Arya",
+      "firm": "Bank of America",
+      "topics": ["Gross Margins", "Inference Growth"],
+      "questions": [
+        "66% kind of the new baseline for gross margin?",
+        "Give us a sense for how much inference as a workload and payer as a product are expected to contribute? I'm just curious where you are in terms of growing in the inference and edge AI market? And where are we kind of in the journey of Ampere penetration?"
+      ]
+    },
+    {
+      "analyst": "C.J. Muse",
+      "firm": "Evercore",
+      "topics": ["Mellanox Growth", "COVID Impact"],
+      "questions": [
+        "Can you help us with what you think the growth rate for Mellanox could look like in calendar '20?",
+        "How do you think about the long-lasting impact of COVID on worldwide demand for AI?"
+      ]
+    },
+    {
+      "analyst": "Toshiya Hari",
+      "firm": "Goldman Sachs",
+      "topics": ["Gross Margins", "Trade Landscape"],
+      "questions": [
+        "What are some of the offsets that are pulling down gross margins in the current quarter?",
+        "How should we be thinking about the cadence and OpEx going forward, given the 6-month pull in that you guys talked about on the compensation side?",
+        "Could you comment on the current trade landscape between the U.S. and China?"
+      ]
+    },
+    {
+      "analyst": "Mark Lipacis",
+      "firm": "Jefferies",
+      "topic": "A100 Evolution",
+      "question": "I'm trying to understand how this kind of fits into the evolution of your solution set over time and the evolution of the demand for the applications... is this part of the kind of general purpose computing or acceleration framework that you had talked about in the past, Jensen, where Ampere is kind of like an Ampere-class product?"
+    },
+    {
+      "analyst": "Timothy Arcuri",
+      "firm": "UBS",
+      "topics": ["Data Center Business", "Stock Compensation"],
+      "questions": [
+        "How do you handicap your ability to this time, maybe get through any digestion on the CapEx side?",
+        "Stock comp had been running like 220 a quarter, and the guidance implies that it goes to like 460 a quarter. So it goes up a lot. Is that all executive retention? And is that sort of the right level as you look into 2021?"
+      ]
+    },
+    {
+      "analyst": "Harlan Sur",
+      "firm": "JPMorgan",
+      "topic": "Networking and Mellanox",
+      "question": "How does Mellanox' Ethernet switching platforms differ from those provided by other large networking OEMs, some of whom have been your long-term partners? And then how does the Cumulus acquisition fit into the switching and networking strategy as well?"
+    },
+    {
+      "analyst": "William Stein",
+      "firm": "SunTrust",
+      "topic": "Data Center Architecture",
+      "question": "If we think about sort of the evolution of compute architecture going from almost entirely, let's say, REX and REXs CPUs to some future day where we have many more accelerators and maybe a much smaller number of CPUs relative to those. Maybe you can talk to us about where we are in terms of that architectural shift?"
+    },
+    {
+      "analyst": "John Pitzer",
+      "firm": "Crédit Suisse",
+      "topics": ["OpEx Guide", "COVID Impact"],
+      "questions": [
+        "When we look at the full year guide, is there something structural going on OpEx as you try to take advantage of all these opportunities? Or can we use it as sort of a guidepost to how you're thinking about revenue for the back half of the year?",
+        "Has the sort of shelter in place kind of hurt engagement? And could we actually come out of COVID with some pent-up demand in those vertical markets?"
+      ]
+    },
+    {
+      "analyst": "Matthew Ramsay",
+      "firm": "Cowen",
+      "topics": ["Mellanox Innovation", "Gaming Products"],
+      "questions": [
+        "Maybe you could talk a little bit about opportunities to innovate on and customize the Mellanox stack and the balance of having an industry standard?",
+        "Just how you think about gaming product, launch logistics?"
+      ]
+    }
+  ]
+}

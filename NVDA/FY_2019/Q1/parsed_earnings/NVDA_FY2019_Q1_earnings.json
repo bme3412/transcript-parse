@@ -1,0 +1,287 @@
+{
+  "company_name": "NVIDIA Corp.",
+  "quarter": "Q1",
+  "fiscal_year": "2019",
+  "total_revenue": {
+    "value": 3.21,
+    "unit": "billion",
+    "context": "Total revenue for Q1, a record high",
+    "period": "Q1 FY2019"
+  },
+  "segments": [
+    {
+      "name": "Gaming",
+      "revenue": {
+        "value": 1.72,
+        "unit": "billion",
+        "context": "Revenue from the gaming segment, up 68% year-on-year and down 1% sequentially.",
+        "period": "Q1 FY2019"
+      },
+      "growth_yoy": 68.0,
+      "growth_qoq": -1.0,
+      "key_points": [
+        "Strong demand across regions and products",
+        "35% of installed base on Pascal architecture",
+        "Popular titles like Far Cry 5 and Final Fantasy XV drove excitement",
+        "Launch of NVIDIA RTX real-time ray tracing technology",
+        "Supply constraints eased, normalizing GPU prices",
+        "Cryptocurrency demand fulfilled with crypto-specific GPUs"
+      ]
+    },
+    {
+      "name": "Datacenter",
+      "revenue": {
+        "value": 0.701,
+        "unit": "billion",
+        "context": "Revenue from the datacenter segment, up 71% year-on-year and up 16% sequentially.",
+        "period": "Q1 FY2019"
+      },
+      "growth_yoy": 71.0,
+      "growth_qoq": 16.0,
+      "key_points": [
+        "Strong demand across all market segments",
+        "Adoption of Volta architecture across verticals",
+        "Public cloud adoption by Microsoft Azure, Amazon, IBM, Oracle, and Google Cloud",
+        "High-performance computing strength offset supercomputing project ramp-down",
+        "Inference GPU shipments to cloud providers more than doubled QoQ",
+        "Launch of TensorRT 4 AI inference accelerator software"
+      ]
+    },
+    {
+      "name": "Pro Visualization",
+      "revenue": {
+        "value": 0.251,
+        "unit": "billion",
+        "context": "Revenue from the pro visualization segment, up 22% year-on-year.",
+        "period": "Q1 FY2019"
+      },
+      "growth_yoy": 22.0,
+      "growth_qoq": null,
+      "key_points": [
+        "Demand for real-time rendering and emerging applications like AI and VR",
+        "Key wins included Columbia University and Siemens",
+        "Launch of Quadro GV100 GPU with NVIDIA RTX technology"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "revenue": {
+        "value": 0.145,
+        "unit": "billion",
+        "context": "Revenue from the automotive segment, up 4% year-on-year.",
+        "period": "Q1 FY2019"
+      },
+      "growth_yoy": 4.0,
+      "growth_qoq": null,
+      "key_points": [
+        "Transition from infotainment to autonomous vehicle development",
+        "Launch of NVIDIA DRIVE Constellation platform",
+        "Estimated TAM of $60 billion by 2035 for autonomous vehicles"
+      ]
+    },
+    {
+      "name": "GPU",
+      "revenue": {
+        "value": 2.77,
+        "unit": "billion",
+        "context": "Revenue from GPU segment, up 77% year-on-year.",
+        "period": "Q1 FY2019"
+      },
+      "growth_yoy": 77.0,
+      "growth_qoq": null,
+      "key_points": []
+    },
+    {
+      "name": "Tegra Processor",
+      "revenue": {
+        "value": 0.442,
+        "unit": "billion",
+        "context": "Revenue from Tegra Processor segment, up 33% year-on-year.",
+        "period": "Q1 FY2019"
+      },
+      "growth_yoy": 33.0,
+      "growth_qoq": null,
+      "key_points": []
+    }
+  ],
+  "operational_metrics": {
+    "gross_margin": {
+      "value": 64.5,
+      "unit": "percentage",
+      "context": "GAAP gross margin, a record high",
+      "period": "Q1 FY2019"
+    },
+    "operating_margin": {
+      "value": 40.4,
+      "unit": "percentage",
+      "context": "GAAP operating margin, a record high",
+      "period": "Q1 FY2019"
+    },
+    "net_income": {
+      "value": 1.24,
+      "unit": "billion",
+      "context": "GAAP net income, a record high",
+      "period": "Q1 FY2019"
+    },
+    "cash_flow": {
+      "value": 1.45,
+      "unit": "billion",
+      "context": "Quarterly cash flow from operations, a record high",
+      "period": "Q1 FY2019"
+    },
+    "other_metrics": {
+      "non_gaap_net_income": {
+        "value": 1.29,
+        "unit": "billion",
+        "context": "Non-GAAP net income",
+        "period": "Q1 FY2019"
+      },
+      "non_gaap_eps": {
+        "value": 2.05,
+        "unit": "dollars",
+        "context": "Non-GAAP EPS",
+        "period": "Q1 FY2019"
+      },
+      "capital_expenditures": {
+        "value": 118.0,
+        "unit": "million",
+        "context": "Capital expenditures",
+        "period": "Q1 FY2019"
+      }
+    }
+  },
+  "future_guidance": {
+    "revenue": {
+      "value": 3.1,
+      "unit": "billion",
+      "context": "Expected revenue for Q2 FY2019",
+      "period": "Q2 FY2019"
+    },
+    "gross_margin": {
+      "value": 63.3,
+      "unit": "percentage",
+      "context": "Expected GAAP gross margin for Q2 FY2019",
+      "period": "Q2 FY2019"
+    },
+    "capital_expenditures": {
+      "value": 140.0,
+      "unit": "million",
+      "context": "Expected capital expenditures midpoint for Q2 FY2019",
+      "period": "Q2 FY2019"
+    }
+  },
+  "strategic_initiatives": [
+    "Expansion of datacenter TAM to $50 billion by 2023",
+    "Launch of TensorRT 4 AI inference accelerator software",
+    "Introduction of DGX-2 system with 2 petaflops computational power",
+    "Launch of NVIDIA DRIVE Constellation platform for autonomous vehicles",
+    "Launch of NVIDIA RTX real-time ray tracing technology"
+  ],
+  "market_opportunities": [
+    {
+      "datacenter": "Estimated TAM of $50 billion by 2023, driven by AI and high-performance computing"
+    },
+    {
+      "autonomous_vehicles": "Estimated TAM of $60 billion by 2035, encompassing 100 million autonomous passenger vehicles and 10 million robo taxis"
+    },
+    {
+      "gaming": "Growing demand for higher GPU performance driven by 4K, VR, and real-time ray tracing"
+    },
+    {
+      "pro_visualization": "Emerging applications like AI and VR driving demand for real-time rendering"
+    }
+  ],
+  "metadata": {
+    "parsed_date": "2024-12-10T18:54:38.739259",
+    "company_ticker": "NVDA",
+    "source": "earnings_call_transcript"
+  },
+  "cfo_commentary": {
+    "cfo_name": "Colette M. Kress",
+    "introduction": [
+      "Q1 revenue reached a record $3.21 billion, up 66% year-over-year, up 10% sequentially and above our outlook of $2.9 billion.",
+      "All measures of profitability set records, with GAAP gross margins at 64.5%, operating margins at 40.4% and net income at $1.24 billion.",
+      "From a reporting segment perspective, Q1 GPU revenue grew 77% from last year to $2.77 billion.",
+      "Tegra Processor revenue rose 33% to $442 million."
+    ],
+    "gaming": [
+      "Gaming revenue was $1.72 billion, up 68% year-on-year and down 1% sequentially.",
+      "Demand was strong and broad-based across regions and products.",
+      "The gaming market remains robust and the popular Battle Royale genre is attracting a new wave of gamers to the GeForce platform.",
+      "Continue to see demand from upgrades with about 35% of our installed base currently on our Pascal architecture.",
+      "Launch of popular titles, like Far Cry 5 and Final Fantasy XV continued to drive excitement in the quarter.",
+      "Gamers are increasingly engaging in social gameplay and gaming is rapidly becoming a spectator sport, while the production value of games continues to increase.",
+      "This dynamic is fueling a virtuous cycle that expands the universe of gamers and drives a mix shift to higher end GPUs.",
+      "At the recent Game Developers Conference, we announced our real-time ray tracing technology, NVIDIA RTX.",
+      "Ray tracing is movie quality rendering technique that delivers lifelike lighting, reflections and shadows.",
+      "We look forward to seeing amazing, cinematic games that take advantage of this technology come to the market later this year, with the pipeline building into next year and beyond.",
+      "Expect RTX, as well as other new technologies like 4K and virtual reality, to continue driving gamers' requirements for higher GPU performance.",
+      "Supply was tight earlier in the quarter, but the situation is now easing.",
+      "Channel prices for our GPUs are beginning to normalize, allowing gamers who had been priced out of the market last quarter to get their hands on the new GeForce GTX at a reasonable price.",
+      "Cryptocurrency demand was again stronger than expected, but we were able to fulfill most of it with crypto-specific GPUs, which are included in our OEM business at $289 million.",
+      "Protected the vast majority of our limited gaming GPU supply for use by gamers.",
+      "Expect crypto-specific revenue to be about one-third of its Q1 level in Q2.",
+      "Gaming notebooks also grew well, driven by an increasing number of thin and light notebooks based on our Max-Q design.",
+      "Nintendo Switch contributed strongly to year-on-year growth, reflecting that platform's continued success."
+    ],
+    "datacenter": [
+      "Datacenter revenue was $0.701 billion, up 71% year-on-year and up 16% sequentially.",
+      "Demand was strong in all market segments and customers increasingly embraced our GPUs and CUDA platform for high-performance computing and AI.",
+      "Adoption of our Volta architecture remained strong across a wide range of verticals and customers.",
+      "Public cloud adoption by Microsoft Azure, Amazon, IBM, Oracle, and Google Cloud.",
+      "High-performance computing strength offset supercomputing project ramp-down.",
+      "Inference GPU shipments to cloud providers more than doubled QoQ.",
+      "Launch of TensorRT 4 AI inference accelerator software.",
+      "Delivered up to 190x performance speed-up relative to CPUs for common applications, such as computer vision, neural machine translation, automatic speech recognition, speech synthesis and recommendation systems.",
+      "Expanded use cases with TensorRT 4, now addressing a much larger portion of deep learning inference workloads.",
+      "Integrated TensorRT into TensorFlow deep learning framework.",
+      "Google Cloud announced Tesla P4 GPU availability on Google Cloud Platform.",
+      "NVIDIA GPUs power five of the world's seven fastest supercomputers.",
+      "Launch of DRIVE Pegasus AI supercomputer for autonomous vehicles, delivering 320 trillion operations per second.",
+      "Introduction of RAPIDS, a GPU-accelerated data analytics and machine learning platform, opening up a $20 billion server market.",
+      "Strong industry support from developers like Adobe, ANSYS, Autodesk, Dassault, and others.",
+      "Increase in TOP500 supercomputer systems using NVIDIA GPUs by 48% from last year, including the #1 and #2 systems."
+    ],
+    "pro_vis": [
+      "Professional Visualization revenue reached $0.251 billion, up 22% year-on-year and up 12% sequentially.",
+      "Driven by demand for real-time rendering, mobile workstations, and emerging applications like AI and VR.",
+      "Emerging applications now represent approximately 35% of Pro Visualization sales.",
+      "Launch of Turing-based Quadro GV100 GPU with NVIDIA RTX technology.",
+      "Key wins included Columbia University and Siemens.",
+      "Introduction of Quadro GV100 GPU with NVIDIA RTX technology."
+    ],
+    "automotive": [
+      "Automotive revenue was $0.145 billion, up 4% year-on-year.",
+      "Transition from infotainment to autonomous vehicle development.",
+      "Launch of NVIDIA DRIVE Constellation platform.",
+      "Estimated TAM of $60 billion by 2035 for autonomous vehicles."
+    ],
+    "financials": [
+      "Q1 GAAP gross margins were 64.5%, and non-GAAP was 64.7%, records that reflect continued growth in our value added platforms.",
+      "GAAP operating expenses were $773 million.",
+      "Non-GAAP operating expenses were $648 million, up 25% year-on-year.",
+      "Continues to invest in key platforms driving long-term growth, including gaming, AI and automotive.",
+      "GAAP net income was a record $1.24 billion and EPS was $1.98, up 45% and 151% respectively from a year earlier.",
+      "Some of the upside was driven by a tax rate of 5% compared to our guidance of 12%.",
+      "Non-GAAP net income was $1.29 billion and EPS was $2.05, both up 141% from a year ago, reflecting the revenue strength as well as gross margins and operating margin expansion and slightly lower tax.",
+      "Quarterly cash flow from operations reached record levels at $1.45 billion.",
+      "Capital expenditures were $118 million.",
+      "Returned $1.95 billion to shareholders in fiscal year 2019 through a combination of quarterly dividends and share repurchases.",
+      "Announced a $0.01 increase in our quarterly dividend to $0.16 effective in Q4 of fiscal 2019.",
+      "Increased share repurchase authorization by $7 billion and intend to return an additional $3 billion to shareholders by the end of fiscal 2020."
+    ],
+    "q2_outlook": [
+      "Expect revenue to be $3.1 billion plus or minus 2%.",
+      "GAAP and non-GAAP gross margins are expected to be 63.3% and 63.5%, respectively, plus or minus 50 basis points.",
+      "GAAP and non-GAAP operating expenses are expected to be approximately $810 million and $685 million, respectively.",
+      "GAAP and non-GAAP OI&E are both expected to be income of approximately $15 million.",
+      "GAAP and non-GAAP tax rates are both expected to be 11%, plus or minus 1%, excluding discrete items.",
+      "Capital expenditures are expected to be approximately $130 million to $150 million."
+    ],
+    "investor_relations": [
+      "Posted an investor presentation summarizing Q1 results and key highlights.",
+      "Committed to returning $3 billion to shareholders through dividends and buybacks by the end of fiscal 2020.",
+      "Upcoming events: JPMorgan Technology Conference on May 15; Bank of America Global Technology Conference on June 5; Annual Meeting of Stockholders online on May 16."
+    ]
+  }
+}
